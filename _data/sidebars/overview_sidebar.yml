@@ -12,7 +12,7 @@ entries:
     folderitems:
 
     - title: About Camp
-      url: /overview.html
+      url: /registration.html
       output: web, pdf
 #      type: homepage
 
