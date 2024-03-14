@@ -1,0 +1,23 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- product: Release Notes
+  version:
+  folders:
+
+- title: 
+  folders:
+  
+  - title: Version v0.9
+    output: web, pdf
+    folderitems:
+
+    - title: Version v0.9b (beta)
+      url: /v09beta.html
+      output: web, pdf
+
+    - title: Version v0.9a (alpha)
+      url: /v09alpha.html
+      output: web, pdf
+
+# Copyright 2021 Google LLC

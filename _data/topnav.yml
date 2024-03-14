@@ -1,0 +1,26 @@
+## Topnav single links
+## if you want to list an external url, use external_url instead of url. the theme will apply a different link base.
+topnav:
+- title: Topnav
+  items:
+    - title: Overview
+      url: /25index.html
+    - title: Winter Camp '25
+      url: /25index.html
+    - title: Winter Camp '24
+      url: /24index.html
+
+#Topnav dropdowns
+topnav_dropdowns:
+- title: Topnav dropdowns
+  folders:
+    - title: Links
+      folderitems:
+        - title: '24 Camp Participant Survey'
+          external_url: https://docs.google.com/forms/d/e/1FAIpQLSe85gujOlZmnkBI9uvmW-MyPlYOoVRPFQPYKoGMD5AZ_JLnjA/viewform
+        - title: PM Dances '24 WhatsApp
+          external_url: https://chat.whatsapp.com/HrixjosWA4fLMsCFL8Vnyg
+        - title: PM Announcements '24 WhatsApp
+          external_url: https://chat.whatsapp.com/BDOMSleBDhu3a2uvrwGPjj
+
+# Copyright 2021 Google LLC

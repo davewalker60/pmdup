@@ -1,0 +1,87 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- product: Winter Camp Overview
+  version: 
+
+- title: 
+  folders:
+  
+  - title: About Camp
+    output: web, pdf
+    folderitems:
+
+    - title: About Camp
+      url: /overview.html
+      output: web, pdf
+#      type: homepage
+
+    - title: About Puerto Morelos
+      url: /tutorial.html
+      output: web, pdf
+
+    - title: Site Updates
+      url: /contribute-to-the-project.html
+      output: web, pdf
+
+    - title: Quick Reference LInks
+      url: /create-account.html
+      output: web, pdf
+
+  - title: Preparing for Camp
+    output: web, pdf
+    folderitems:
+
+    - title: Installing the Backend System
+      url: /install-backend.html
+      output: web, pdf
+
+    - title: Installing the App SDK
+      url: /install-sdk.html
+      output: web, pdf
+
+    - title: Installing the Web Portal
+      url: /install-portal.html
+      output: web, pdf
+
+    - title: Connecting your Database
+      url: /configure-database.html
+      output: web, pdf
+
+  - title: While at Camp
+    output: web, pdf
+    folderitems:
+
+    - title: Overview
+      url: /create-app.html
+      output: web, pdf
+
+      subfolders:
+      - title: Building the Mobile App
+        output: web, pdf
+        subfolderitems:
+           
+        - title: Creating Eligibility Questions
+          url: /create-eligibility-questions.html
+          output: web, pdf
+
+    - title: Configuring the App
+      url: /configure-app.html
+      output: web, pdf
+
+    - title: Testing the App
+      url: /test-app.html
+      output: web, pdf
+  
+  - title: Quick Reference
+    output: web, pdf
+    folderitems:
+
+    - title: Site Updates
+      url: /contribute-to-the-project.html
+      output: web, pdf
+
+    - title: LInks
+      url: /create-account.html
+      output: web, pdf
+# Copyright 2021 Google LLC
