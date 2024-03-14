@@ -1,0 +1,119 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- product: Not using - product level commented out in sidebar.html
+  version: 
+
+- title: Not using - product level commented out in sidebar.html
+  folders:
+  
+  - title: About Camp
+    output: web, pdf
+    folderitems:
+
+    - title: A Different Kind of Camp
+      url: /about-camp.html
+      output: web, pdf
+#      type: homepage
+
+    - title: Leaders
+      url: /overview.html
+      output: web, pdf
+
+    - title: Activities
+      url: /overview.html
+      output: web, pdf
+  
+  - title: About PM & QRoo
+    output: web, pdf
+    folderitems:
+
+    - title: Puerto Morelos
+      url: /tutorial.html
+      output: web, pdf
+
+    - title: Snorkeling
+      url: /contribute-to-the-project.html
+      output: web, pdf
+
+    - title: Cenotes
+      url: /create-account.html
+      output: web, pdf
+
+    - title: Mayan Ruins
+      url: /create-account.html
+      output: web, pdf
+
+  - title: Preparing for Camp
+    output: web, pdf
+    folderitems:
+
+    - title: All Topics
+      url: /all-prep.html
+      output: web, pdf
+
+    - title: WhatsApp
+      url: /whatsapp.html
+      output: web, pdf
+
+    - title: Cell Phones
+      url: /cell-phones.html
+      output: web, pdf
+
+    - title: Registration
+      url: /registration.html
+      output: web, pdf
+
+    - title: Lodging
+      url: /registration.html
+      output: web, pdf
+
+    - title: Travel
+      url: /install-sdk.html
+      output: web, pdf
+
+    - title: Covid Care Guidelines
+      url: /covid-content.html
+      output: web, pdf
+
+    - title: Acquiring Pesos
+      url: /before-camp.html
+      output: web, pdf
+
+  - title: While at Camp
+    output: web, pdf
+    folderitems:
+
+    - title: Camp Schedule
+      url: /create-app.html
+      output: web, pdf
+
+      subfolders:
+      - title: Building the Mobile App
+        output: web, pdf
+        subfolderitems:
+           
+        - title: Creating Eligibility Questions
+          url: /create-eligibility-questions.html
+          output: web, pdf
+
+    - title: Partial Attendance
+      url: /configure-app.html
+      output: web, pdf
+
+    - title: Tipping
+      url: /test-app.html
+      output: web, pdf
+  
+  - title: Quick Reference
+    output: web, pdf
+    folderitems:
+
+    - title: Site Updates
+      url: /contribute-to-the-project.html
+      output: web, pdf
+
+    - title: Links
+      url: /create-account.html
+      output: web, pdf
+# Copyright 2021 Google LLC
