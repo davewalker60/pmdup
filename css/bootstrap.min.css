@@ -238,7 +238,8 @@ th {
     :after,
     :before {
         /*color:#000!important;*/
-        /*background:0 0!important;*/
+        /*background:0 0!important*/
+        ;
     }
     a,
     a:visited {
@@ -1833,7 +1834,7 @@ blockquote {
     margin: 0 0 20px;
     font-size: 17.5px;
     border-left: 5px solid #eee
-} */
+}
 
 blockquote ol:last-child,
 blockquote p:last-child,
