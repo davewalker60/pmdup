@@ -6,4 +6,4 @@ permalink: whatsapp.html
 toc: false
 ---
 
-WTF
+{% include_relative whatsapp-content.md %}

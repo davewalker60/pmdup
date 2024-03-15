@@ -6,4 +6,4 @@ permalink: cell-phones.html
 toc: false
 ---
 
-WTF
+{% include_relative cell-phones-content.md %}

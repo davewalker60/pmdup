@@ -1,12 +1,3 @@
----
-title: Registration
-sidebar: overview_sidebar
-sidebar_link: 59
-permalink: registration.html
-toc: false
-
----
-
 #### Mexico plans
 
 - Refer to your mobile phone’s plan details to see if using your phone in Mexico is included in your plan to avoid surprises! For example, Verizon plans that **don’t** include Mexico charge $10/day or $100/month to use your phone outside of the US.

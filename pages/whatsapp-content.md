@@ -1,12 +1,3 @@
----
-title: Registration
-sidebar: overview_sidebar
-sidebar_link: 59
-permalink: registration.html
-toc: false
-
----
-
 #### Chat groups
 
 - **PM Announcements ‘24** for daily camp announcements by staff only (no participant posting). Use https://chat.whatsapp.com/BDOMSleBDhu3a2uvrwGPjj to join. **Please join this group! It’ll be the best way to stay informed of the daily camp schedule.** Anyone can join and anyone can add other people.
