@@ -1,0 +1,206 @@
+/* This file controls the navbar/banner and the nav/side color theme. */
+/* customstyles.css controls the other attributes (fonts, margins, etc). */
+
+:root {
+    --sand_color: #f9e98e;
+    --sea_color: #40bfd0;
+    --ocean_color: #4f42b5;
+    --sky_color: #87ceeb;
+    --heading_color: #1b212c;
+    --banner_gradient: linear-gradient(to top, var(--sand_color), var(--sea_color), var(--sky_color));
+    --banner_color: #40bfd0;
+    --banner_text_color: #333;
+    --banner_text_hover_color: #eee;
+    --l1_color: #eee;
+    --l1_text_color: var(--banner_text_color);
+    --l1_hover_color: var(--banner_color);
+    --l1_text_hover_color: var(--banner_text_hover_color);
+    --l23_color: var(--l1_color);
+    --l23_text_color: var(--banner_text_color);
+    --l23_hover_color: #8d8d8d;
+    --l23_text_hover_color: #f0f0f0;
+  }
+
+.summary {
+    color: #808080;
+    border-left: 5px solid #4978c4;
+    font-size:16px;
+}
+
+h1 {color: var(--heading_color);}
+h2 {color: var(--heading_color);}
+h3 {color: var(--heading_color);}
+h4 {color: var(--heading_color);}
+
+/* BANNER / TOP NAV */
+.navbar {
+    background: var(--banner_gradient);
+}
+
+div.navbar-collapse .dropdown-menu > li > a:hover {
+    background-color: var(--banner_color);
+    color: var(--banner_text_hover_color);
+}
+
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
+    background-color: var(--blue_color);
+    color:  var(--banner_text_color);
+}
+
+/* This controls the main banner and banner text colors */
+.navbar-inverse {
+    background-color: var(--banner_color);
+    border-color: var(--banner_color);
+    border: none;
+}
+
+.navbar-inverse .navbar-nav>li>a, .navbar-inverse .navbar-brand {
+    color: var(--banner_text_color);
+}
+
+.navbar-inverse .navbar-nav>li>a:hover, a.fa.fa-home.fa-lg.navbar-brand:hover {
+    color: var(--banner_text_hover_color);
+}
+
+.navbar-inverse a.navbar-brand:hover {
+    color: var(--banner_text_hover_color);
+}
+
+navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:hover, .navbar-inverse .navbar-nav > .open > a:focus {
+    background-color: var(--banner_color);
+    color: var(--banner_text_hover_color);
+}
+
+/* not sure if using this ...*/
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+    border-color: var(--banner_color) !important;
+}
+
+.navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus {
+    background-color: transparent;
+    color: var(--banner_text_color);
+}
+
+.navbar-inverse .navbar-toggle:focus, .navbar-inverse .navbar-toggle:hover {
+    background-color: var(--blue_color);
+}
+
+.navbar-inverse .navbar-toggle {
+    border-color: var(--blue_color);
+}
+
+.btn-primary {
+    color: green;
+    background-color: var(--banner_color);
+    border-color: var(--banner_color);
+}
+
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active,
+.btn-primary.active,
+.open .dropdown-toggle.btn-primary {
+    background-color: #4978c4;
+    border-color: var(--banner_color);
+}
+
+a[data-toggle="tooltip"] {
+    color: #649345;
+    font-style: italic;
+    cursor: default;
+}
+
+/* SIDEBAR / LEFT NAV */
+.nav a {
+    background-color: var(--l1_color);
+    color: var(--l1_text_color);
+}
+/*
+.nav li a {
+    background-color: var(--l1_color);
+}
+*/
+
+.nav > li > a:hover {
+    background-color: var(--l1_hover_color);
+    color: var(--l1_text_hover_color);
+}
+
+/* Level 1 selected */
+.nav > li.active > a {
+    background-color: var(--l1_hover_color);
+    color: var(--l1_text_hover_color);
+}
+
+/* Sidebar Level 2 & 3 */
+.nav ul li a {
+    background-color: var(--l23_color);
+    color: var(--l23_text_color);
+}
+
+.nav a:hover {
+    background-color: var(--l23_hover_color);
+    color: var(--l23_text_hover_color);
+}
+
+.nav li.active > a.subfoldersTitle {
+    background-color: whitesmoke;
+    font-weight: bold;
+    color: black;
+}
+
+/*.nav li.thirdlevel > a {
+    background-color: var(--l23_color)!important;
+    color: #4978c4;
+    font-weight: bold;
+}*/
+
+.printTitle {
+    color: var(--blue_color) !important;
+}
+
+body.print h1 {color: var(--blue_color) !important; font-size:28px !important;}
+body.print h2 {color: #595959 !important; font-size:20px !important;}
+body.print h3 {color: #E50E51 !important; font-size:14px !important;}
+body.print h4 {color: #679DCE !important; font-size:14px; font-style: italic !important;}
+
+img {
+    box-shadow: 0px 6px 10px 0px #dddddd;
+    border-radius: 8px;
+}
+
+img.noborder {
+    box-shadow: 0px 0px 0px 0px;
+    border-radius: none;
+}
+
+img.thinborder {
+    box-shadow: 0px 0px 0px 0px;
+    border-radius: 8px;
+    border: 1px solid var(--banner_color);
+}
+
+.anchorjs-link:hover {
+    color: #216f9b;
+}
+
+div.sidebarTitle {
+    color: #333333;
+}
+
+li.sidebarTitle {
+    text-align: center;
+    padding: 10px 0 10px 0;
+    font-weight: bold;
+    /* font-size: 90%; */
+    background: white; /*var(--banner_color);*/
+    color: var(--banner_text_color);
+}
+
+.sidebartext{
+    color: var(--heading_color);
+    font-weight: bold;
+    text-align: center;
+    margin-top: 25px; 
+    margin-bottom: 5px; 
+}

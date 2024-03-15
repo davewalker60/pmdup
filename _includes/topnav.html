@@ -8,14 +8,16 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="fa fa-home fa-lg navbar-brand" href="index.html">&nbsp;<span class="projectTitle"> {{site.topnav_title}}</span></a>
+<!-- Replace w/DUP logo  <a class="fa fa-home fa-lg navbar-brand" href="{{ site.url | append: site.baseurl }}/index.html"><span class="projectTitle"> {{site.topnav_title}}</span></a> -->
+            <a class="navbar-brand" href="{{ site.url | append: site.baseurl }}/index.html"><span class="projectTitle"><img src="{{ "images/duplogo-black.gif" }}" height="24" class="noborder"> {{site.topnav_title}}</span></a>
         </div>
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-            <ul class="nav navbar-nav navbar-right">
+<!-- Separate nav from navbar! <ul class="nav navbar-nav navbar-right"> -->
+            <ul class="navbar-nav navbar-right">
                 <!-- toggle sidebar button -->
-                <li><a id="tg-sb-link" href="#"><i id="tg-sb-icon" class="fa fa-toggle-on"></i> Nav</a></li>
-                <!-- entries without drop-downs appear here -->
+<!-- Hide toggle <li><a id="tg-sb-link" href="#"><i id="tg-sb-icon" class="fa fa-toggle-on"></i> Side Nav</a></li> -->
 
+                <!-- entries without drop-downs start here -->
 {% assign topnav = site.data[page.topnav] %}
 {% assign topnav_dropdowns = site.data[page.topnav].topnav_dropdowns %}
 
@@ -30,7 +32,7 @@
                 {% endif %}
                 {% endfor %}
                 {% endfor %}
-                <!-- entries with drop-downs appear here -->
+                <!-- entries with drop-downs start here -->
                 <!-- conditional logic to control which topnav appears for the audience defined in the configuration file.-->
                 {% for entry in topnav_dropdowns %}
                 {% for folder in entry.folders %}
@@ -50,8 +52,12 @@
                 </li>
                 {% endfor %}
                 {% endfor %}
-                {% if site.feedback_disable == null or site.feedback_disable == false %}
-			{% include feedback.html %}
+
+<!-- Put a little space between the tabs and the static stuff -->
+            <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
+
+            {% if site.feedback_disable == null or site.feedback_disable == false %}
+ 			    {% include feedback.html %}
 		{% endif %}
                 <!--comment out this block if you want to hide search-->
                 <li>
@@ -60,12 +66,13 @@
                         <input type="text" id="search-input" placeholder="{{site.data.strings.search_placeholder_text}}">
                         <ul id="results-container"></ul>
                     </div>
-                    <script src="{{ "js/jekyll-search.js"}}" type="text/javascript"></script>
+                   
+                     <script src="{{ site.url | append: site.baseurl }}/js/jekyll-search.js"></script>
                     <script type="text/javascript">
                             SimpleJekyllSearch.init({
                                 searchInput: document.getElementById('search-input'),
                                 resultsContainer: document.getElementById('results-container'),
-                                dataSource: '{{ "search.json" }}',
+                                dataSource:  '{{ site.url | append: site.baseurl }}/search.json',
                                 searchResultTemplate: '<li><a href="{url}" title="{{page.title | escape }}">{title}</a></li>',
                     noResultsText: '{{site.data.strings.search_no_results_text}}',
                             limit: 10,
