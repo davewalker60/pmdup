@@ -2,23 +2,39 @@
 /* customstyles.css controls the other attributes (fonts, margins, etc). */
 
 :root {
-    --sand_color: #f9e98e;
-    --sea_color: #40bfd0;
-    --ocean_color: #4f42b5;
     --sky_color: #87ceeb;
+    --sea_color: #40bfd0;
+    --sand_color: #ECCCA2;
+    --ocean_color: #4f42b5;
     --heading_color: #1b212c;
-    --banner_gradient: linear-gradient(to top, var(--sand_color), var(--sea_color), var(--sky_color));
+    --banner_gradient: linear-gradient(to top, #f9e98e, var(--sea_color), var(--sky_color));
     --banner_color: #40bfd0;
     --banner_text_color: #333;
     --banner_text_hover_color: #eee;
-    --l1_color: #eee;
+    --l1_back_color: var(--sky_color);
     --l1_text_color: var(--banner_text_color);
-    --l1_hover_color: var(--banner_color);
+    --l1_back_hover_color: var(--sky_color);
     --l1_text_hover_color: var(--banner_text_hover_color);
-    --l23_color: var(--l1_color);
-    --l23_text_color: var(--banner_text_color);
-    --l23_hover_color: #8d8d8d;
-    --l23_text_hover_color: #f0f0f0;
+    --l2_back_color: var(--sea_color);
+    --l2_text_color: var(--banner_text_color);
+    --l2_back_hover_color: var(--sea_color);
+    --l2_text_hover_color: var(--banner_text_hover_color);
+    --l3_back_color: var(--sand_color);
+    --l3_text_color: var(--banner_text_color);
+    --l3_back_hover_color: var(--sand_color);
+    --l3_text_hover_color: var(--banner_text_hover_color);
+/*     --l1_back_color: #eee;
+   --l1_text_color: var(--banner_text_color);
+    --l1_back_hover_color: var(--banner_color);
+    --l1_text_hover_color: var(--banner_text_hover_color);
+    --l2_back_color: var(--l1_back_color);
+    --l2_text_color: var(--banner_text_color);
+    --l2_back_hover_color: #8d8d8d;
+    --l2_text_hover_color: #f0f0f0;
+    --l3_back_color: var(--l1_back_color);
+    --l3_text_color: var(--banner_text_color);
+    --l3_back_hover_color: #8d8d8d;
+    --l3_text_hover_color: #f0f0f0;*/
   }
 
 .summary {
@@ -112,35 +128,35 @@ a[data-toggle="tooltip"] {
 
 /* SIDEBAR / LEFT NAV */
 .nav a {
-    background-color: var(--l1_color);
+    background-color: var(--l1_back_color);
     color: var(--l1_text_color);
 }
 /*
 .nav li a {
-    background-color: var(--l1_color);
+    background-color: var(--l1_back_color);
 }
 */
 
 .nav > li > a:hover {
-    background-color: var(--l1_hover_color);
+    background-color: var(--l1_back_hover_color);
     color: var(--l1_text_hover_color);
 }
 
 /* Level 1 selected */
 .nav > li.active > a {
-    background-color: var(--l1_hover_color);
+    background-color: var(--l1_back_hover_color);
     color: var(--l1_text_hover_color);
 }
 
-/* Sidebar Level 2 & 3 */
+/* Sidebar Level 2 */
 .nav ul li a {
-    background-color: var(--l23_color);
-    color: var(--l23_text_color);
+    background-color: var(--l2_back_color);
+    color: var(--l2_text_color);
 }
 
-.nav a:hover {
-    background-color: var(--l23_hover_color);
-    color: var(--l23_text_hover_color);
+.nav ul li a:hover {
+    background-color: var(--l2_back_hover_color);
+    color: var(--l2_text_hover_color);
 }
 
 .nav li.active > a.subfoldersTitle {
@@ -149,11 +165,16 @@ a[data-toggle="tooltip"] {
     color: black;
 }
 
-/*.nav li.thirdlevel > a {
-    background-color: var(--l23_color)!important;
-    color: #4978c4;
-    font-weight: bold;
-}*/
+/* Sidebar Level 3 */
+.nav ul li ul li a {
+    background-color: var(--l3_back_color);
+    color: var(--l3_text_color);
+}
+
+.nav ul li ul li a:hover {
+    background-color: var(--l3_back_hover_color);
+    color: var(--l3_text_hover_color);
+}
 
 .printTitle {
     color: var(--blue_color) !important;
