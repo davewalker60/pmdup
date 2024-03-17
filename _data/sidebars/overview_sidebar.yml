@@ -20,9 +20,14 @@ entries:
       url: /overview.html
       output: web, pdf
 
-    - title: Activities
-      url: /overview.html
-      output: web, pdf
+      subfolders:
+      - title: Activities
+        output: web, pdf
+        subfolderitems:
+           
+        - title: Dance Sessions
+          url: /dance-sessions.html
+          output: web, pdf
   
   - title: About PM & QRoo
     output: web, pdf
@@ -87,15 +92,6 @@ entries:
     - title: Camp Schedule
       url: /create-app.html
       output: web, pdf
-
-      subfolders:
-      - title: Building the Mobile App
-        output: web, pdf
-        subfolderitems:
-           
-        - title: Creating Eligibility Questions
-          url: /create-eligibility-questions.html
-          output: web, pdf
 
     - title: Partial Attendance
       url: /configure-app.html
