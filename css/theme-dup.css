@@ -127,7 +127,7 @@ a[data-toggle="tooltip"] {
 }
 
 /* SIDEBAR / LEFT NAV LEVEL 1 */
-.nav a {
+.nav a, .nav > li > a:focus {
     background-color: var(--l1_back_color);
     color: var(--l1_text_color);
 }

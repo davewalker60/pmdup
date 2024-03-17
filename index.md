@@ -5,7 +5,7 @@ permalink: index.html
 toc: false
 ---
 
-Welcome to the official website for the Dances of Universal Peace camp held each February 20 miles south of the Cancun airport in Puerto Morelos, Quintana Roo, Mexico.
+Welcome to the official website for the Dances of Universal Peace camp held 20 miles south of the Cancun airport in Puerto Morelos, Quintana Roo, Mexico each February.
 
 Even though the once quaint seaside village is growing and changing, we still love it there and continue to gather as a DUP community each winter to eat, dance, pray, relax, swim, sun, and adventure together.
 
