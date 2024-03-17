@@ -242,14 +242,13 @@ p.post-meta {font-size: 80%; color: #777;}
     list-style: none;
     font-size: 12px;
     background-color: white;
-    position: absolute;
-    top: 40px; /* if you change anything about the nav, you'll prob. need to reset the top and left values here.*/
-    left: 20px;
+    /*position: absolute;*/
+    /* top: 40px; /* if you change anything about the nav, you'll prob. need to reset the top and left values here.*/
+    /* left: 20px;*/
     z-index: -1;
     width:223px;
     border-left: 1px solid #dedede;
 }
-
 
 ul#results-container a {
     background-color: transparent;
@@ -264,16 +263,17 @@ ul#results-container a:hover {
     color: black;
 }
 #search-input {
-    padding: 8px;
-    margin-left:10px;
-    width:20em;
+    padding: 4px;
+    margin-left: -4px;
+    width: 20em;
     font-size: 0.8em;
     border: 1px solid aquamarine;
-    border-radius: 10px;
+    border-radius: 5px;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
-    margin-top:-5px;
+    margin-top: -3px; /* Max minus div allows */
+    border: none;
 }
 /* end search */
 
@@ -463,6 +463,7 @@ ul#mysidebar {
     padding-bottom: 0px;
     /*margin-top: 10px;
     /*margin-bottom: 10px;*/
+    line-height: 25px;
 }
 
 .navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus {
@@ -477,7 +478,7 @@ a.dropdown-toggle, .navbar-inverse .navbar-nav > li > a  {
     /*margin-left: 10px;*/
 }
 
-.navbar a:hover {
+.navbar a {
     text-decoration: none;
 }
 
@@ -489,6 +490,10 @@ span.projectTitle {
     font-family: Helvetica;
     font-weight: bold;
     /*margin-right: 20px;*/
+}
+
+.navbar-inverse .navbar-toggle .icon-bar{
+    background-color: #333;
 }
 /* END TOP/BANNER NAV CUSTOMIZING */
 
@@ -1227,9 +1232,12 @@ h4.panel-title {
     }
     .navbar-toggle {
         display: block;
+        border: none; /* Hide the border */
+        color: #333;
     }
     .navbar-collapse {
-        border-top: 1px solid transparent;
+       /* border-top: 1px solid transparent;*/
+       border: none;
     }
     .navbar-fixed-top {
         top: 0;

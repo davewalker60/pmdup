@@ -82,8 +82,8 @@ div.navbar-collapse .dropdown-menu > li > a:hover {
     color: var(--banner_text_hover_color);
 }
 
-navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:hover, .navbar-inverse .navbar-nav > .open > a:focus {
-    background-color: var(--banner_color);
+.navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:hover, .navbar-inverse .navbar-nav > .open > a:focus {
+    background-color: transparent;
     color: var(--banner_text_hover_color);
 }
 
