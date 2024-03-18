@@ -2,20 +2,22 @@
 /* customstyles.css controls the other attributes (fonts, margins, etc). */
 
 :root {
-/*
-    --sky_color: #87cfeb;
-    --sea_color: #40bfd0;
-    --sand_color: #ced040;
-*/
+/* banner gradient */
+    --sky_color0: hsl(197, 71%, 73%);
+    --sea_color0: hsl(187, 61%, 53%);
+    --sand_color0: hsl(60, 90%, 77%);
+/* active */
     --sky_color1: hsl(197, 70%, 73%);
     --sea_color1: hsl(187, 61%, 53%);
     --sand_color1: hsl(60, 55%, 53%);
+/* hover, selected */
     --sky_color2: hsl(197, 61%, 53%);
     --sea_color2: hsl(187, 61%, 33%);
     --sand_color2: hsl(60, 61%, 33%);
+
     --ocean_color: #4f42b5;
     --heading_color: #1b212c;
-    --banner_gradient: linear-gradient(to top, hsl(60, 90%, 77%), var(--sea_color2), var(--sky_color2));
+    --banner_gradient: linear-gradient(to top, var(--sand_color0), var(--sea_color0), var(--sky_color0));
     --banner_color: #40bfd0;
     --banner_text_color: #333;
     --banner_text_hover_color: #eee;
