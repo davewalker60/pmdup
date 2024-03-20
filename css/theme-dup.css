@@ -9,11 +9,11 @@
 /* active */
     --sky_color1: hsl(197, 70%, 73%);
     --sea_color1: hsl(187, 61%, 53%);
-    --sand_color1: hsl(60, 55%, 53%);
+    --sand_color1: hsl(54, 90%, 65%);
 /* hover, selected */
     --sky_color2: hsl(197, 61%, 53%);
     --sea_color2: hsl(187, 61%, 43%);
-    --sand_color2: hsl(60, 61%, 43%);
+    --sand_color2: hsl(54, 61%, 53%);
 
     --ocean_color: #4f42b5;
     --heading_color: #1b212c;
