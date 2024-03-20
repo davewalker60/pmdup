@@ -3,27 +3,20 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="{% if page.summary %}{{ page.summary | strip_html | strip_newlines | truncate: 160 }}{% endif %}">
 <meta name="keywords" content="{{page.tags}}{% if page.tags %}, {% endif %} {{page.keywords}}">
-<!-- <pre>
-    url: {{ site.url | jsonify | escape }}
-    baseurl: {{ site.baseurl | jsonify | escape }}
-    title: {{ page.title | jsonify | escape }}
-    search: {{ page.search | jsonify | escape }}
-    page: {{ page | jsonify | escape }}
-    layout: {{ layout | jsonify | escape }}
-    content: {{ content | jsonify | escape }}
-    paginator: {{ paginator | jsonify | escape }}
-</pre> -->
 
+<!-- To include simple debugging, move comment close here __
 <pre id="jekyll-debug">
-<script>
-  var obj = JSON.parse(decodeURIComponent("{{ page | jsonify | uri_escape }}"));
-  var prettyJson = JSON.stringify(obj, null, 4);  // Pretty-printed JSON (indented 4 spaces).
-  document.getElementById("jekyll-debug").textContent = prettyJson;
-</script>
-    site.url: {{ site.url | jsonify | escape }}
-    site.baseurl: {{ site.baseurl | jsonify | escape }}
-    page.url: {{ page.url | jsonify | escape }}
+  <script>
+    var obj = JSON.parse(decodeURIComponent("{{ page | jsonify | uri_escape }}"));
+    var prettyJson = JSON.stringify(obj, null, 2);  // Pretty-printed JSON (indented 2 spaces).
+    document.getElementById("jekyll-debug").textContent = prettyJson;
+  </script>
+  paginator: {{ paginator | jsonify | escape }}
+  site.url: {{ site.url | jsonify | escape }}
+  site.baseurl: {{ site.baseurl | jsonify | escape }}
+  page.url: {{ page.url | jsonify | escape }}
 </pre>
+ -->
 
 <title>{{ page.title }} | {{ site.site_title }}</title>
 <link rel="icon" type="image/png" href="{{ site.url | append: site.baseurl }}/images/favicon-full.png">

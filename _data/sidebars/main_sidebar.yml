@@ -12,9 +12,13 @@ entries:
     folderitems:
 
     - title: A Different Kind of Camp
-      url: /about-camp.html
+      url: /about-camp-bullets.html
       output: web, pdf
 #      type: homepage
+
+    - title: Sky's Version
+      url: /about-camp.html
+      output: web, pdf
 
     - title: Leaders
       url: /leaders.html

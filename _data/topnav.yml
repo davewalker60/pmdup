@@ -11,6 +11,8 @@ topnav:
       url: /lodging.html
     - title: Travel
       url: /travel.html
+    - title: Updates
+      url: /updates.html
 
 #Topnav dropdowns
 topnav_dropdowns:
