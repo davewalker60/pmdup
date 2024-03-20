@@ -1,5 +1,5 @@
 ---
-title: All Preparing for Camp Topics
+title: Preparing for Camp - All Topics
 sidebar: main_sidebar
 sidebar_link: 59
 permalink: all-prep.html
