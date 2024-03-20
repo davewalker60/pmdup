@@ -4,7 +4,7 @@ layout: none
 search: exclude
 ---
 
-{% assign pages = site.html_pages | where_exp: "page", "page.title" | where_exp: "page", "page.search != 'exclude'" %}
+{% assign pages = site.html_pages | where_exp: "page", "page.sidebar != 'none'" | where_exp: "page", "page.search != 'exclude'" %}
 [
 {% for page in pages %}
 {

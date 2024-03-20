@@ -74,7 +74,8 @@ defaults:
       comments: false
       # if you don't want to use Commento.io and just hide comments, change true to false wherever you see the comments property
       search: true
-      sidebar: doc_sidebar
+      # dew - set to none as a way for search.json to ignore content includes...
+      sidebar: none 
       topnav: topnav
   -
     scope:
