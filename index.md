@@ -1,6 +1,6 @@
 ---
 title: Puerto Morelos DUP Website
-sidebar: overview_sidebar
+sidebar: main_sidebar
 permalink: index.html
 toc: false
 ---

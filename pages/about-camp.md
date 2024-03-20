@@ -1,6 +1,6 @@
 ---
 title: A Different Kind of Camp
-sidebar: overview_sidebar
+sidebar: main_sidebar
 sidebar_link: 1
 permalink: about-camp.html
 toc: false

@@ -17,7 +17,7 @@ entries:
 #      type: homepage
 
     - title: Leaders
-      url: /overview.html
+      url: /leaders.html
       output: web, pdf
 
       subfolders:
@@ -38,15 +38,15 @@ entries:
       output: web, pdf
 
     - title: Snorkeling
-      url: /contribute-to-the-project.html
+      url: /snorkeling.html
       output: web, pdf
 
     - title: Cenotes
-      url: /create-account.html
+      url: /cenotes.html
       output: web, pdf
 
     - title: Mayan Ruins
-      url: /create-account.html
+      url: /ruins.html
       output: web, pdf
 
   - title: Preparing for Camp
@@ -74,7 +74,7 @@ entries:
       output: web, pdf
 
     - title: Travel
-      url: /install-sdk.html
+      url: /travel.html
       output: web, pdf
 
     - title: Covid Care Guidelines
@@ -82,7 +82,7 @@ entries:
       output: web, pdf
 
     - title: Acquiring Pesos
-      url: /before-camp.html
+      url: /acquiring-pesos.html
       output: web, pdf
 
   - title: While at Camp
@@ -90,15 +90,15 @@ entries:
     folderitems:
 
     - title: Camp Schedule
-      url: /create-app.html
+      url: /camp-schedule.html
       output: web, pdf
 
     - title: Partial Attendance
-      url: /configure-app.html
+      url: /partial-attendance.html
       output: web, pdf
 
     - title: Tipping
-      url: /test-app.html
+      url: /tipping.html
       output: web, pdf
   
   - title: Quick Reference

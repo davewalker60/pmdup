@@ -1,6 +1,6 @@
 ---
 title: Registration
-sidebar: overview_sidebar
+sidebar: main_sidebar
 sidebar_link: 59
 permalink: registration.html
 toc: false
