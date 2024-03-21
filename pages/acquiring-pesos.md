@@ -1,8 +1,8 @@
 ---
-title: Dance Sessions
+title: Acquiring-Pesos
 sidebar: main_sidebar
 sidebar_link: 59
-permalink: dance-sessions.html
+permalink: acquiring-pesos.html
 toc: false
 ---
 

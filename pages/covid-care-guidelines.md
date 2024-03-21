@@ -1,8 +1,8 @@
 ---
-title: Dance Sessions
+title: Covid Care Guidelines
 sidebar: main_sidebar
 sidebar_link: 59
-permalink: dance-sessions.html
+permalink: covid-care-guidelines.html
 toc: false
 ---
 

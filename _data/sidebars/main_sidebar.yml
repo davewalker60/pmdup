@@ -20,8 +20,8 @@ entries:
       url: /about-camp.html
       output: web, pdf
 
-    - title: Leaders
-      url: /leaders.html
+    - title: Staff
+      url: /staff.html
       output: web, pdf
 
       subfolders:
@@ -38,7 +38,7 @@ entries:
     folderitems:
 
     - title: Puerto Morelos
-      url: /tutorial.html
+      url: /puerto-morelos.html
       output: web, pdf
 
     - title: Snorkeling
@@ -50,10 +50,26 @@ entries:
       output: web, pdf
 
     - title: Mayan Ruins
-      url: /ruins.html
+      url: /mayan-ruins.html
       output: web, pdf
 
-  - title: Preparing for Camp
+  - title: Registration
+    output: web, pdf
+    folderitems:
+
+    - title: Register
+      url: /register.html
+      output: web, pdf
+
+    - title: Arrange Lodging
+      url: /arrange-lodging.html
+      output: web, pdf
+
+    - title: Arrange Travel
+      url: /arrange-travel.html
+      output: web, pdf
+  
+  - title: Before Leaving Home
     output: web, pdf
     folderitems:
 
@@ -69,20 +85,8 @@ entries:
       url: /cell-phones.html
       output: web, pdf
 
-    - title: Registration
-      url: /registration.html
-      output: web, pdf
-
-    - title: Lodging
-      url: /registration.html
-      output: web, pdf
-
-    - title: Travel
-      url: /travel.html
-      output: web, pdf
-
     - title: Covid Care Guidelines
-      url: /covid-content.html
+      url: /covid-care-guidelines.html
       output: web, pdf
 
     - title: Acquiring Pesos
@@ -105,15 +109,15 @@ entries:
       url: /tipping.html
       output: web, pdf
   
-  - title: Quick Reference
+  - title: Site Updates
     output: web, pdf
     folderitems:
 
     - title: Site Updates
-      url: /contribute-to-the-project.html
+      url: /site-updates.html
       output: web, pdf
 
     - title: Links
-      url: /create-account.html
+      url: /links.html
       output: web, pdf
 # Copyright 2021 Google LLC
