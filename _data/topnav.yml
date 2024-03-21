@@ -4,15 +4,15 @@ topnav:
 - title: Topnav
   items:
     - title: About Camp
-      url: /index.html
+      url: /about-camp.html
     - title: Registration
-      url: /registration.html
+      url: /register.html
     - title: Lodging
-      url: /lodging.html
+      url: /arrange-lodging.html
     - title: Travel
-      url: /travel.html
+      url: /arrange-travel.html
     - title: Updates
-      url: /updates.html
+      url: /site-updates.html
 
 #Topnav dropdowns
 topnav_dropdowns:
@@ -20,7 +20,7 @@ topnav_dropdowns:
   folders:
     - title: Links
       folderitems:
-        - title: '24 Camp Participant Survey'
+        - title: 2024 Camp Participant Survey
           external_url: https://docs.google.com/forms/d/e/1FAIpQLSe85gujOlZmnkBI9uvmW-MyPlYOoVRPFQPYKoGMD5AZ_JLnjA/viewform
         - title: PM Dances '24 WhatsApp
           external_url: https://chat.whatsapp.com/HrixjosWA4fLMsCFL8Vnyg

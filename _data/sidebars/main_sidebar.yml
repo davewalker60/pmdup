@@ -109,7 +109,7 @@ entries:
       url: /tipping.html
       output: web, pdf
   
-  - title: Site Updates
+  - title: Reference Info
     output: web, pdf
     folderitems:
 
@@ -118,6 +118,6 @@ entries:
       output: web, pdf
 
     - title: Links
-      url: /links.html
+      url: /external-links.html
       output: web, pdf
 # Copyright 2021 Google LLC

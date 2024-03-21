@@ -12,4 +12,4 @@ Because it is an open container, rather than a closed one, the camp embraces a n
 
 We also believe the community creates the experience, rather than having a focus on specific teachers; our core values are connection and Presence, both within and outside the Dance sessions.
 
-This vision was set into place by Bernie, later joined by Sky, and you can see more about how we work here: https://skyness.net/wp-content/uploads/2023/04/Bernie-and-Sky-Why-come.pdf.
+This vision was set into place by Bernie, later joined by Sky, and you can see more about how we work at [https://skyness.net/wp-content/uploads/2023/04/Bernie-and-Sky-Why-come.pdf](https://skyness.net/wp-content/uploads/2023/04/Bernie-and-Sky-Why-come.pdf).
