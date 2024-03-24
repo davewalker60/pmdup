@@ -16,6 +16,7 @@
             <ul class="navbar-nav navbar-right">
                 <!-- toggle sidebar button -->
 <!-- Hide toggle <li><a id="tg-sb-link" href="#"><i id="tg-sb-icon" class="fa fa-toggle-on"></i> Side Nav</a></li> -->
+                <li style="left-margin: -10px;"><i><b>Quick Reference:</b></i></li>
 
                 <!-- entries without drop-downs start here -->
 {% assign topnav = site.data[page.topnav] %}
@@ -53,8 +54,8 @@
                 {% endfor %}
                 {% endfor %}
 
-<!-- Put a little space between the tabs and the static stuff -->
-            <li>&nbsp;</li>
+<!-- Put a little space between the tabs and the static stuff
+            <li>&nbsp;</li> -->
 
             {% if site.feedback_disable == null or site.feedback_disable == false %}
  			    {% include feedback.html %}
