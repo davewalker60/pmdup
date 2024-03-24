@@ -108,6 +108,14 @@ entries:
     - title: Tipping
       url: /tipping.html
       output: web, pdf
+
+  - title: After Camp
+    output: web, pdf
+    folderitems:
+
+    - title: Nightlife
+      url: /nightlife.html
+      output: web, pdf
   
   - title: Reference Info
     output: web, pdf
