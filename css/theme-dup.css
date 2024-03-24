@@ -21,9 +21,9 @@
     --banner_color: #40bfd0;
     --banner_text_color: #000;
     --banner_text_hover_color: /*#fff;*/var(--sand_color1);
-    --l1_back_color: var(--sea_color0);
+    --l1_back_color: var(--sea_color1);
     --l1_text_color: var(--banner_text_color);
-    --l1_back_hover_color: var(--sand_color1);
+    --l1_back_hover_color: var(--sand_color0);
     --l1_text_hover_color: var(--banner_text_color);
     --l2_back_color: var(--sea_color1);
     --l2_text_color: var(--banner_text_color);
@@ -31,7 +31,7 @@
     --l2_text_hover_color: var(--banner_text_color);
     --l3_back_color: var(--sea_color1);
     --l3_text_color: var(--banner_text_color);
-    --l3_back_hover_color: var(--sand_color1);
+    --l3_back_hover_color: var(--sand_color2);
     --l3_text_hover_color: var(--banner_text_color);
 /*     --l1_back_color: #eee;
    --l1_text_color: var(--banner_text_color);
