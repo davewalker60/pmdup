@@ -68,6 +68,10 @@ div.navbar-collapse .dropdown-menu > li > a:hover {
     color: var(--banner_text_hover_color);
 }
 
+.dropdown-menu {
+    background-color: var(--banner_color);
+}
+
 .nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
     background-color: var(--blue_color);
     color:  var(--banner_text_color);
@@ -113,6 +117,18 @@ div.navbar-collapse .dropdown-menu > li > a:hover {
 
 .navbar-inverse .navbar-toggle {
     border-color: var(--blue_color);
+}
+
+.navbar-inverse .navbar-nav .open .dropdown-menu > li > a:hover {
+    color: var(--banner_text_hover_color);
+}
+
+.navbar-inverse .navbar-nav>li>a:hover, a.fa.fa-home.fa-lg.navbar-brand:hover {
+    color: var(--banner_text_hover_color);
+}
+
+.navbar-inverse .navbar-nav>li>a:focus {
+    color: var(--banner_text_color);
 }
 
 .btn-primary {
