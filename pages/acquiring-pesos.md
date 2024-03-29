@@ -6,4 +6,4 @@ permalink: acquiring-pesos.html
 toc: false
 ---
 
-{% include_relative coming-soon.md %}
+{% include_relative acquiring-pesos-content.md %}

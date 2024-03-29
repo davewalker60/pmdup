@@ -14,6 +14,13 @@ h0 {
     line-height: 1.1;
     color: inherit;
 }
+/* Creating H0alltopics for All Topics subtitles */
+h0alltopics {
+    padding-top: 20px;
+    font-family: inherit;
+    font-size: 33px;
+}
+
 h1 {
     font-size: 30px;
 }

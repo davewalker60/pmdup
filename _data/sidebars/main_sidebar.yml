@@ -16,7 +16,7 @@ entries:
       output: web, pdf
 #      type: homepage
 
-    - title: Sky's Version
+    - title: Sky's Formatting
       url: /about-camp.html
       output: web, pdf
 
@@ -74,19 +74,23 @@ entries:
     folderitems:
 
     - title: All Topics
-      url: /all-prep.html
+      url: /before-leaving-home.html
       output: web, pdf
 
     - title: WhatsApp
       url: /whatsapp.html
       output: web, pdf
 
-    - title: Cell Phones
-      url: /cell-phones.html
-      output: web, pdf
-
     - title: Covid Care Guidelines
       url: /covid-care-guidelines.html
+      output: web, pdf
+
+    - title: Fragrance-Free Camp
+      url: /fragrance-free-camp.html
+      output: web, pdf
+
+    - title: Cell Phones
+      url: /cell-phones.html
       output: web, pdf
 
     - title: Acquiring Pesos

@@ -6,14 +6,24 @@ permalink: about-camp-bullets.html
 toc: false
 ---
 
-Unlike the typical DUP camps that happen at a contained retreat venue with on-site lodging and meals, the Puerto Morelos winter camp:
+Unlike the typical DUP/Sufi camps that happen at a contained retreat venue with on-site lodging and meals, the Puerto Morelos winter camp Is integrated into the town with:
 
-* Is integrated into the town
-* Most meals take place in small groups in restaurants
-* Lodging is spread out in various hotels
-* La brisa del caribe (the often-constant ocean breeze) helps keep us cool in the heat, but adds a lot of frenetic, out-of-balance [vata energy](https://ayurvedichospital.com/en-blog/demystifying-doshas-vata-pitta-kapha){:target="_blank"}, making it:
-  * Harder to contain energy in the dance circle
-  * Harder to ground, go deep
-* Tends toward community building rather than deep spiritual practice
-* Is a DUP community vacation
-* Views snorkeling, cenote and ruin trips, etc not as distractions, but rather as part of what this camp is about.
+* Most meals taking place in small groups in restaurants
+* Lodging spread out in various hotels
+
+Because camp is an open container, rather than a closed one, it embraces a number of activities that enhance people’s experience such as:
+
+* Snorkeling
+* Cenote trips
+* Mayan ruin trips
+* Walks on the beach
+* Exploring restaurants and cuisines
+* Spending time one-on-one or in small groups with other attendees
+* Music jams
+* And even a Super Bowl party
+
+All of these experiences allow for a spaciousness that most camps don’t have. 
+
+We also believe the community creates the experience. Rather than having a focus on specific teachers, our core values are connection and Presence, both within and outside the Dance sessions.
+
+This vision was set into place by Bernie, later joined by Sky, and you can see more about how we work at [https://skyness.net/wp-content/uploads/2023/04/Bernie-and-Sky-Why-come.pdf](https://skyness.net/wp-content/uploads/2023/04/Bernie-and-Sky-Why-come.pdf).

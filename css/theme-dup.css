@@ -9,11 +9,19 @@
 /* active */
     --sky_color1: hsl(197, 70%, 73%);
     --sea_color1: hsl(187, 61%, 53%);
-    --sand_color1: hsl(54, 90%, 65%);
+    --sand_color1: hsl(54, 90%, 45%);
 /* hover, selected */
     --sky_color2: hsl(197, 61%, 53%);
     --sea_color2: hsl(187, 61%, 43%);
     --sand_color2: hsl(54, 61%, 53%);
+
+    
+    --sea_color_a: hsl(187, 61%, 53%);
+    --sea_color_b: hsl(187, 61%, 63%);
+    --sea_color_c: hsl(187, 61%, 73%);
+    --sand_color_a: hsl(54, 90%, 57%);
+    --sand_color_b: hsl(54, 90%, 67%);
+    --sand_color_c: hsl(54, 90%, 77%);
 
     --ocean_color: #4f42b5;
     --heading_color: #1b212c;
@@ -21,6 +29,22 @@
     --banner_color: #40bfd0;
     --banner_text_color: #000;
     --banner_text_hover_color: /*#fff;*/var(--sand_color1);
+    --l1_back_color: var(--sea_color_a);
+    --l1_text_color: var(--banner_text_color);
+    --l1_back_hover_color: var(--sand_color_b);
+    --l1_text_hover_color: var(--banner_text_color);
+    --l2_back_color: var(--sea_color_b);
+    --l2_text_color: var(--banner_text_color);
+    --l2_back_hover_color: var(--sand_color_b);
+    --l2_text_hover_color: var(--banner_text_color);
+    --l3_back_color: var(--sea_color_c);
+    --l3_text_color: var(--banner_text_color);
+    --l3_back_hover_color: var(--sand_color_b);
+
+    --l1_back_selected_color: var(--sand_color0);
+    --l2_back_selected_color: var(--sand_color0);
+    --l3_back_selected_color: var(--sand_color0);
+    /*
     --l1_back_color: var(--sea_color1);
     --l1_text_color: var(--banner_text_color);
     --l1_back_hover_color: var(--sand_color0);
@@ -32,7 +56,7 @@
     --l3_back_color: var(--sea_color1);
     --l3_text_color: var(--banner_text_color);
     --l3_back_hover_color: var(--sand_color2);
-    --l3_text_hover_color: var(--banner_text_color);
+    --l3_text_hover_color: var(--banner_text_color);*/
 /*     --l1_back_color: #eee;
    --l1_text_color: var(--banner_text_color);
     --l1_back_hover_color: var(--banner_color);
@@ -170,7 +194,7 @@ a[data-toggle="tooltip"] {
 
 /* Level 1 selected */
 .nav > li.active > a {
-    background-color: var(--l1_back_hover_color);
+    background-color: var(--l1_back_selected_color);
     color: var(--l1_text_hover_color);
 }
 
@@ -187,7 +211,7 @@ a[data-toggle="tooltip"] {
 
 /* Level 2 selected */
 .nav li ul > li.active > a {
-    background-color: var(--l2_back_hover_color);
+    background-color: var(--l2_back_selected_color);
     color: var(--l2_text_hover_color);
 }
 
@@ -210,7 +234,7 @@ a[data-toggle="tooltip"] {
 
 /* Level 3 selected */
 .nav li ul li ul > li.active > a {
-    background-color: var(--l3_back_hover_color);
+    background-color: var(--l3_back_selected_color);
     color: var(--l3_text_hover_color);
 }
 

@@ -6,4 +6,4 @@ permalink: covid-care-guidelines.html
 toc: false
 ---
 
-{% include_relative coming-soon.md %}
+{% include_relative covid-care-guidelines-content.md %}

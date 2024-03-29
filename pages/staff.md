@@ -8,7 +8,7 @@ toc: false
 
 This topic is for bio and responsibility stuff about the staff... 
 
-## Staff Dance Leaders
+# Staff Dance Leaders
 
 * Bernie Heideman
 * Sky Safir Roshay
@@ -17,7 +17,7 @@ This topic is for bio and responsibility stuff about the staff...
 * Nur al-Haqq Dave Walker
 * Douglas Stevenson
 
-## Admin Staff
+# Admin Staff
 
 * Wayne Talmadge - registrar
 * Nur al-Haqq Dave Walker - camp manager
