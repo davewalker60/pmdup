@@ -15,4 +15,4 @@ Site navigation:
 * Expand the navigation menu to access each individual topic.
 * Expand the **More Options** menu to access quick reference links to the most frequently used items.
 
-*A note about the colors: The colors used in this website are the colors of the sand, sea, and sky found at the Puerto Morelos beaches.*
+*A note about the colors: The colors used in this website are the colors of the sand, sea, and sky of the Puerto Morelos beaches. If you look closely at the gradient banner, you can even see the horizon!*
