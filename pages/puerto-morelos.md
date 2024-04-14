@@ -1,9 +1,9 @@
 ---
 title: Puerto Morelos
 sidebar: main_sidebar
-sidebar_link: 59
+sidebar_link: 5
 permalink: puerto-morelos.html
 toc: false
 ---
 
-{% include_relative coming-soon.md %}
+{% include_relative content/puerto-morelos-content.md %}

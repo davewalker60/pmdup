@@ -32,7 +32,12 @@ entries:
         - title: Dance Sessions
           url: /dance-sessions.html
           output: web, pdf
-  
+
+    - title: Camp History
+      url: /camp-history.html
+      output: web, pdf
+
+
   - title: About PM & QRoo
     output: web, pdf
     folderitems:

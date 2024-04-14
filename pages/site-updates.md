@@ -1,7 +1,7 @@
 ---
 title: Site Updates
 sidebar: main_sidebar
-sidebar_link: 59
+sidebar_link: 22
 permalink: site-updates.html
 toc: false
 ---

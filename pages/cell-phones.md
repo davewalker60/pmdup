@@ -1,8 +1,8 @@
 ---
 title: Cell Phones
 sidebar: main_sidebar
-sidebar_link: 59
+sidebar_link: 16
 permalink: cell-phones.html
 toc: false
 ---
-{% include_relative cell-phones-content.md %}
+{% include_relative content/cell-phones-content.md %}

@@ -1,0 +1,42 @@
+# Ivan's sidebar.py script creates doc_sidebar.yml from this simplified tree structure.
+# Text here becomes text in the sidebar at the corresponding tree (DOCS-indentation) level.
+# Numbers here are file link IDs that correspond to sidebar_link: entries found in the .md file headers. 
+# File link IDs are only allowed on tree level 3 and, when level 3 is just a heading, level 4.
+# Also, due to the way Jekyll parses the tree, each level 3 immediately below a level 2 MUST have a link.
+Not using:
+    About Camp:
+        A Different Kind of Camp: 0
+        Sky's Formatting: 1
+        Staff: 2
+        Activities:
+            Dance Sessions: 3
+        Camp History: 4
+    About PM & QRoo:
+        Puerto Morelos: 5
+        Snorkeling: 6
+        Cenotes: 7
+        Mayan Ruins: 8
+    Registration:
+        Register: 9
+        Arrange Lodging: 10
+        Arrange Travel: 11
+    Before Leaving Home:
+        All Topics: 12
+        WhatsApp: 13
+        Covid Care Guidelines: 14
+        Fragrance-Free Camp: 15
+        Cell Phones: 16
+        Acquiring Pesos: 17
+    While at Camp:
+        Camp Schedule: 18
+        Partial Attendance: 19
+        Tipping: 20
+    After Camp:
+        Nightlife: 21
+    Reference Info:
+        Site Updates: 22
+        Links: 23
+
+    Internal Tracking:
+#        Docs To Do List: 24
+        Broken Links: 63

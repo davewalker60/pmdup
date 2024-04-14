@@ -1,7 +1,7 @@
 ---
 title: A Different Kind of Camp
 sidebar: main_sidebar
-sidebar_link: 1
+sidebar_link: 0
 permalink: about-camp-bullets.html
 toc: false
 ---

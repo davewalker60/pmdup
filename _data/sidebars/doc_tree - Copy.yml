@@ -1,0 +1,117 @@
+# Ivan's sidebar.py script creates doc_sidebar.yml from this simplified tree structure.
+# Text here becomes text in the sidebar at the corresponding tree (DOCS-indentation) level.
+# Numbers here are file link IDs that correspond to sidebar_link: entries found in the .md file headers. 
+# File link IDs are only allowed on tree level 3 and, when level 3 is just a heading, level 4.
+# Also, due to the way Jekyll parses the tree, each level 3 immediately below a level 2 MUST have a link.
+Framework Overview:
+    Get Started:
+        Overview: 0
+        ADAPT Docker Development Kit: 91
+        Getting Started Tutorial: 1
+
+MUFL Language Reference:
+    Foundational Concepts:
+        Overview: 13
+        Data Model:
+            Overview: 14
+            Domains: 15
+            Types vs. Domains: 16
+        Functional Programming: 19
+        Memory Management: 22
+    Programming Guide:
+        Basic Syntax : 26
+        Code Organization:
+            Overview: 73
+            Applications: 82
+            Libraries: 81
+            Scripts: 83
+            Loading: 20
+            Modules: 76
+            Configuration Scripts: 47
+            Configuration Scripts (Advanced): 89
+        Names and Namespaces:
+            Name and Variable Declaration: 80
+            Namespaces and Visibility: 21
+        The Type System:
+            Overview: 27
+            Basic MUFL Types: 28
+            Functional Types: 29
+            Dictionary Types: 30
+            Miscellaneous Type Expressions: 31
+            Defining Types with metadef: 32
+        Functions (The func and return Statements): 37
+        Loops, Error Checking, and Flow Control:
+            The if Statement: 35
+            The scan Statement: 36
+            The break and continue Statements: 74
+            The abort Statement: 71
+        Working with Data:
+            Dictionaries: 17
+            Reductions and Mutations: 39
+            Destructuring with the bind Statement: 40
+            Using References to Mutate Data: 42
+            Guards and Casts: 41
+            Working with Nested Packets (The new database and transact Statements): 18
+            Safe References: 88
+        Cryptography in MUFL:
+            Overview: 43
+            Hashes: 86
+            Blinded Dictionary: 87
+        Packet Interface (Transactions):
+            Overview: 23
+            Defining Transactions (The deftrans Statement): 72
+        Generic Modules: 84
+        Primitives:
+            Primitive Functions: 38
+            Handling Dangerous Primitives (The grab Statement): 79
+        Standard Library:
+            Overview: 90
+            Continuations: 46
+            Identity Proof Document: 44
+            Address Document: 45
+    Quick Reference:
+        Domains: 85
+        Types: 33
+        Statements: 34
+
+Toolkit Reference:
+    Building ADAPT Applications:
+        Overview: 48
+        Embedding ADAPT in Web and Mobile Apps: 49
+        ADAPT Application Tutorial: 66
+    Runtime Environment:
+        Overview: 5
+        ADAPT Wrapper:
+            Overview: 6
+            Native ADAPT Wrapper: 9
+            Enclave ADAPT Wrapper: 8
+            Browser ADAPT Wrapper: 11
+        Message Broker: 10
+        Backup Storage: 7
+#        Developer Tools:
+#            Scripts: 12
+    ADAPT JS API Reference:
+        Overview: 50
+        API Classes:
+            AdaptEnvironment: 51
+            AdaptEvaluationUnit: 52
+            AdaptObject: 53
+            AdaptObjectLifetime: 54
+            AdaptPacketContext: 55
+            AdaptValue: 56
+        API Type Aliases: 57
+
+Appendices:
+    Language Server:
+        Overview: 58
+        Installing the Language Server: 4
+    Messaging Protocol:
+        Overview: 75
+        Message Reference: 61
+#    Glossary:
+#        Glossary: 62
+
+#Other:
+#    Internal Tracking:
+#        Docs To Do List: 24
+#        Broken Links: 63

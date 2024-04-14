@@ -1,9 +1,9 @@
 ---
 title: Covid Care Guidelines
 sidebar: main_sidebar
-sidebar_link: 59
+sidebar_link: 14
 permalink: covid-care-guidelines.html
 toc: false
 ---
 
-{% include_relative covid-care-guidelines-content.md %}
+{% include_relative content/covid-care-guidelines-content.md %}

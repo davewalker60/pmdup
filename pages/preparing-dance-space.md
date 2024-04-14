@@ -6,4 +6,4 @@ permalink: preparing-dance-space.html
 toc: false
 ---
 
-{% include_relative preparing-dance-space-content.md %}
+{% include_relative content/preparing-dance-space-content.md %}
