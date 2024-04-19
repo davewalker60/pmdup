@@ -6,18 +6,25 @@ permalink: staff.html
 toc: false
 ---
 
+{% include_relative snippets/coming-soon.md %}
+
 This topic is for bio and responsibility stuff about the staff... 
 
 # Staff Dance Leaders
 
-* Bernie Heideman
-* Sky Safir Roshay
-* Jen Friedman
-* Connie Zareen Delaney
-* Nur al-Haqq Dave Walker
-* Douglas Stevenson
+* Featured leaders
+  * Jen Friedman
+  * Sky Safir Roshay
+* Potential special guest leader emeritus
+  * Bernie Heideman
+* Supporting leaders
+  * Connie Zareen Delaney
+  * Dave Nur al-Haqq Walker
+  * Douglas Stevenson
 
 # Admin Staff
 
-* Wayne Talmadge - registrar
-* Nur al-Haqq Dave Walker - camp manager
+* Registrar
+  * Wayne Talmadge
+* Camp manager & hotel guru
+  * Dave Nur al-Haqq Walker

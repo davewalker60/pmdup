@@ -10,36 +10,27 @@ entries:
     folderitems:
 
     - title: A Different Kind of Camp
-      url: /about-camp-bullets.html
+      url: /about-camp.html
+      output: web
+
+    - title: (same but no formatting)
+      url: /about-camp-no-formatting.html
       output: web
 
     - title: The Venue
       url: /venue.html
       output: web
 
+    - title: Camp Schedule
+      url: /camp-schedule.html
+      output: web
+
     - title: Staff
       url: /staff.html
       output: web
 
-      subfolders:
-      - title: Activities
-        output: web
-        subfolderitems:
-
-        - title: Dance Sessions
-          url: /dance-sessions.html
-          output: web
-
-        - title: Rumi Cafe
-          url: /rumi-cafe.html
-          output: web
-
     - title: Camp History
       url: /camp-history.html
-      output: web
-
-    - title: No Formatting
-      url: /about-camp.html
       output: web
 
   - title: About PM & QRoo
@@ -62,12 +53,20 @@ entries:
       url: /mayan-ruins.html
       output: web
 
+    - title: Nightlife
+      url: /nightlife.html
+      output: web
+
   - title: Registration
     output: web
     folderitems:
 
     - title: Register
       url: /register.html
+      output: web
+
+    - title: Partial Attendance
+      url: /partial-attendance.html
       output: web
 
       subfolders:
@@ -91,10 +90,6 @@ entries:
     output: web
     folderitems:
 
-    - title: All Topics
-      url: /before-leaving-home.html
-      output: web
-
     - title: WhatsApp
       url: /whatsapp.html
       output: web
@@ -115,28 +110,8 @@ entries:
       url: /acquiring-pesos.html
       output: web
 
-  - title: While at Camp
-    output: web
-    folderitems:
-
-    - title: Camp Schedule
-      url: /camp-schedule.html
-      output: web
-
-    - title: Partial Attendance
-      url: /partial-attendance.html
-      output: web
-
-    - title: Tipping
-      url: /tipping.html
-      output: web
-
-  - title: After Camp
-    output: web
-    folderitems:
-
-    - title: Nightlife
-      url: /nightlife.html
+    - title: All Topics
+      url: /before-leaving-home.html
       output: web
 
   - title: Reference Info
