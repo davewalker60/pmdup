@@ -11,8 +11,8 @@ This page shows all the **Before Leaving Home** topics in a single page, scrolla
 <h0alltopics>WhatsApp</h0alltopics>
 {% include_relative content/whatsapp-content.md %}
 
-<h0alltopics>Covid Care Guidelines</h0alltopics>
-{% include_relative content/covid-care-guidelines-content.md %}
+<h0alltopics>Health Care Guidelines</h0alltopics>
+{% include_relative content/health-care-guidelines-content.md %}
 
 <h0alltopics>Fragrance-Free Camp</h0alltopics>
 {% include_relative content/fragrance-free-camp-content.md %}

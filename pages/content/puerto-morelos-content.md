@@ -24,7 +24,7 @@ The municipality of Puerto Morelos consists two distinct parts with these nickna
 - **La Colonia** - 2+ miles away from the beach on the west side of the highway, nicknamed “the colony”. It’s where most of the locals live and has much more authentic local cuisine and street food than portside. We sometimes take taxis there for dinner.
   - It's a 7-minute / 2-mile drive to La Colonia.
   - Taxis are for 40 pesos ($2.35 US at 17 pesos/dollar) to town (50 if you are going past Timon Ave) and by law can only take 4 passengers
-  - The collectivo is a 10-peso public transportation option with lots of “local flavor”. **We are requiring masks be worn on the collectivos** before and during camp due to the new Covid variant. 
+  - The collectivo is a 10-peso public transportation option with lots of “local flavor”. **Please consider Wearing a mask on the collectivos** before and during camp to help keep us all healthy. 
 
 ### Staying safe in Puerto Morelos
 

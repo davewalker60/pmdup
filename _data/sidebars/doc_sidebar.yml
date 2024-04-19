@@ -82,8 +82,8 @@ entries:
       url: /whatsapp.html
       output: web
 
-    - title: Covid Care Guidelines
-      url: /covid-care-guidelines.html
+    - title: Health Care Guidelines
+      url: /health-care-guidelines.html
       output: web
 
     - title: Fragrance-Free Camp

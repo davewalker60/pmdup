@@ -11,4 +11,3 @@
 - Wifi is prevalent now in the Cancun airport and the PM hotels & most restaurants.
 - If your phone plan doesn’t include Mexico and you don’t have a Mexico SIM card, you likely can get by with keeping your phone in airplane mode and using Wifi calling while in Puerto Morelos.
 - To do so (at least for US iPhones) you have to go into your settings and enable a special **Wifi Calling** setting **while in the US**.
-

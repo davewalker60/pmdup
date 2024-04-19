@@ -26,7 +26,7 @@ These are the hotels that we know of beachside. All are within a 15-minute walk 
 
 # La Colonia
 
-There are places across the highway in La Colonia too, often at better rates, but be aware that it's a 7-minute / 2-mile drive to the beach. Yes, there are taxis for 40 pesos ($2.35 US at 17 pesos/dollar) and "the collectivo" (10-peso public transportation - but we don't have an official decision yet about avoiding the collectivo due to Covid). 
+There are places across the highway in La Colonia too, often at better rates, but be aware that it's a 7-minute / 2-mile drive to the beach. Yes, there are taxis for 40 pesos ($2.35 US at 17 pesos/dollar) and "the collectivo" (10-peso public transportation), but past dancers rarely opt to do it a second time. 
 
 While staying in La Colonia to immerse yourself in the local culture might sound intriguing, we do not recommend it merely due to the inconvenience. Most dancers who have stayed out there in the past say it’s not worth the financial savings because:
 
