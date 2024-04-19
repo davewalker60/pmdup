@@ -1,11 +1,12 @@
 ---
-title: Puerto Morelos DUP Website
+title: Puerto Morelos DUP Camp, Feb 13-19, '25
 sidebar: main_sidebar
 permalink: index.html
 toc: false
 ---
 
-### *[Learn more here.](pages/booking-las-arenas.md)* {% include_relative pages/snippets/registration-open.md %} *[Learn more here.](pages/booking-las-arenas.md)*
+## w/Feb 12 pre-camp prep & dance
+### {% include_relative pages/snippets/registration-open.md %} *[Learn more here.](pages/booking-las-arenas.md)*
 {% include image.html file="PM24.png" caption="Photo courtesy David Weihnacht" %}
 Welcome to the official website for the Dances of Universal Peace camp held 20 miles south of the Cancun airport in Puerto Morelos, Quintana Roo, Mexico each February.
 
@@ -15,7 +16,7 @@ The site contains everything you need to know to join us!
 
 Site navigation:
 * Expand the navigation menu to access each individual topic.
-* Expand the **More Options** menu to access quick reference links to the most frequently used items.
+* Expand the **More Options** menu to access quick reference links to the most frequently used items, search, and send feedback.
 
 We look forward to dancing in the sand with you!
 

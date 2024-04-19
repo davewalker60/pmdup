@@ -10,7 +10,7 @@ We have booked the entire Hotel Las Arenas Puerto Morelos for 10 nights (Feb 11 
 
 As expected, prices for the rooms have risen from last year and beachside rooms now cost more than poolside rooms. ***But miraculously***, the 10-night total hotel group rate we negotiated amazingly allows us to charge you the same amount as dancers paid for rooms last year (~$70usd @ 17 pesos/dollar) for beachside rooms and ***even less*** for poolside rooms!
 
-**All prices listed here are in Mexican pesos.** Reserve your room now and pay now or anytime in 2023. <span style="color:red">*The actual dollar (CDN or USD) price you pay gets determined using the exchange rate at the time you pay.*</span> This approach:
+**All prices listed here are in Mexican pesos.** <span style="color:red">*The actual dollar (CDN or USD) price you pay gets determined using the exchange rate at the time you pay.*</span> This approach:
 
 *  Allows us to offer you the same peso price as last year.
 
@@ -20,13 +20,23 @@ As expected, prices for the rooms have risen from last year and beachside rooms 
 
   * Pay later to hang on to your money longer.
 
-
-Payment options are:
+Email [davewalker60@gmail.com](mailto:davewalker60@gmail.com) to reserve your room now and either pay now or anytime in 2023. Payment options are:
 
 * Pay in pesos (through Wise) - Great option for Canadians to avoid double conversion fee!
 * Pay in USD (through PayPal or Venmo) - Just like we did last year.
 
 ## Hotel Las Arenas Pricing Options
+
+| Nights                                                  | Beachside Pesos/Night | Poolside Pesos/Night       |
+| :--------------------------------------------------------: | :----------------------------------: | :-------------------------: |
+| 10-night block* 2/11-21 |            1200 (~$70.59usd**)            | 1100 (~$64.70usd**) |
+| 8-9 nights                                                |            1300 (~$76.47usd**)            | 1200 (~$70.59usd**) |
+| 6-7 nights                                                |            1400 (~$82.35usd**)            | 1300 (~$76.47usd**) |
+| 21+ nights | Contact Dave |Contact Dave|
+
+\* Additional nights - same price per night.
+
+\** <span style="color:red">*The USD amount listed is based on an exchange rate of 17 pesos/dollar. The actual dollar (CDN or USD) price you pay gets determined using the exchange rate at the time you pay.*</span>
 
 * 10-night block (Feb 11 checkin to Feb 21 checkout)
   * Poolside - 11,000 pesos (1100/night = $64.70usd @ 17 pesos/dollar)
