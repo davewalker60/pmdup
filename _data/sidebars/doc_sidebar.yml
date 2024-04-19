@@ -2,7 +2,7 @@ entries:
 - product: Documentation
   version: v0.1
 
-- title: Not using - product level commented out in sidebar.html
+- title: Not using
   folders:
 
   - title: About Camp
@@ -30,16 +30,8 @@ entries:
           url: /dance-sessions.html
           output: web
 
-        - title: Rumi Cafe
-          url: /rumi-cafe.html
-          output: web
-
     - title: Camp History
       url: /camp-history.html
-      output: web
-
-    - title: No Formatting
-      url: /about-camp.html
       output: web
 
   - title: About PM & QRoo
@@ -70,18 +62,9 @@ entries:
       url: /register.html
       output: web
 
-      subfolders:
-      - title: Lodging
-        output: web
-        subfolderitems:
-
-        - title: Arrange Lodging
-          url: /arrange-lodging.html
-          output: web
-
-        - title: Booking Las Arenas
-          url: /booking-las-arenas.html
-          output: web
+    - title: Arrange Lodging
+      url: /arrange-lodging.html
+      output: web
 
     - title: Arrange Travel
       url: /arrange-travel.html

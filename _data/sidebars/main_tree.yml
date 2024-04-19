@@ -3,14 +3,16 @@
 # Numbers here are file link IDs that correspond to sidebar_link: entries found in the .md file headers. 
 # File link IDs are only allowed on tree level 3 and, when level 3 is just a heading, level 4.
 # Also, due to the way Jekyll parses the tree, each level 3 immediately below a level 2 MUST have a link.
-Not using:
+Not using - product level commented out in sidebar.html:
     About Camp:
         A Different Kind of Camp: 0
         The Venue: 1
         Staff: 2
         Activities:
             Dance Sessions: 3
+            Rumi Cafe: 27
         Camp History: 4
+        No Formatting: 26
     About PM & QRoo:
         Puerto Morelos: 5
         Snorkeling: 6
@@ -18,7 +20,9 @@ Not using:
         Mayan Ruins: 8
     Registration:
         Register: 9
-        Arrange Lodging: 10
+        Lodging:
+            Arrange Lodging: 10
+            Booking Las Arenas: 24
         Arrange Travel: 11
     Before Leaving Home:
         All Topics: 12

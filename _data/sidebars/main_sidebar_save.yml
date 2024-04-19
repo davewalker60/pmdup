@@ -1,153 +1,143 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
 entries:
-- product: Documentation
-  version: v0.1
+- product: Not using - product level commented out in sidebar.html
+  version: 
 
 - title: Not using - product level commented out in sidebar.html
   folders:
-
+  
   - title: About Camp
-    output: web
+    output: web, pdf
     folderitems:
 
     - title: A Different Kind of Camp
       url: /about-camp-bullets.html
-      output: web
+      output: web, pdf
+#      type: homepage
 
     - title: The Venue
       url: /venue.html
-      output: web
+      output: web, pdf
 
     - title: Staff
       url: /staff.html
-      output: web
+      output: web, pdf
 
       subfolders:
       - title: Activities
-        output: web
+        output: web, pdf
         subfolderitems:
-
+           
         - title: Dance Sessions
           url: /dance-sessions.html
-          output: web
-
-        - title: Rumi Cafe
-          url: /rumi-cafe.html
-          output: web
+          output: web, pdf
 
     - title: Camp History
       url: /camp-history.html
-      output: web
+      output: web, pdf
 
-    - title: No Formatting
+    - title: Sky's Formatting
       url: /about-camp.html
-      output: web
+      output: web, pdf
 
   - title: About PM & QRoo
-    output: web
+    output: web, pdf
     folderitems:
 
     - title: Puerto Morelos
       url: /puerto-morelos.html
-      output: web
+      output: web, pdf
 
     - title: Snorkeling
       url: /snorkeling.html
-      output: web
+      output: web, pdf
 
     - title: Cenotes
       url: /cenotes.html
-      output: web
+      output: web, pdf
 
     - title: Mayan Ruins
       url: /mayan-ruins.html
-      output: web
+      output: web, pdf
 
   - title: Registration
-    output: web
+    output: web, pdf
     folderitems:
 
     - title: Register
       url: /register.html
-      output: web
+      output: web, pdf
 
-      subfolders:
-      - title: Lodging
-        output: web
-        subfolderitems:
-
-        - title: Arrange Lodging
-          url: /arrange-lodging.html
-          output: web
-
-        - title: Booking Las Arenas
-          url: /booking-las-arenas.html
-          output: web
+    - title: Arrange Lodging
+      url: /arrange-lodging.html
+      output: web, pdf
 
     - title: Arrange Travel
       url: /arrange-travel.html
-      output: web
-
+      output: web, pdf
+  
   - title: Before Leaving Home
-    output: web
+    output: web, pdf
     folderitems:
 
     - title: All Topics
       url: /before-leaving-home.html
-      output: web
+      output: web, pdf
 
     - title: WhatsApp
       url: /whatsapp.html
-      output: web
+      output: web, pdf
 
     - title: Covid Care Guidelines
       url: /covid-care-guidelines.html
-      output: web
+      output: web, pdf
 
     - title: Fragrance-Free Camp
       url: /fragrance-free-camp.html
-      output: web
+      output: web, pdf
 
     - title: Cell Phones
       url: /cell-phones.html
-      output: web
+      output: web, pdf
 
     - title: Acquiring Pesos
       url: /acquiring-pesos.html
-      output: web
+      output: web, pdf
 
   - title: While at Camp
-    output: web
+    output: web, pdf
     folderitems:
 
     - title: Camp Schedule
       url: /camp-schedule.html
-      output: web
+      output: web, pdf
 
     - title: Partial Attendance
       url: /partial-attendance.html
-      output: web
+      output: web, pdf
 
     - title: Tipping
       url: /tipping.html
-      output: web
+      output: web, pdf
 
   - title: After Camp
-    output: web
+    output: web, pdf
     folderitems:
 
     - title: Nightlife
       url: /nightlife.html
-      output: web
-
+      output: web, pdf
+  
   - title: Reference Info
-    output: web
+    output: web, pdf
     folderitems:
 
     - title: News & Updates
-      url: /news-and-updates.html
-      output: web
+      url: /site-updates.html
+      output: web, pdf
 
     - title: Links
       url: /external-links.html
-      output: web
-
+      output: web, pdf
+# Copyright 2021 Google LLC

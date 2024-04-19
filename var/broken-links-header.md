@@ -1,8 +1,8 @@
 ---
 search: exclude
-title: Broken Links
+title: Broken Links64
 sidebar: doc_sidebar
-sidebar_link: 63
+sidebar_link: 64
 permalink: broken-links.html
 toc: false
 ---

@@ -1,0 +1,4 @@
+The municipality of Puerto Morelos consists two distinct parts with these nicknames:
+
+- **Portside/Beachside** - The original seaside fishing village with the (you guessed it) beach, docks, and ocean. It’s where we dance and where nearly 100% of us stay. It largely comprises a town square and 6 surrounding blocks with shops, restaurants, and a few hotels.
+- **La Colonia** - 2+ miles away from the beach on the west side of the highway, nicknamed “the colony”. It’s where most of the locals live and has much more authentic local cuisine and street food than portside. We sometimes take taxis there for dinner.

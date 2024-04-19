@@ -38,7 +38,7 @@ def get_header_info(header, full_path):
     if 'sidebar' in header:
         if header['sidebar'] == 'none':
             return full_path, None, None, None
-        elif header['sidebar'] == 'doc_sidebar':
+        elif header['sidebar'] == global_sidebar_base:
             link_id, url = get_sidebar_link(header)
             return None, full_path if link_id is None else None, link_id, url
     return None, None, None, None
@@ -178,7 +178,8 @@ def build_sidebar(dir_path, tree_path, verbose=False):
     print_verbose_info("Files intentionally omitted from sidebar", nosidebar_files, verbose, restrict_details=True)
     print_verbose_info("Files missing sidebar_link", nolink_files, verbose)
     print_verbose_info("Files with other header issues", untracked_files, verbose)
-    print_verbose_info("Files with sidebar_link not referenced in doc_tree.yml", dangling_links, verbose)
+    print_string = "Files with sidebar_link not referenced in " + global_sidebar_base + ".yml"
+    print_verbose_info(print_string, dangling_links, verbose)
     
     print('\n')
 
@@ -187,14 +188,15 @@ def build_sidebar(dir_path, tree_path, verbose=False):
 
 # ===================================== main driver ==================================
 
+global_sidebar_base = 'main_sidebar'
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("-v", "--verbose", help="increase output verbosity", action="store_true")
     args = parser.parse_args()
 
     docs_path = 'pages/'
-    sidebar_path = '_data/sidebars/doc_sidebar.yml'
-    tree_path = '_data/sidebars/doc_tree.yml'
+    sidebar_path = '_data/sidebars/main_sidebar.yml'
+    tree_path = '_data/sidebars/main_tree.yml'
     
     sidebar = build_sidebar(docs_path, tree_path, args.verbose)
     if sidebar:

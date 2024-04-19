@@ -6,10 +6,10 @@ permalink: about-camp-bullets.html
 toc: false
 ---
 
-Unlike the typical DUP/Sufi camps that happen at a contained retreat venue with on-site lodging and meals, the Puerto Morelos winter camp Is integrated into the town with:
+Unlike the typical DUP/Sufi camps that happen at a contained retreat venue with on-site lodging and meals, the Puerto Morelos camp is integrated into the town with:
 
 * Most meals taking place in small groups in restaurants
-* Lodging spread out in various hotels
+* Lodging spread out in various places (hotels, vacation rentals, airbnbs. etc...)
 
 Because camp is an open container, rather than a closed one, it embraces a number of activities that enhance people’s experience such as:
 

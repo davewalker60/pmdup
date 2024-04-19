@@ -10,7 +10,7 @@ topnav:
     - title: Travel
       url: /arrange-travel.html
     - title: Updates
-      url: /site-updates.html
+      url: /news-and-updates.html
 
 #Topnav dropdowns
 topnav_dropdowns:
@@ -18,8 +18,8 @@ topnav_dropdowns:
   folders:
     - title: Links
       folderitems:
-        - title: 2024 Camp Participant Survey
-          external_url: https://docs.google.com/forms/d/e/1FAIpQLSe85gujOlZmnkBI9uvmW-MyPlYOoVRPFQPYKoGMD5AZ_JLnjA/viewform
+        - title: Camp Registration Form (coming Sep)
+          external_url: 
         - title: PM Dances '24 WhatsApp
           external_url: https://chat.whatsapp.com/HrixjosWA4fLMsCFL8Vnyg
         - title: PM Announcements '24 WhatsApp

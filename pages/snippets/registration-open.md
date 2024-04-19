@@ -1,0 +1,1 @@
+***<span style="color:red">Hotel Las Arenas lodging registration is open.</span>***

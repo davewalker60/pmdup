@@ -1,12 +1,12 @@
 ---
 title: A Different Kind of Camp
 sidebar: main_sidebar
-sidebar_link: 99
+sidebar_link: 
 permalink: about-camp-original.html
 toc: false
 ---
 
-Unlike the typical DUP camps that happen at a contained retreat venue with on-site lodging and meals, the Puerto Morelos winter camp:
+Unlike the typical DUP camps that happen at a contained retreat venue with on-site lodging and meals, the Puerto Morelos camp:
 
 * Is integrated into the town
 * Most meals take place in small groups in restaurants

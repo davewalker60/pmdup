@@ -13,7 +13,7 @@
 /* hover, selected */
     --sky_color2: hsl(197, 61%, 53%);
     --sea_color2: hsl(187, 61%, 43%);
-    --sand_color2: hsl(54, 61%, 53%);
+    --sand_color2: hsl(55, 90%, 77%);/* hsl(54, 61%, 53%);*/
 
     --sea_color_a: hsl(187, 61%, 53%);
     --sea_color_b: hsl(180, 50%, 50%);
@@ -253,7 +253,7 @@ div.sidebarTitle {
 
 li.sidebarTitle {
     text-align: center;
-    padding: 10px 0 10px 0;
+    padding: 5px 0 5px 0;
     font-weight: bold;
     /* font-size: 90%; */
     background: white; /*var(--banner_color);*/
@@ -266,4 +266,10 @@ li.sidebarTitle {
     text-align: center;
     margin-top: 25px; 
     margin-bottom: 5px; 
+}
+
+/* Info box colors */
+blockquote {
+    color: #000000;
+    background-color: var(--sand_color2);
 }

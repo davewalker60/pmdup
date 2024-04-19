@@ -6,4 +6,8 @@ permalink: partial-attendance.html
 toc: false
 ---
 
-{% include_relative content/coming-soon.md %}
+### Partial attendance
+
+- People not attending the full camp may attend individual morning or evening sessions for $25/session (425 pesos), provided they follow the [Covid care guidelines](https://docs.google.com/document/d/1ltG84tyK7cOuHhjEgnvjXCynJxFBalSvkEmwpFQDfE0/edit#heading=h.u0aysmgs7g7i) by doing a Covid test prior to their first session and wearing a mask when riding the collectivos.
+- For the classes/offerings happening in the afternoons, simply make a donation to the person leading the offerings you attend.
+- To foster outreach and share the joy of the Dances of Universal Peace, we are again welcoming locals to join us on a donation or completely-comped basis, as they can afford.

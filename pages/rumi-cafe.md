@@ -1,8 +1,8 @@
 ---
-title: Snorkeling
+title: Rumi Cafe
 sidebar: main_sidebar
-sidebar_link: 6
-permalink: snorkeling.html
+sidebar_link: 27
+permalink: rumi-cafe.html
 toc: false
 ---
 

@@ -6,4 +6,4 @@ permalink: dance-sessions.html
 toc: false
 ---
 
-{% include_relative content/coming-soon.md %}
+{% include_relative snippets/coming-soon.md %}
