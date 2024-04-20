@@ -3,6 +3,8 @@
 * La Brisa Caribe
 * Botanical Gradens
 * Croco Zoo
+* Sargasso / Sargassum
+* Loudo's and other noise
 
 ### Tipping
 

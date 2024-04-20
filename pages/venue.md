@@ -23,4 +23,4 @@ The Alaska House (aka "the dance house") has a beautiful, fenced patio with an a
   * Staff stays here during camp and other extended-stay dancers move in as staff departs. This year, we have the house for a whole month!
   * There's a full kitchen for use by those staying in the house only.
 
-Additional lodging is available at many places around towm. [Learn more here.](./arrange-lodging.md)
+Additional lodging is available at many places around towm. [Learn more here.](./lodging-options.md)

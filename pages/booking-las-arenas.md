@@ -20,28 +20,21 @@ As expected, prices for the rooms have risen from last year and beachside rooms 
 
   * Pay later to hang on to your money longer.
 
-Email [davewalker60@gmail.com](mailto:davewalker60@gmail.com) to reserve your room now and either pay now or anytime in 2023. Payment options are:
-
-* Pay in pesos (through Wise) - Great option for Canadians to avoid double conversion fee!
-* Pay in USD (through PayPal or Venmo) - Just like we did last year.
-
-## Hotel Las Arenas Pricing Options
+### Hotel Las Arenas Pricing Options
 
 | Nights                                                  | Beachside Pesos/Night | Poolside Pesos/Night       |
 | :--------------------------------------------------------: | :----------------------------------: | :-------------------------: |
-| 10-night block* 2/11-21 |            1200 (~$70.59usd**)            | 1100 (~$64.70usd**) |
-| 8-9 nights                                                |            1300 (~$76.47usd**)            | 1200 (~$70.59usd**) |
-| 6-7 nights                                                |            1400 (~$82.35usd**)            | 1300 (~$76.47usd**) |
+| 10-night block* (Feb 11-21) |            1200 (~$70.59<span style="color:red">**</span>)            | 1100 (~$64.70<span style="color:red">**</span>) |
+| 8-9 nights                                                |            1300 (~$76.47<span style="color:red">**</span>)            | 1200 (~$70.59<span style="color:red">**</span>) |
+| 6-7 nights                                                |            1400 (~$82.35<span style="color:red">**</span>)            | 1300 (~$76.47<span style="color:red">**</span>) |
 | 21+ nights | Contact Dave |Contact Dave|
 
-\* Additional nights - same price per night.
+\* Add additional nights for the same price per night.
 
-\** <span style="color:red">*The USD amount listed is based on an exchange rate of 17 pesos/dollar. The actual dollar (CDN or USD) price you pay gets determined using the exchange rate at the time you pay.*</span>
+<span style="color:red">\** *The USD amount listed is based on an exchange rate of 17 pesos/dollar. The actual dollar (CDN or USD) price you pay gets determined using the exchange rate at the time you pay.*</span>
 
-* 10-night block (Feb 11 checkin to Feb 21 checkout)
-  * Poolside - 11,000 pesos (1100/night = $64.70usd @ 17 pesos/dollar)
-  * Beachside - 12,000 pesos (1200/night = $70.59usd @ 17 pesos/dollar)
-  * Additional nights - same per night price
-* Less than 10 nights
-  * Poolside - 1300/night ($76.47usd @ 17 pesos/dollar)
-  * Beachside - 1400/night ($82.35usd @ 17 pesos/dollar)
+# Reserve your room
+Complete and submit [**the Las Arenas booking form**]() to reserve your room now and either pay now or anytime in 2023. You can:
+
+* Pay directly in pesos (through Wise) - Great option for Canadians to avoid double conversion fee!
+* Pay in USD (through PayPal or Venmo) - Just like we did last year.

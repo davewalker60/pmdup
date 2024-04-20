@@ -1,6 +1,6 @@
 
 
-Please keep this in mind when considering where to stay. If you’d like more assistance than you find below, email [davewalker60@gmail.com](mailto:davewalker60@gmail.com) or post in the [PM Lodging](https://chat.whatsapp.com/KkP8Uq2BZH3J0k7oqeb9s2) WhatsApp group.
+Please keep this distinction in mind when considering where to stay. If you’d like more assistance than you find below, email [davewalker60@gmail.com](mailto:davewalker60@gmail.com) or post in the [PM Lodging](https://chat.whatsapp.com/KkP8Uq2BZH3J0k7oqeb9s2) WhatsApp group.
 
 # Portside / Beachside
 

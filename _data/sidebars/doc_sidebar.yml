@@ -63,7 +63,7 @@ entries:
       output: web
 
     - title: Arrange Lodging
-      url: /arrange-lodging.html
+      url: /lodging-options.html
       output: web
 
     - title: Arrange Travel

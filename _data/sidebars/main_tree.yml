@@ -6,7 +6,6 @@
 Not using - product level commented out in sidebar.html:
     About Camp:
         A Different Kind of Camp: 0
-        (same but no formatting): 26
         The Venue: 1
         Camp Schedule: 18
         Staff: 2
@@ -17,13 +16,15 @@ Not using - product level commented out in sidebar.html:
         Cenotes: 7
         Mayan Ruins: 8
         Nightlife: 21
-    Registration:
+    Register & Book:
         Register: 9
-        Partial Attendance: 19
-        Lodging:
-            Arrange Lodging: 10
+        Arrange Lodging:
+            Lodging Options: 10
             Booking Las Arenas: 24
-        Arrange Travel: 11
+        Arrange Travel:
+            From home to PM: 29
+            From CUN to PM: 11
+            Navigating CUN: 28
     Before Leaving Home:
         WhatsApp: 13
         Health Care Guidelines: 14

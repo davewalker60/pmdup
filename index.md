@@ -6,6 +6,7 @@ toc: false
 ---
 
 ## with Feb 12 pre-camp prep & dance
+### <span style="color:red">*Website creation in progress...<br>Nothning here, **including dates and prices**, is finialized yet...*</span>
 ### {% include_relative pages/snippets/registration-open.md %} *[Learn more here.](pages/booking-las-arenas.md)*
 {% include image.html file="PM24.png" caption="Photo courtesy David Weihnacht" %}
 Welcome to the official website for the Dances of Universal Peace camp held 20 miles south of the Cancun airport in Puerto Morelos, Quintana Roo, Mexico each February.

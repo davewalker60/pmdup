@@ -13,10 +13,6 @@ entries:
       url: /about-camp.html
       output: web
 
-    - title: (same but no formatting)
-      url: /about-camp-no-formatting.html
-      output: web
-
     - title: The Venue
       url: /venue.html
       output: web
@@ -57,7 +53,7 @@ entries:
       url: /nightlife.html
       output: web
 
-  - title: Registration
+  - title: Register & Book
     output: web
     folderitems:
 
@@ -65,26 +61,34 @@ entries:
       url: /register.html
       output: web
 
-    - title: Partial Attendance
-      url: /partial-attendance.html
-      output: web
-
       subfolders:
-      - title: Lodging
+      - title: Arrange Lodging
         output: web
         subfolderitems:
 
-        - title: Arrange Lodging
-          url: /arrange-lodging.html
+        - title: Lodging Options
+          url: /lodging-options.html
           output: web
 
         - title: Booking Las Arenas
           url: /booking-las-arenas.html
           output: web
 
-    - title: Arrange Travel
-      url: /arrange-travel.html
-      output: web
+      - title: Arrange Travel
+        output: web
+        subfolderitems:
+
+        - title: From home to PM
+          url: /from-home-to-pm.html
+          output: web
+
+        - title: From CUN to PM
+          url: /from-cun-to-pm.html
+          output: web
+
+        - title: Navigating CUN
+          url: /navigating-cun.html
+          output: web
 
   - title: Before Leaving Home
     output: web
