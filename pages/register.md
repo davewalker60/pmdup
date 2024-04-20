@@ -7,13 +7,15 @@ toc: false
 ---
 
 Registration is a multi-step process. Registering itself is two steps and there are additional steps for lodging and travel:
-1. Complete and submit [**the registration form**]().
+1. Complete and submit [**the registration form**]() (with your approximate travel dates).
 1. Send your registration payment.
 1. Once you've arranged your travel, complete [**the travel form**](). More info at:
   * [Getting from Home to PM](./from-home-to-pm.md)
   * [Getting from CUN to PM](from-cun-to-pm.md)
-3. [Arrange your lodging](lodging-options.md).
+1. [Arrange your lodging](lodging-options.md).
   * [Las Arenas booking info](booking-las-arenas.md) *(or jump directly to [**the booking form**]())*
+
+> You are not considered registered until you've completed all the steps!
 
 # Full attendance - **[register here]()**
 

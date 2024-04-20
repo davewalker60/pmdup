@@ -21,4 +21,4 @@ Site navigation:
 
 We look forward to dancing in the sand with you!
 
-> A note about the colors: The colors used in this website are the colors of the sand, sea, and sky of the Puerto Morelos beaches. If you look closely at the gradient banner, you can even see the horizon!
+> The colors used in this website are the colors of the sand, sea, and sky of the Puerto Morelos beaches. If you look closely at the gradient banner, you can even see the horizon!

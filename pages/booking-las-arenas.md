@@ -24,9 +24,9 @@ As expected, prices for the rooms have risen from last year and beachside rooms 
 
 | Nights                                                  | Beachside Pesos/Night | Poolside Pesos/Night       |
 | :--------------------------------------------------------: | :----------------------------------: | :-------------------------: |
-| 10-night block* (Feb 11-21) |            1200 (~$70.59<span style="color:red">**</span>)            | 1100 (~$64.70<span style="color:red">**</span>) |
-| 8-9 nights                                                |            1300 (~$76.47<span style="color:red">**</span>)            | 1200 (~$70.59<span style="color:red">**</span>) |
-| 6-7 nights                                                |            1400 (~$82.35<span style="color:red">**</span>)            | 1300 (~$76.47<span style="color:red">**</span>) |
+| 10-night block (Feb 11-21)* |            **1200** (~$70.59<span style="color:red">**</span>)            | **1100** (~$64.70<span style="color:red">**</span>) |
+| 8-9 nights                                                |            **1300** (~$76.47<span style="color:red">**</span>)            | **1200** (~$70.59<span style="color:red">**</span>) |
+| 6-7 nights                                                |            **1400** (~$82.35<span style="color:red">**</span>)            | **1300** (~$76.47<span style="color:red">**</span>) |
 | 21+ nights | Contact Dave |Contact Dave|
 
 \* Add additional nights for the same price per night.
