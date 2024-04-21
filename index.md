@@ -9,16 +9,16 @@ toc: false
 ### <span style="color:red">*Website creation in progress...<br>Nothning here, **including dates and prices**, is finialized yet...*</span>
 ### {% include_relative pages/snippets/registration-open.md %} *[Learn more here.](pages/booking-las-arenas.md)*
 {% include image.html file="PM24.png" caption="Photo courtesy David Weihnacht" %}
-Each February, we gather 20 miles south of the Cancun airport in Puerto Morelos, Quintana Roo, Mexico to "eat, dance, and pray" together at the Puerto Morelos Dances of Universal Peace camp.
+Each February, we gather together in Puerto Morelos, Quintana Roo, Mexico (20 miles south of the Cancun airport) for a Dances of Universal Peace retreat.
 
 Even though the once quaint seaside village is growing and changing, we still love it there and continue to gather as a DUP community each winter to eat, dance, pray, relax, swim, sun, and adventure together.
 
-The site contains everything you need to know to join us!
-
-Site navigation:
-* Expand the navigation menu to access each individual topic.
-* From your phone, additionally use the **More Options** menu (hamburger) to access quick reference links to the most frequently used items, search, and send feedback.
+This website describes the retreat/camp, the town, local activities, and everything you need to know to register and prepare for traveling to Mexico.
 
 We look forward to dancing in the sand with you!
 
 > The colors used in this website are the colors of the sand, sea, and sky of the Puerto Morelos beaches. If you look closely at the gradient banner, you can even see the horizon!
+
+### Site Navigation Tips
+* Expand the navigation menu items (top on phone, left on computer) to access each individual topic.
+* Additionally use the **Quick Jump** menu (three lines/"hamburger" on phone, across top on computer) to access quick reference links to the most frequently used items, search, and send us feedback.

@@ -20,7 +20,7 @@ Because camp is an open container, rather than a closed one, it embraces a numbe
 * Exploring restaurants and cuisines
 * Spending time one-on-one or in small groups with other attendees
 * Music jams
-* And even a Super Bowl party
+* And some years, even a Super Bowl party
 
 All of these experiences allow for a spaciousness that most camps don’t have. 
 
@@ -28,7 +28,7 @@ We also believe the community creates the experience. Rather than having a focus
 
 This vision was set into place by Bernie, later joined by Sky, and you can see more about how we work at [https://skyness.net/wp-content/uploads/2023/04/Bernie-and-Sky-Why-come.pdf](https://skyness.net/wp-content/uploads/2023/04/Bernie-and-Sky-Why-come.pdf).
 
-## <span style="color:red">Same Text - Unformatted to evaluate on phone</span>
+## <span style="color:red">Sky's Original Text Edits - Unformatted to evaluate on phone</span>
 
 Unlike the typical DUP/Sufi camps that happen at a contained retreat venue with on-site lodging and meals, the Puerto Morelos camp is integrated into the town, with most meals taking place in small groups in restaurants, and lodging spread out in various places (hotels, vacation rentals, airbnbs. etc...).
 
