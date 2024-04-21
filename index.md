@@ -21,4 +21,4 @@ We look forward to dancing in the sand with you!
 
 ### Site Navigation Tips
 * Expand the navigation menu items (top on phone, left on computer) to access each individual topic.
-* Additionally use the **Quick Jump** menu (three lines/"hamburger" on phone, across top on computer) to access quick reference links to the most frequently used items, search, and send us feedback.
+* Additionally, use the **Quick Jump** menu (three lines/hamburger at upper-right on phone, across top on computer) to access the most frequently used items, search the content, or send us feedback.
