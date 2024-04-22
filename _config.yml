@@ -35,7 +35,7 @@ exclude:
 feedback_subject_line: Puerto Morelos DUP Feedback
 # Not used - see subject field in email line in feedback.html
 
-feedback_email: justbe@dancingpeace.com
+feedback_email: davewalker60@gmail.com
 # used as a contact email for the Feedback link in the top navigation bar
 
 # feedback_disable: true
