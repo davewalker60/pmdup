@@ -34,7 +34,7 @@ As expected, prices for the rooms have risen from last year and beachside rooms 
 <span style="color:red">\** *The USD amount listed is based on an exchange rate of 17 pesos/dollar. The actual dollar (CDN or USD) price you pay gets determined using the exchange rate at the time you pay.*</span>
 
 # Reserve your room
-Complete and submit [**the Las Arenas booking form**]() to reserve your room now and either pay now or anytime in 2023. You can:
+Complete and submit [**the Las Arenas booking form**](https://docs.google.com/forms/d/e/1FAIpQLSct3SrTHl76pMYcZ5z9-eWdLCjCXzf4igqfVk689qA42YuyWA/viewform){:target="_blank"} to reserve your room now and either pay now or anytime in 2023. You can:
 
 * Pay directly in pesos (through Wise) - Great option for Canadians to avoid double conversion fee!
 * Pay in USD (through PayPal or Venmo) - Just like we did last year.

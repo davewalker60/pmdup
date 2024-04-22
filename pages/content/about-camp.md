@@ -6,6 +6,8 @@ permalink: about-camp.html
 toc: false
 ---
 
+<span style="color:red">*A big thank you to Sky for capturing the essence of camp on this page! :-) Anyone else have suggestions for improvement?*</span>
+
 Unlike the typical DUP/Sufi camps that happen at a contained retreat venue with on-site lodging and meals, the Puerto Morelos camp is integrated into the town with:
 
 * Most meals taking place in small groups in restaurants

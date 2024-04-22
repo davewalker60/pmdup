@@ -13,7 +13,7 @@ Registration is a multi-step process. Registering itself is two steps and there 
   * [Getting from Home to PM](./from-home-to-pm.md)
   * [Getting from CUN to PM](from-cun-to-pm.md)
 1. [Arrange your lodging](lodging-options.md).
-  * [Las Arenas booking info](booking-las-arenas.md) *(or jump directly to [**the booking form**]())*
+  * [Las Arenas booking info](booking-las-arenas.md) *(or jump directly to [**the booking form**](https://docs.google.com/forms/d/e/1FAIpQLSct3SrTHl76pMYcZ5z9-eWdLCjCXzf4igqfVk689qA42YuyWA/viewform){:target="_blank"})*
 
 > You are not considered registered until you've completed all the steps!
 
