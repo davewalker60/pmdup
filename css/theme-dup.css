@@ -243,6 +243,14 @@ img.thinborder {
     border: 1px solid var(--banner_color);
 }
 
+img.center {
+    display: block;
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
 .anchorjs-link:hover {
     color: #216f9b;
 }

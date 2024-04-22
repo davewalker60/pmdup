@@ -6,7 +6,7 @@ toc: false
 ---
 
 ## with Feb 12 pre-camp prep & dance
-### <span style="color:red">*Website creation in progress...<br>Nothning here, **including dates and prices**, is finialized yet...*</span>
+### <span style="color:red">*Website creation in progress...<br>Most everything on this site still needs team collaboration. Nothing, **including dates and prices**, is finialized yet...<br>Click **Feedback** on any page to capture your ideas for improving. Thanks!*</span>
 ### {% include_relative pages/snippets/registration-open.md %} *[Learn more here.](pages/booking-las-arenas.md)*
 {% include image.html file="PM24.png" caption="Photo courtesy David Weihnacht" %}
 Each February, we gather together in Puerto Morelos, Quintana Roo, Mexico (20 miles south of the Cancun airport) for a Dances of Universal Peace retreat.
