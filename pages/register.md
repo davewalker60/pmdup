@@ -16,9 +16,9 @@ toc: false
 * <span style="color:red">Anything missing from included/not included list?</span>
 
 Registration is a multi-step process. Registering itself is two steps and there are additional steps for lodging and travel:
-1. Complete and submit [**the registration form**]() (with your approximate travel dates).
+1. Complete and submit [**the registration form**](snippets/coming-soon.md){:target="_blank"} (with your approximate travel dates).
 2. Send your registration payment.
-3. Once you've arranged your travel, complete [**the travel form**](). More info at:
+3. Once you've arranged your travel, complete [**the travel form**](https://docs.google.com/forms/d/e/1FAIpQLSex7cyDs_Xf33rAxqU2S749xG_MB4lMQk3fPvF_p0JkkoKyTg/viewform){:target="_blank"}. More info at:
   * [Getting from Home to PM](./from-home-to-pm.md)
   * [Getting from CUN to PM](from-cun-to-pm.md)
 4. [Arrange your lodging](lodging-options.md).
@@ -26,7 +26,7 @@ Registration is a multi-step process. Registering itself is two steps and there 
 
 > You are not considered registered until you've completed all the steps!
 
-# Full attendance - **[register here]()**
+# Full attendance - **[register here](){:target="_blank"}**
 
 Full attendance registration cost is $200-$300/person as you can afford and includes:
 * All morning & evening dance sessions
