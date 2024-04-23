@@ -1,3 +1,5 @@
+<span style="color:red"> These are last year's groups. We need to update this page to what we decide to do for this year. Using a community makes it far easier to manage on our end and consolidates/organizes the groups for the dancers. We need to talk this through as a group. I'd like to get this in place sooner than later to help with the lodging registration, which is already underway due to the increasing year-in-advance vacation rental state of PM these days.</span>
+
 # Chat groups
 
 With people and camp activities spread out, we need a way to communicate. We use these WhatsApp chat groups:

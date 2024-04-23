@@ -67,7 +67,7 @@ entries:
       output: web
 
     - title: Arrange Travel
-      url: /arrange-travel.html
+      url: /from-home-to-pm.html
       output: web
 
   - title: Before Leaving Home

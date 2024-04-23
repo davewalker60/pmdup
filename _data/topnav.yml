@@ -8,7 +8,7 @@ topnav:
     - title: Lodging
       url: /lodging-options.html
     - title: Travel
-      url: /arrange-travel.html
+      url: /from-home-to-pm.html
     - title: Updates
       url: /news-and-updates.html
 
@@ -20,9 +20,11 @@ topnav_dropdowns:
       folderitems:
         - title: Camp Registration Form (coming Sep)
           external_url: 
-        - title: PM Dances '24 WhatsApp
-          external_url: https://chat.whatsapp.com/HrixjosWA4fLMsCFL8Vnyg
-        - title: PM Announcements '24 WhatsApp
-          external_url: https://chat.whatsapp.com/BDOMSleBDhu3a2uvrwGPjj
+        - title: Travel and Lodging Form
+          external_url: 
+        - title: Las Arenas Booking Form
+          external_url: https://docs.google.com/forms/d/e/1FAIpQLSct3SrTHl76pMYcZ5z9-eWdLCjCXzf4igqfVk689qA42YuyWA/viewform
+        - title: PM Dance Camp WhatsApp
+          external_url: https://chat.whatsapp.com/D7giUR3o5E1AKkqwy17Qga
 
 # Copyright 2021 Google LLC
