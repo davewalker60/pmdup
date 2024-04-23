@@ -6,9 +6,10 @@ toc: false
 ---
 
 ## with Feb 12 pre-camp prep & dance
-### <span style="color:red">*Website creation in progress... Most everything on this site still needs team collaboration. Nothing, **including dates and prices**, is finialized yet...<br><br>As we discussed at our wrap up meeting in PM, the intention of the site is to replace last year's Google Doc with concise chunks of text, easily readable on a phone (as well as computer), that provide info about camp as well as external activities available in QRoo both during and after camp.<br><br>I look forward to collaborating when the time is right! To keep updating organized, click **Feedback** at the top of any page ('cept this one - just send me an email for this one) at any time and capture your ideas for improving that page. Thanks!*</span>
+### <span style="color:red">*Website creation in progress... Most everything on this site still needs team collaboration (and accenting with photos that display well on a phone). Nothing, **including dates and prices**, is finialized yet...<br><br>As we discussed at our wrap up meeting in PM, the intention of the site is to replace last year's Google Doc with concise chunks of text, easily readable on a phone (as well as computer), that provide info about camp as well as external activities available in QRoo both during and after camp.<br><br>I look forward to collaborating when the time is right! To keep updating organized, click **Feedback** at the top of any page ('cept this one - just send me an email for this one) at any time and capture your ideas for improving that page. Thanks!*</span>
 ### {% include_relative pages/snippets/registration-open.md %} *[Learn more here.](pages/booking-las-arenas.md)*
 {% include image.html file="PM24.png" caption="Photo courtesy David Weihnacht" %}
+
 Each February, we gather together in Puerto Morelos, Quintana Roo, Mexico (20 miles south of the Cancun airport) for a Dances of Universal Peace retreat.
 
 Even though the once quaint seaside village is growing and changing, we still love it there and continue to gather as a DUP community each winter to eat, dance, pray, relax, swim, sun, and adventure together.

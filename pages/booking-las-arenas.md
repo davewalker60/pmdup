@@ -20,7 +20,7 @@ As expected, prices for the rooms have risen from last year and beachside rooms 
 
   * Pay later to hang on to your money longer.
 
-### Hotel Las Arenas Pricing Options
+### Hotel Las Arenas Pricing Options***
 
 | Nights                                                  | Beachside Pesos/Night | Poolside Pesos/Night       |
 | :--------------------------------------------------------: | :----------------------------------: | :-------------------------: |
@@ -32,6 +32,8 @@ As expected, prices for the rooms have risen from last year and beachside rooms 
 \* Add additional nights for the same price per night.
 
 <span style="color:red">\** *The USD amount listed is based on an exchange rate of 17 pesos/dollar. The actual dollar (CDN or USD) price you pay gets determined using the exchange rate at the time you pay.*</span>
+
+\*\*\* All prices include ~20 peso/night guaranteed housekeeper gratuity and we encourage you to leave more.
 
 # Reserve your room
 Complete and submit [**the Las Arenas booking form**](https://docs.google.com/forms/d/e/1FAIpQLSct3SrTHl76pMYcZ5z9-eWdLCjCXzf4igqfVk689qA42YuyWA/viewform){:target="_blank"} to reserve your room now and either pay now or anytime in 2023. You can:
