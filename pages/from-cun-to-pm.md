@@ -6,7 +6,9 @@ permalink: from-cun-to-pm.html
 toc: false
 ---
 
-Once you’ve registered and have booked your travel, please complete the [**travel form**](https://docs.google.com/forms/d/e/1FAIpQLSex7cyDs_Xf33rAxqU2S749xG_MB4lMQk3fPvF_p0JkkoKyTg/viewform){:target="_blank"}.
+# Travel form
+
+Please complete the [**travel form**](https://docs.google.com/forms/d/e/1FAIpQLSex7cyDs_Xf33rAxqU2S749xG_MB4lMQk3fPvF_p0JkkoKyTg/viewform){:target="_blank"} once you’ve registered and have booked your travel to Mexico. Thanks!
 
 # Group rate rides
 

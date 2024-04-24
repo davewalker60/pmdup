@@ -6,10 +6,7 @@ permalink: venue.html
 toc: false
 ---
 
-Camp takes place immediately adjacent to the main Puerto Morelos beach in two locations:
-
-* Dance sessions take place on the ocean side of Hotel Las Arenas Puerto Morelos. We dance on the sandy ground under a shade sail witha view of the ocean in the mornings and under the stars at night.
-* Classes and late-night music jams take place across the side street next to the hotel at Alaska House, a private rental on the beach.
+{% include_relative snippets/venue-snippet.md %}
 
 Hotel Las Arenas Puerto Morelos is an affordable 2-star hotel on the beach. It's clean, definitely not the Ritz, and has its quirks! "It's Mexico!" 
   * Best price on the beach by far, especially with our 10-day, entire hotel group rate!

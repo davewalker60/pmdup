@@ -6,12 +6,14 @@ permalink: about-camp.html
 toc: false
 ---
 
-<span style="color:red">*A big thank you to Sky for capturing the essence of camp on this page! :-) Anyone else have suggestions for improvement?*</span>
+<span style="color:red">***A big thank you to Sky for capturing the essence of camp on this page! :-) Anyone else have suggestions for improvement?***</span>
 
 Unlike the typical DUP/Sufi camps that happen at a contained retreat venue with on-site lodging and meals, the Puerto Morelos camp is integrated into the town with:
 
 * Most meals taking place in small groups in restaurants
 * Lodging spread out in various places (hotels, vacation rentals, airbnbs. etc...)
+
+Typically, around 70 dancers participate each year, from seasoned veterans to first-time dancers. If you've been to any of Bernie or Sky's other camps, you'll undoubtedly be among old friends.
 
 Because camp is an open container, rather than a closed one, it embraces a number of activities that enhance people’s experience such as:
 

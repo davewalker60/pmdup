@@ -6,7 +6,7 @@ permalink: camp-schedule.html
 toc: false
 ---
 
-# Tentative Schedule
+# <span style="color:red">Placeholder/sample schedule (based on last year)</span>
 
 Each day, the [PM Announcements](https://docs.google.com/document/d/1ltG84tyK7cOuHhjEgnvjXCynJxFBalSvkEmwpFQDfE0/edit#bookmark=id.f2ov9en9bxqc) WhatsApp group will announce the day’s events. Be sure to join it!
 
@@ -36,13 +36,16 @@ Here’s the basic plan:
 - **Morning**: Dance sessions under the shade structure. Exact time TBD.
 - **Lunchtime**: Closing circle. Exact time TBD.
 
-# Camp Activities
+# Camp activities
 
 {% include_relative snippets/coming-soon.md %}
 
-## Dance Sessions
-
-## Rumi Cafe
+## Dance sessions
 
 ## Qigong
 
+## Other class offerings?
+
+## Rumi cafe
+
+## Etc...

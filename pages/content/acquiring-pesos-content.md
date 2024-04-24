@@ -1,6 +1,8 @@
 Consider acquiring pesos from your bank at home before traveling.
 
-- So you don’t absolutely have to have pesos with you upon arrival, we’ve set up rides for you that can be paid in US dollars.
+- If you are getting a ride through us, you don't have to have pesos with you upon arrival. You can pay our drivers in US dollars and the pre-determined price we set is at the current exchange rate.
+
+- Anywhere else you use USD, expect to get a horrible exchange rate!
 
 - Most people opt to get at least some pesos ahead of traveling. Most banks require that you have an account with them and it takes a couple of days to “order” them. Check the exchange rates and admin fees for the best rates. They can vary widely. Google _**USD to pesos**_ to see the current US Forbes rate. You'll never quite get this rate, but more and more these days you can get within a few cents.
 
@@ -20,4 +22,4 @@ Consider acquiring pesos from your bank at home before traveling.
 
 - Many restaurants accept USD, but typically for a horrible exchange rate. Watch closely.
 
-> Pro tip: Remember to tell your bank(s) the dates you will be traveling in Mexico using your credit card and/or debit card to lower the chances of a snafu while you’re in PM.
+> Pro tip: Remember to tell your bank(s) the dates you will be traveling in Mexico using your credit card and/or debit card to lower the chances of a fraud alert while you’re in PM.
