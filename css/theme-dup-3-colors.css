@@ -212,11 +212,13 @@ img {
     border-radius: 8px;
 }
 
+/* Use ![alt_text](image_path){:.noborder} in code */
 img.noborder {
     box-shadow: 0px 0px 0px 0px;
     border-radius: none;
 }
 
+/* Use ![alt_text](image_path){:.thinborder} in code */
 img.thinborder {
     box-shadow: 0px 0px 0px 0px;
     border-radius: 8px;

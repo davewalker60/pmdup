@@ -1,10 +1,15 @@
 ## *Other content to fit in someplace...*
 
-* La Brisa Caribe
-* Botanical Gradens
-* Croco Zoo
-* Sargasso / Sargassum
+* La brisa caribe
+* Botanical gradens
+* Croco zoo
+* Farmer's market
+* Mayan market
+* Beaches
+  * Beach palapa
+  * Sargasso / Sargassum
 * Loudo's and other noise
+* Restaurants
 
 ### Tipping
 

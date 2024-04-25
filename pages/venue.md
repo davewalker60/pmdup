@@ -8,7 +8,7 @@ toc: false
 
 {% include_relative snippets/venue-snippet.md %}
 
-Hotel Las Arenas Puerto Morelos is an affordable 2-star hotel on the beach. It's clean, definitely not the Ritz, and has its quirks! "It's Mexico!" 
+Hotel Las Arenas Puerto Morelos is an affordable 2-star hotel on the beach consisting of 30 rooms in 10 separate buildings. It's clean, definitely not the Ritz, and has its quirks! "It's Mexico!" 
   * Best price on the beach by far, especially with our 10-day, entire hotel group rate!
   * Most rooms have microwaves, mini fridges, and hot water most of the time.
   * Make friends with the geckos, keep food sealed to avoid attracting ants, and a little bit of tape on torn screens keeps the mosquitos out... You get the idea...

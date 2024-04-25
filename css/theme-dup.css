@@ -237,15 +237,24 @@ img {
     border-radius: 8px;
 }
 
+/* Use ![alt_text](image_path){:.noborder} in code */
 img.noborder {
     box-shadow: 0px 0px 0px 0px;
     border-radius: none;
 }
 
+/* Use ![alt_text](image_path){:.thinborder} in code */
 img.thinborder {
     box-shadow: 0px 0px 0px 0px;
     border-radius: 8px;
     border: 1px solid var(--banner_color);
+}
+
+/* Use ![alt_text](image_path){:.thinblackborder} in code */
+img.thinblackborder {
+    box-shadow: 0px 0px 0px 0px;
+    border-radius: 8px;
+    border: 1px solid black;
 }
 
 img.center {
