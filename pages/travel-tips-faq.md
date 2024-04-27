@@ -6,7 +6,7 @@ permalink: travel-tips-faq.html
 toc: false
 ---
 
-Traveling to a foreign country requires a bit more awareness than traveling domestically, but it doesn't need to be stressful, especially to the Mexican state of Quintana Roo (QRoo), Cancun, and Puerto Morelos.
+Traveling to a foreign country requires a bit more awareness than traveling domestically, but it doesn't need to be stressful, especially to the Mexican state of Quintana Roo (QRoo), Puerto Morelos, and the rest of the Riviera Maya.
 
 # Do I need to speak Spanish?
 
@@ -17,6 +17,18 @@ We do recommend installing an app like Google Translate on your phone and making
 # Can I use American money?
 
 Most people will accept USD, but you'll ***always*** get a horrible exchange rate. Before traveling, we recommend [acquiring some pesos from your local bank](acquiring-pesos.md).
+
+# Does "don't drink the water" apply to QRoo?
+
+Yes, even most locals experience intestinal distress by drinking water from the tap. Most lodging places, including Las Arenas, provide drinking water in 20-litre containers. We recommend bringing a sturdy water bottle with you and using it to avoid filling the landfill with small plastic bottles.
+
+# And what about eating raw fruits and vegetables?
+
+Eating improperly-washed fruits and vegetables raw also can result in intestinal distress. Cooking them and/or soaking them in water with disinfectant drop kills the bacteria. Restaurants are, for the most part, extremely safe. It's a tourist town and a bad reputation travels fast, so they understand the need to prepare the food correctly.
+
+# Will my cell phone work there?
+
+Yes, cell reception is prevalent throughout the Riviera Maya, but [make sure your cell plan includes Mexico](./cell-phones.md) and/or keep your phone in airplane mode and rely on the equally-prevalent WiFi.
 
 # Where in Puerto Morelos does camp take place?
 
