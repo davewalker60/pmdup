@@ -24,7 +24,7 @@ Yes, even most locals experience intestinal distress by drinking water from the 
 
 # And what about eating raw fruits and vegetables?
 
-Eating improperly-washed fruits and vegetables raw also can result in intestinal distress. Cooking them and/or soaking them in water with disinfectant drop kills the bacteria. Restaurants are, for the most part, extremely safe. It's a tourist town and a bad reputation travels fast, so they understand the need to prepare the food correctly.
+Eating improperly-washed fruits and vegetables raw also can result in intestinal distress. Cooking them and/or soaking them in water with disinfectant drops kills the bacteria. Restaurants are, for the most part, extremely safe. It's a tourist town and a bad reputation travels fast, so they understand the need to prepare the food correctly.
 
 # Will my cell phone work there?
 
