@@ -10,15 +10,15 @@ We have booked the entire 30-room Hotel Las Arenas Puerto Morelos for 10 nights 
 
 As we learned during camp last year, retail prices for the rooms have risen (to as much as 1800 pesos/night) with beachside rooms now costing more than poolside rooms. ***But miraculously***, the total hotel group rate we negotiated amazingly allows us to charge the same $70 per night as last year (assuming the exchange rate remains above 17 pesos/dollar) for 10-night-stay beachside rooms and ***even less*** for poolside rooms!
 
-No one knows what the impact of the US presidential election will have on the money markets, ***so we are giving you the ability to decide when your dollars get converted to pesos\***. You can either:
+No one knows what the impact of the US presidential election will have on the money markets, <span style="color:red">If the exchange rate drops below 17 pesos/US dollar, we'll need to adjust the prices in this way:</span>
 
-- Pay sooner to avoid unknown future exchange rate fluctuations.
+- The actual dollar (USD or CDN) price you pay would be determined using the exchange rate at the time you pay.
+- Dollars collected would be converted to pesos at the time collected.
+
+<span style="color:red">So, we are giving you the ability to decide when your dollars get converted to pesos.</span> You can either:
+
+- Pay sooner to avoid the generally-forecasted predicted drop in the exchange rate.
 - Pay later to hang on to your money until you feel the time is right for you.
-
-<span style="color:red">If the exchange rate drops below 17 pesos/dollar:</span>
-
-- The actual dollar (USD or CDN) price you pay will be determined using the exchange rate at the time you pay.
-- Dollars collected will be converted to pesos at the time collected.
 
 ### Hotel Las Arenas Pricing Options***
 

@@ -6,7 +6,7 @@ permalink: staff.html
 toc: false
 ---
 
-<span style="color:red">Needs updating once Jen decides who gets listed and how. What would you like in your bio? (about 120 words max) Different photo (340x250)?</span>
+<span style="color:red">Needs updating once Jen decides who gets listed and how.<br>What would people like in your (about 120 words max) bios? If different photo, please make it 340x250.</span>
 
 # Dance leaders
 

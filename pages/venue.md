@@ -18,6 +18,6 @@ Hotel Las Arenas Puerto Morelos is an affordable 2-star hotel on the beach consi
 
 The Alaska House (aka "the dance house") has a beautiful, fenced patio with an amazing ocean view.
   * Staff stays here during camp and other extended-stay dancers move in as staff departs. This year, we have the house for a whole month!
-  * There's a full kitchen for use by those staying in the house only.
+  * Dancers are welcome most anytime, but the full kitchen is reserved for use by only those staying in the house.
 
 Additional lodging is available at many places around towm. [Learn more here.](lodging-options.md)

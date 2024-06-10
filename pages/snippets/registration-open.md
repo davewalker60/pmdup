@@ -1,1 +1,1 @@
-*Hotel Las Arenas lodging registration is open.*
+*Hotel Las Arenas lodging registration for 2025 is open.*

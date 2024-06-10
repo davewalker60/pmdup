@@ -13,6 +13,7 @@ toc: false
   * <span style="color:red">Survey suggests a couple would be good</span>
   * <span style="color:red">Hotel will do them for 50 pesos/person max</span>
   * <span style="color:red">Maybe have Mary make a salad?</span>
+  * <span style="color:red">Charge partial attendees $10?</span>
 * <span style="color:red">Anything missing from included/not included list?</span>
 
 Registration is a multi-step process. Registering itself is two steps and there are additional steps for lodging and travel:
@@ -43,6 +44,6 @@ And does ***not*** include:
   
 # Partial attendance
 
-- People not attending the full camp may attend individual morning or evening sessions for $25/session (425 pesos), provided they follow the [health care guidelines](health-care-guidelines.md).
+- People not attending the full camp may attend individual morning or evening sessions for $25/session (425 pesos) and community meals for $10 (170 pesos) each, provided they follow the [health care guidelines](health-care-guidelines.md).
 - For the classes/offerings happening in the afternoons, simply make a donation to the person leading the offerings you attend.
 - To foster outreach and share the joy of the Dances of Universal Peace, we are again welcoming locals to join us on a donation or completely-comped basis, as they can afford.
