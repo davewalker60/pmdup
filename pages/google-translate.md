@@ -1,7 +1,7 @@
 ---
 title: Google Translate
 sidebar: main_sidebar
-sidebar_link: 30
+sidebar_link: 31
 permalink: google-translate.html
 toc: false
 ---

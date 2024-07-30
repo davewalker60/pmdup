@@ -41,26 +41,9 @@ entries:
       url: /puerto-morelos.html
       output: web
 
-      subfolders:
-      - title: Activities
-        output: web
-        subfolderitems:
-
-        - title: Snorkeling
-          url: /snorkeling.html
-          output: web
-
-        - title: Cenotes
-          url: /cenotes.html
-          output: web
-
-        - title: Mayan Ruins
-          url: /mayan-ruins.html
-          output: web
-
-        - title: Nightlife
-          url: /nightlife.html
-          output: web
+    - title: Activities
+      url: /activities.html
+      output: web
 
   - title: Register & Book
     output: web
