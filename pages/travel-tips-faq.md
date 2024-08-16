@@ -16,11 +16,11 @@ We do recommend installing an app like Google Translate on your phone and making
 
 # Can I use American money?
 
-Most people will accept USD, but you'll ***always*** get a horrible exchange rate. Before traveling, we recommend [acquiring some pesos from your local bank](acquiring-pesos.md).
+Most places will accept USD, but you'll ***always*** get a horrible exchange rate. Before traveling, we recommend [acquiring some pesos from your local bank](acquiring-pesos.md).
 
 # Does "don't drink the water" apply to QRoo?
 
-Yes, even most locals experience intestinal distress by drinking water from the tap. Most lodging places, including Las Arenas, provide drinking water in 20-litre containers. We recommend bringing a sturdy water bottle with you and using it to avoid filling the landfill with small plastic bottles.
+Yes, even most locals experience intestinal distress by drinking water from the tap. Most lodging places, including Las Arenas, provide drinking water in 20-litre containers. We recommend bringing a sturdy water bottle with you and using it to avoid filling the landfills with small plastic bottles.
 
 # And what about eating raw fruits and vegetables?
 

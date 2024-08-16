@@ -8,29 +8,27 @@ toc: false
 
 {% include_relative snippets/puerto-morelos-snippet.md %}
 
-Please keep this distinction in mind when considering where to stay. If you’d like more assistance than you find below, email [davewalker60@gmail.com](mailto:davewalker60@gmail.com) or post in the [PM Lodging](https://chat.whatsapp.com/KkP8Uq2BZH3J0k7oqeb9s2) WhatsApp group.
+Please keep this distinction in mind when considering where to stay. If you’d like more assistance than you find below, [Ask for assistance here](https://docs.google.com/forms/d/e/1FAIpQLSeKsY-e9iy44578E1ijjs_g5Bwi1gZCuW439N1bOBlL76U5qg/viewform){:target="_blank"}.
 
 # Portside / Beachside
 
-Hotel Las Arenas Puerto Morelos is where we dance and where a good portion of us stay. We are working directly with the hotel (thanks Dave Nur al-Haqq!) and have a block of rooms (actually ¾ of the 30-room hotel at this point!) at a group rate that includes all taxes and avoids all online booking and cleaning fees. 
-
 These are the hotels that we know of beachside. All are within a 15-minute walk of Hotel Las Arenas (where we dance), most are closer. Check Google Maps for distance to Hotel Las Arenas Puerto Morelos. 
 
-- **Hotel Las Arenas** - The closest hotel to the beach and where we dance. We are working directly with the hotel (thanks Dave Nur al-Haqq!) and have booked the entire 30-room hotel at a 10-day group rate that includes all taxes and avoids all online booking & cleaning fees. <span style="color:red">***Hotel Las Arenas lodging registration is open!***</span> *[Learn more and book here](booking-las-arenas.md).*
+- **Hotel Las Arenas** - The closest hotel to the beach, where we dance, and where a good portion of us stay. We are working directly with the hotel (thanks Dave Nur al-Haqq!) and have booked the entire 30-room hotel at a 10-day group rate that includes all taxes and avoids all online booking & cleaning fees. [<span style="color:red">***Learn more and book here***</span>](booking-las-arenas.md).
 - **Amar Inn**
+- **Casa El Moro**
 - **Cuca Macuca Hostel** - By far, the cheapest place to stay portside and right off the town square. Last we checked, a bed in a 6-bed dorm was $21/night on hostelworld.com (not sure if that includes taxes and online booking & cleaning fees).
 - **Hacienda Morelos**
 - **Hotel Caracol**
 - **Hotel Ojo de Agua**
 - **La Quinta Orquídea (Dr. Suess house)**
 - **Layla Guest House**
-- **Posada El Moro**
 - **Villas Valentina**
 - **We Hotel Puerto Morelos**
 - **Casa Velero**
 - **AirBnB-type places beachside** - AirBnB, Vrbo, etc don’t list exact addresses online, so if it says it’s more than a ½ mile from the city center, it’s probably out near the highway or across the highway in La Colonia. 
 
-> Note: If you know of other places, please let us know and we'll update this page. Thanks!
+> Note: If you know of other places, please [let us know](https://docs.google.com/forms/d/e/1FAIpQLSeKsY-e9iy44578E1ijjs_g5Bwi1gZCuW439N1bOBlL76U5qg/viewform){:target="_blank"} and we'll update this page. Thanks!
 
 # La Colonia
 

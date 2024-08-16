@@ -14,10 +14,10 @@ Hotel Las Arenas Puerto Morelos is an affordable 2-star hotel on the beach consi
   * Make friends with the geckos, keep food sealed to avoid attracting ants, and a little bit of tape on torn screens keeps the mosquitos out... You get the idea...
   * We'll be setting up a simple community kitchen and chill space in one of the rooms.
 
-**{% include_relative snippets/registration-open.md %}** ***[Learn more here.](booking-las-arenas.md)***
+**Hotel Las Arenas lodging registration is open. [Learn more here.](pages/booking-las-arenas.md)**
 
-The Alaska House (aka "the dance house") has a beautiful, fenced patio with an amazing ocean view.
+The Alaska House (aka "the dance house") is a five-bedroom rental property right on the beach with a beautiful, fenced patio and an amazing ocean view.
   * Staff stays here during camp and other extended-stay dancers move in as staff departs. This year, we have the house for a whole month!
   * Dancers are welcome most anytime, but the full kitchen is reserved for use by only those staying in the house.
 
-Additional lodging is available at many places around towm. [Learn more here.](lodging-options.md)
+Additional lodging is available at many places around town. [Learn more here.](lodging-options.md)

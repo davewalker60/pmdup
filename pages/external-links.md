@@ -8,7 +8,7 @@ toc: false
 
 The same list of links found in the top nav menu repeat here.
 
-* [Camp Registration Form (coming soon...)](https://docs.google.com/forms){:target="_blank"}
+* [Camp Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSd7atXw_w0jHAdo7dKQ6EoaH-AElo11niRYHc6ptRTmutRB6Q/viewform){:target="_blank"}
 * [Travel and Lodging Form](https://docs.google.com/forms/d/e/1FAIpQLSex7cyDs_Xf33rAxqU2S749xG_MB4lMQk3fPvF_p0JkkoKyTg/viewform){:target="_blank"}
 * [Las Arenas Booking Form](https://docs.google.com/forms/d/e/1FAIpQLSct3SrTHl76pMYcZ5z9-eWdLCjCXzf4igqfVk689qA42YuyWA/viewform){:target="_blank"}
 * [PM Dance Camp WhatsApp Community](https://chat.whatsapp.com/D7giUR3o5E1AKkqwy17Qga){:target="_blank"}

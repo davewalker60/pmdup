@@ -6,7 +6,7 @@ permalink: booking-las-arenas.html
 toc: false
 ---
 
-We have booked the entire 30-room Hotel Las Arenas Puerto Morelos for 10 nights (Feb 11 check in to Feb 21 check out) and several of the rooms for a few additional nights before and after. On December 1, we will need to release the unbooked additional rooms back to the hotel, so the sooner you book, the better chance a room will be available for your dates.
+We have booked the entire 30-room Hotel Las Arenas Puerto Morelos for 10 nights (Feb 11 check in to Feb 21 check out) and several of the rooms for a few additional nights before and after. On December 10, we will need to release the unbooked additional rooms back to the hotel, so the sooner you book, the better chance a room will be available for your dates.
 
 As we learned during camp last year, retail prices for the rooms have risen (to as much as 1800 pesos/night) with beachside rooms now costing more than poolside rooms. ***But miraculously***, the total hotel group rate we negotiated amazingly allows us to charge the same $70 per night as last year (assuming the exchange rate remains above 17 pesos/dollar) for 10-night-stay beachside rooms and ***even less*** for poolside rooms!
 
