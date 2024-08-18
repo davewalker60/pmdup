@@ -10,7 +10,7 @@
 
 - Standard restaurant and taxi tipping in Mexico is 10%.
 - Please consider giving at least 20 pesos/day to your housekeepers. They get paid very, very little per hour (like 1970s US minimum wage little) and are counting on your tips, so your $1/day tips help change their lives! I (Nur al-Haqq) do this even on the days I have them skip cleaning my room.
- 
+
 ### Donation items for the Mayan village
 
 Jessie Satira Noe is spearheading donations collection for Mayan people in the small village around Puerto Morelos. Please consider bringing donation items. Desired items include, but are not limited to: reading glasses. summer clothes for children, and simple school supplies for elementary age kids.
@@ -26,7 +26,7 @@ The municipality of Puerto Morelos consists two distinct parts with these nickna
 - **La Colonia** - 2+ miles away from the beach on the west side of the highway, nicknamed “the colony”. It’s where most of the locals live and has much more authentic local cuisine and street food than portside. We sometimes take taxis there for dinner.
   - It's a 7-minute / 2-mile drive to La Colonia.
   - Taxis are for 40 pesos ($2.35 US at 17 pesos/dollar) to town (50 if you are going past Timon Ave) and by law can only take 4 passengers
-  - The collectivo is a 10-peso public transportation option with lots of “local flavor”. **Please consider Wearing a mask on the collectivos** before and during camp to help keep us all healthy. 
+  - The [collectivo](https://puertomorelos.mx/producto/colectivos/){:target="_blank"} is a 10-peso public transportation option with lots of “local flavor”. **Please consider wearing a mask on the collectivos** before and during camp to help keep us all healthy. 
 
 ### Staying safe in Puerto Morelos
 

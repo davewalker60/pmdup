@@ -6,9 +6,7 @@ permalink: from-cun-to-pm.html
 toc: false
 ---
 
-# Travel form
-
-Please complete the [**travel form**](https://docs.google.com/forms/d/e/1FAIpQLSex7cyDs_Xf33rAxqU2S749xG_MB4lMQk3fPvF_p0JkkoKyTg/viewform){:target="_blank"} once you’ve registered and have booked your travel to Mexico. Thanks!
+This page covers various ways to get from the CUN airport to the retreat. The most common (and highly-recommended) way is to  rideshare with us. Whether riding with us or not, <span style="color: red">please complete the [travel form](https://docs.google.com/forms/d/e/1FAIpQLSex7cyDs_Xf33rAxqU2S749xG_MB4lMQk3fPvF_p0JkkoKyTg/viewform){:target="_blank"} once you’ve registered and have booked your travel to Mexico.</span> Thanks!
 
 # Group rate rides
 
@@ -20,12 +18,20 @@ Once you clear customs at CUN, the scene is quite a zoo! But no need to be intim
 
 # Arranging your own ride
 
+## By taxi or private car
+
 - The best rate we’ve found online is to pre-arrange a ride using the [CLICK HERE FOR DISCOUNTED RATES](https://cancun.ridebitsapp.com/central/new_reservation){:target="_blank"} link on the [Cancun International Airport](https://www.cancunairport.com/taxi.html){:target="_blank"} website.
 - Avoid hailing a taxi at the airport. Some people have been charged as much as triple ($90 yikes!). In fact, in an attempt to lessen the badgering, the airport has made it “illegal” to hail a cab at the curb. They (and we) highly recommend pre-arranging your ride. 
 
-#### By bus
+## By bus/taxi combination
 
 <span style="color: red">**There no longer is a bus that goes from the airport directly to PM!**</span> Getting to PM by bus is still possible, but it takes a minimum of two hours by either:
 
-- Taking a bus through traffic to downtown then getting on another bus to drive right back through the same traffic jam past the airport and on to PM
-- Taking the airport bus right past PM to downtown Playa del Carmen then getting on another bus to return to PM.
+- Taking an ADO bus north from the airport through traffic to downtown Cancun, walking across the street, getting on a Playa Express bus to Playa del Carmen (driving right back through the same traffic jam past the airport), getting off at Puerto Morelos, then taking a taxi or [the collectivo](https://puertomorelos.mx/producto/colectivos/){:target="_blank"} from the highway to your accommodations.
+- Taking an ADO bus south from the airport (driving right past Puerto Morelos) to downtown Playa del Carmen, getting on a Playa Express bus to Cancun, getting off at Puerto Morelos, then taking a taxi  or [the collectivo](https://puertomorelos.mx/producto/colectivos/){:target="_blank"} from the highway to your accommodations.
+
+There is a taxi/collectivo stand on the east side of the highway (around the corner from where the northbound buses stop).
+
+## By rental car
+
+The Cancun airport is modern, on par with typical US domestic airports, complete with an in-airport rental car center. Check with your own car insurance company to see if your policy covers you while in Mexico.
