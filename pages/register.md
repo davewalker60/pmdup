@@ -7,7 +7,6 @@ toc: false
 ---
 
 <span style="color:red"> Wayne, things to consider:</span>
-* <span style="color:red">Like we did last year, can we again encourage people to register sooner by stating that payment isn't due until December? If we expect people to pay when they register, people are just gonna wait until the last minute to register again like was happening last year before we changed the policy.</span>
 * <span style="color:red">Ask for approximate travel dates on the reg form?</span>
 * <span style="color:red">Decide how many community meals</span>
   * <span style="color:red">Survey suggests a couple would be good</span>
@@ -18,7 +17,7 @@ toc: false
 
 Registration is a multi-step process. Registering itself is two steps and there are additional steps for lodging and travel:
 1. Please complete and submit [**the registration form**](snippets/coming-soon.md){:target="_blank"} (with your approximate travel dates) as soon as possible.
-2. Send your registration payment as soon as is convenient and no later than December 1st.
+2. Send your registration payment as soon as is convenient (especially if you are including a scholarship donation) and **no later than December 15th**.
 3. Once you've arranged your travel, complete [**the travel form**](https://docs.google.com/forms/d/e/1FAIpQLSex7cyDs_Xf33rAxqU2S749xG_MB4lMQk3fPvF_p0JkkoKyTg/viewform){:target="_blank"}. More info at:
   * [Getting from Home to PM](./from-home-to-pm.md)
   * [Getting from CUN to PM](from-cun-to-pm.md)
@@ -26,13 +25,13 @@ Registration is a multi-step process. Registering itself is two steps and there 
   * [Lodging options](lodging-options.md)
   * [Las Arenas booking info](booking-las-arenas.md) *(or jump directly to [**the Las Arenas booking form**](https://docs.google.com/forms/d/e/1FAIpQLSct3SrTHl76pMYcZ5z9-eWdLCjCXzf4igqfVk689qA42YuyWA/viewform){:target="_blank"})*
 
-> Before December 1st, you are considered registered by completing step 1.<br>After December 1st, you are not considered registered until you've completed steps 1 and 2.
+> Before December 15th, you are considered registered by completing step 1.<br>After December 15th, you are not considered registered until you've completed steps 1 and 2.
 
-# Full attendance
+# Full attendance - [(register here)](https://docs.google.com/forms/d/e/1FAIpQLSd7atXw_w0jHAdo7dKQ6EoaH-AElo11niRYHc6ptRTmutRB6Q/viewform){:target="_blank"}
 
 Full attendance registration cost is $225-$350/person as you can afford and includes:
 * All morning & evening dance sessions
-* All morning practices, afternoon classes, and offerings
+* All morning practices, afternoon classes, and other offerings
 * Late night sing-alongs & music jams
 * Two community meals
 * Use of the simple community kitchen
@@ -42,8 +41,6 @@ And does ***not*** include:
 * Other meals
 * Lodging
 * Airfare and other transportation to PM (though [we will coordinate your rides](from-cun-to-pm.md) from/to CUN)
-
-##  [Access the registration form here](https://docs.google.com/forms/d/e/1FAIpQLSd7atXw_w0jHAdo7dKQ6EoaH-AElo11niRYHc6ptRTmutRB6Q/viewform){:target="_blank"}.
 
 # Partial attendance
 
