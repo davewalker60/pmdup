@@ -8,9 +8,7 @@ toc: false
 
 # <span style="color:red">Placeholder/sample schedule (based on last year)</span>
 
-Each day, the [PM Announcements](https://docs.google.com/document/d/1ltG84tyK7cOuHhjEgnvjXCynJxFBalSvkEmwpFQDfE0/edit#bookmark=id.f2ov9en9bxqc) WhatsApp group will announce the day’s events. Be sure to join it!
-
-Here’s the basic plan:
+The following schedule describes the basic structure of the retreat and is subject to change. Each day’s specific events are announced in the camp's [WhatsApp community](whatsapp.md).
 
 **Feb 12**
 
