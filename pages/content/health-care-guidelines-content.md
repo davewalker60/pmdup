@@ -7,7 +7,9 @@ To help keep everyone well, please:
 
 Thank you for caring for all of us!
 
-## *For Reference:* Covid Care Guidelines from 2024
+<span style="color:red">Everything below is last year's text just for reference. Does any of it need to be added above?</span>
+
+## Covid Care Guidelines from 2024
 Covid and other illnesses are on the rise again. To help keep everyone well, please:
 
 - Be cautious in your interactions in crowded and indoor spaces for at least a week before traveling, 

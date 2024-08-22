@@ -15,7 +15,10 @@ This page describes activities in and around Puerto Morelos that have been popul
 ## Sargasso / Sargassum
 ## La brisa caribe
 # Snorkeling
+## Off shore
+## At the reef
 # Cenotes
+The cenote road...
 # Mayan ruins
 # Nightlife
 # Botanical gardens

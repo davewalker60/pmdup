@@ -18,7 +18,7 @@ Consider acquiring pesos from your bank at home before traveling.
 
 - Be sure you are using a debit card in ATMs. Most banks treat ATM withdrawal using a credit card as a cash advance, which immediately starts accruing interest charges on your **entire** outstanding balance.
 
-- Most basic credit cards charge a 3% foreign transaction fee. Check your cards. 
+- Most basic credit cards charge a 3% foreign transaction fee. Check your cards and, if you don't have one that waives the 3% fee, consider applying a credit card that does.
 
 - Many restaurants accept USD, but typically for a horrible exchange rate. Watch closely.
 

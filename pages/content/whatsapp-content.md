@@ -18,7 +18,7 @@ For 2025, we've created the **PMDUP Community** WhatsApp community with these ch
 
   - To not require people to scroll through endless messages to find time-sensitive trip information.
 
-- **PM '25 Post Camp ** is an unmoderated group that people staying in Puerto Morelos longer than camp use for logistics (like _Who's in for dinner tonight at El Pesquero's?_).  Anyone staying on after camp can join the group. All who join can post ***once camp ends***.
+- **PM '25 Post Camp** is an unmoderated group that people staying in Puerto Morelos longer than camp use for logistics (like _Who's in for dinner tonight at El Pesquero's?_).  Anyone staying on after camp can join the group. All who join can post ***once camp ends***.
 
   > After camp, **PM '25 Dancer Chat** remains active for people to continue to use to connect. Please don't use **PM '25 Post Camp** for postings that the whole camp might enjoy. People who return home tend to continue to live vicariously through those remaining in Puerto Morelos longer.  
 
@@ -29,9 +29,9 @@ All groups related to this year's camp are available in the **PMDUP Community** 
 
 1. Navigate to the **PMDUP Community**.
    - From your phone, in your **Chats** list, locate and tap **PMDUP Community**.
-   - From your computer, click the Communities tab, then click **PMDUP Community**.
+   - From your computer, click the **Communities** tab, then click **PMDUP Community**.
 2. A list appears showing the groups you're in and the groups you can join.
-   - Tap or click any group you can join.
+   - Tap or click any group you can join to request access.
 
 # How to reply privately
 
