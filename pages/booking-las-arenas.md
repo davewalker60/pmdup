@@ -30,7 +30,8 @@ No one knows what the impact of the US presidential election will have on the mo
 | 7 nights                                                |            **$600** ($85.71<span style="color:red">**</span>)            | **$550** ($78.57<span style="color:red">**</span>) |
 | 6 nights                                                |            **$550** ($91.67<span style="color:red">**</span>)            | **$525** ($87.50<span style="color:red">**</span>) |
 
-\* Add up to 10 additional nights (before and/or after) for the same price per night. Additional discount available for 21+ nights.
+<!-- \* Add up to 10 additional nights (before and/or after) for the same price per night. Additional discount available for 21+ nights.-->
+\* Add additional nights (before and/or after) for the same price per night.
 
 <span style="color:red">\** *If the exchange rate drops below 17 pesos/dollar, the actual dollar (CDN or USD) price you pay will be determined using the exchange rate at the time you pay.*</span>
 
