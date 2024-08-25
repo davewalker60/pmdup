@@ -41,8 +41,8 @@ entries:
       url: /puerto-morelos.html
       output: web
 
-    - title: Activities
-      url: /activities.html
+    - title: Attractions
+      url: /attractions.html
       output: web
 
   - title: Register & Book

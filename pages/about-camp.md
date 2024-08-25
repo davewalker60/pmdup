@@ -15,7 +15,7 @@ Unlike the typical DUP/Sufi camps that happen at a contained retreat venue with 
 
 Typically, around 70 dancers participate each year, from seasoned veterans to first-time dancers. If you've been to any of Bernie or Sky's other camps, you'll undoubtedly be among old friends.
 
-Because camp is an open container, rather than a closed one, it embraces a number of activities that enhance people’s experience such as:
+Because camp is an open container, rather than a closed one, it embraces a number of non-dance activities that enhance people’s experience such as:
 
 * Snorkeling
 * Cenote trips
