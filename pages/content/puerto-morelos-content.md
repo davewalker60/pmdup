@@ -2,6 +2,12 @@
 
 There are many, many restaurants both beachside and in La Colonia to explore ranging from the very inexpensive places the locals frequent to very expensive places with tourist price gouging. We recommend talking with longtime PM dancers to find what's best for you both beachside and via group excursions to La Colonia.
 
+# Groceries
+
+Whether doing some of your own cooking or just looking for snacks, the beachside Chedraui (pronounced shuh DROU wee) supermarket will have most of what you need. It's located in the first block south of the town square. There is also a much larger Chedraui just under the overpass out at the highway in La Colonia.
+
+You can also get fresh juices, fruit, and vegetables at Fruteria El Puerto, a small shop (that we lovingly refer to as *the juice place*) on Niños Heroes (one block west and a few doors south of Las Arenas).
+
 # Loudo's and other noise
 
 We are right in the beachside town, and as can be expected in any beachside tourist town, there is plenty of nightly music. The downside, for those who like to retire early, is most of the music happens between 9 PM and midnight. The upside is most of the music doesn't start until after the end of our evening dance sessions.

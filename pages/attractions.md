@@ -8,7 +8,7 @@ toc: true
 
 <span style="color:red">Which is better, using this mini-TOC or putting each section on its own page?</span>
 
-This page describes tourist attractions in and around Puerto Morelos that have been popular with our community. We highly recommend arriving a fe days early and/or staying longer to take in all the Riviera Maya has to offer.
+This page describes tourist attractions in and around Puerto Morelos that have been popular with our community. We highly recommend arriving a few days early and/or staying longer to take in all the Riviera Maya has to offer.
 
 # Beaches
 
@@ -45,18 +45,44 @@ There are several nice coral heads within the swimming area. The color isn't as 
 > Swimming from shore to the reef is illegal (to protect the reef as well as keep people from swimming through the boat lane).
 
 # Cenotes
-*Coming soon...*
+The massive underground waterway throughout the Yucatan provides hundreds of wonderful pools of fresh water to swim in, called [*cenotes*](https://en.wikipedia.org/wiki/Cenote){:target="_blank"} (pronounced *see NO tays*), with some above ground and others totally underground. Though quite rustic, cenote operators offer varying amenities such as tables, lounge chairs, palapas, food, drink, and of course access to the water.
 
-The cenote road...
+We typically pack a lunch and spend an entire afternoon there. The water temperature is a consistent 25C (77F), so it's best to wear a swim top or t-shirt in the water. And be sure to bring a mask and snorkel (if you have them) to explore the stalactites and vegetation. Fins are not needed.
+
+The cenote road, just south of Puerto Morelos, leads to at least a dozen different places. Some of our favorites are:
+* Siete Bocas
+* Verde Lucero
+* Boca del Puma
+* Kin Ha
+* La Noria
+
 # Mayan ruins
-*Coming soon...*
+The [Mayan civilization](https://en.wikipedia.org/wiki/Maya_civilization){:target="_blank"} lived in all of southeast Mexico (including the Yucatan Penninsula) and left behind many ruins, which archeologists have excavated and restored. The most popular amongst our dancers are:
+* Tulum (right on the ocean shore)
+* Chichen Itza
+* Ek Balam
+* Coba
+
 # Mayan market
-*Coming soon...*
+One block south of the town square on Javier Rojo Gomez, the Mayan market is a series of small shops run by people of Mayan heritgae. Many of the goods sold are created by local, and also there are plenty of typical (and not so typical) manufactured tourist souvenirs.
+
 # Farmer’s market
-*Coming soon...*
+Each Wednesday morning, the local farmer's market happens on the side street just off the SW corner of the town square.
+
+# Artist's market
+On Friday and Saturday evenings, the town square is host to many local artists selling there creations. 
+
 # Botanical gardens
-*Coming soon...*
-# Croco zoo
-*Coming soon...*
+El Jardín Botánico Dr. Alfredo Barrera Marin](https://www.facebook.com/JBPuertoMorelos){:target="_blank"} is a hidden treasure just off the highway on the south edge of Puerto Morelos. Founded in 1982 to protect the region's flora, this 65-hectare jungle area is the largest botanical garden in Mexico. Plants are divided by type: cacti, ornamentals, palms, medicinal, and more.
+
+It has been running on little funding for years, so it could use a little love, but is still well worth exploring. It also includes a [chiclero camp](https://en.wikipedia.org/wiki/Chicle){:target="_blank"}, a reading cabin, an archaeological zone with semi-excavated small ruins, a natural park, hanging bridges, and a climbing tower that overlooks the mangrove swamp.
+
+# Exotic animal zoo
+The [Croco Cun Zoo](https://www.crococunzoo.com/){:target="_blank"}, located just off the highway on the north edge of Puerto Morelos, gives guided "touch, hold, and feed" tours of its jungle creatures. Orignally a rescues and rehabs sanctuary, it has become a very unique (their word is *peculiar*) place with crocodiles, snakes, wild monkeys, and more.
+
 # Nightlife
-*Coming soon...*
+While there is tourism pressure to become like Cancun, preservationist locals work hard to not have the quaint seaside village become an all-night party destination. There are a few places that have music until midnight, but most shops and restaurants roll up the sidewalks by 8:00. That said, a sampling of our favorite nightlife includes:
+* Karaoke on Thursdays 8-10 at Layla Guesthouse
+* Live bands (with varying musicial genres depending on the night of the week) on the La Sirena rooftop
+* Live (mostly rock) bands across the street from Las Arenas at Louro's (nicknamed *Loudo's* because it's so loud it's better enjoyed by listening from across the street.)
+* More chill afternoon music with live duos Saturdays and Sundays 4:30 to 6:00 up the beach at Unico Beach Club 

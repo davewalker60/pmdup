@@ -10,6 +10,9 @@ toc: false
 
 This page shows all the **Before Leaving Home** topics in a single page, scrollable format.
 
+<h0alltopics>Travel Documents</h0alltopics>
+{% include_relative content/travel-documents-content.md %}
+
 <h0alltopics>WhatsApp</h0alltopics>
 {% include_relative content/whatsapp-content.md %}
 

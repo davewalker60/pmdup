@@ -86,6 +86,10 @@ entries:
     output: web
     folderitems:
 
+    - title: Travel Documents
+      url: /travel-documents.html
+      output: web
+
     - title: WhatsApp
       url: /whatsapp.html
       output: web
