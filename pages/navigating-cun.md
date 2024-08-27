@@ -6,31 +6,52 @@ permalink: navigating-cun.html
 toc: false
 ---
 
-{% include_relative snippets/coming-soon.md %}
+<span style="color:red">Terminal 4 flow/path needs verifying. Can we use the same text as for T3?</span>
 
-Like arriving at any international destination, you proceed through:
-* immigration
-* baggage claim
-* customs
+Like arriving at any international destination, at the [Cancun International Airport (CUN)](https://www.cancunairport.com/){:target="_blank"} you proceed through:
+* Immigration - The tourist entry cards are now done online to expedite the immigration process. [Complete one here before flying.](https://www.cancunairport.com/tourist-card.html){:target="_blank"}
+* Baggage claim - Bags typically appear at baggage claim a minimum of 45 minutes after your plane arrives because they now all get scanned by customs before being delivered to the baggage carousel.
+* Customs
 
-Once you've passed through customs:
-* vendors
-* the curb
-  
-
-[Cancun International Airport](https://www.cancunairport.com/){:target="_blank"} website
+Once you've passed through customs, you need to navigate your way through the vendors to find the curb and your ride. CUN is becoming more and more like a US domestic airport each year. But... the vendors outside of customs can seem intimidating and finding your ride at the curb can be a bit tricky. This page provides tips for each terminal to more seamlessly guide you through the process. 
 
 # Terminal 2
-* [CUN Terminal 2](https://www.cancunairport.com/terminal-2.html){:target="_blank"}
-* Add instructions from last year's ride group chats
+* [CUN Terminal 2](https://www.cancunairport.com/terminal-2.html){:target="_blank"} on the CUN website gives a general description of the terminal and lists the airlines that use it.
+* For domestic flights (coming from elsewhere in Mexico), there is no immigration or customs.
+* Proceed directly to baggage claim.
+* To find your ride: 
+  * If we've arranged a ride for you, exit the building, locate door 6, and walk across the passenger pickup area toward the little park/grassy area to meet your driver.
+  * If you've prearranged a commercial ride yourself, follow the instructions you've been given from the ride company. 
+  * If you are renting a car, look for your rental company desk before exiting the building.
 
 # Terminal 3
-* [CUN Terminal 3](https://www.cancunairport.com/terminal-3.html){:target="_blank"}
-* Add instructions from last year's ride group chats
+* [CUN Terminal 3](https://www.cancunairport.com/terminal-3.html){:target="_blank"} on the CUN website gives a general description of the terminal and lists the airlines that use it.
+* After deplaning, you'll walk through some long hallways and go down some stairs/escalator to get to immigration.
+* Immigration is a very large room with many lines. Sometimes the room is relatively empty; sometimes there are hundreds of people. If the room is busy and your passport doesn't expire in the next 180 days, consider using the automated immigration gates at the far end of the room to typically get through faster. This is especially useful if you don't need to wait for bags.
+* After immigration, you'll pass through some doors to the duty-free and baggage claim area with typical airport conveyor belts.
+* Once you have your bags, you'll walk through the customs area (wide hallway). Customs inspection is random. If you get selected/approached by a customs officer, you'll be directed to put your luggage through a TSA-type scanner. Otherwise, just keep walking. (No more pressing the button for the green or red light.)
+* You'll pass through another set of doors and suddenly be in a whole different world where all the vendors try to sell you things. Just say "No gracias" to the vendors and keep walking.
+* To find your ride: 
+  * If we've arranged a ride for you, exit the building, ***immediately*** turn to the left, go under the sign to the Friends & Family area, hug the building wall, walk past Berryhill Bar, go through the gate to the very first parking spot to meet your driver.
+  * If you've prearranged a commercial ride yourself, exit the building, walk straight to where all the people and cars are, and follow the instructions you've been given from the ride company. 
+  * If you are renting a car, look for your rental company desk before exiting the building.
+
 
 # Terminal 4
-* [CUN Terminal 4](https://www.cancunairport.com/terminal-4.html){:target="_blank"}
-* Add instructions from last year's ride group chats
+* [CUN Terminal 4](https://www.cancunairport.com/terminal-4.html){:target="_blank"} on the CUN website gives a general description of the terminal and lists the airlines that use it.
+* <span style="color:red">Path needs verifying. Can we use the same text as for T3? Where is all the vendor stuff located?</span>
+* There are two building exits that go to two completely different places. So to find your ride:
+  * If we've arranged a ride for you, after baggage claim, follow signs for Friends & Family and as you approach the exits, ***don't*** follow the flow of foot traffic going left. Instead proceed straight and exit through the Friends & Family exit door. Once outside, turn to the right, and walk past the crowd to a less-populated spot just past the orange cones.
+  * If you've prearranged a commercial ride yourself, follow the instructions you've been given from the ride company. 
+  * If you are renting a car, look for your rental company desk before exiting the building.
+
+# Meeting our drivers
+
+Only non-commercial friends and family members are allowed to pick people up at Friends & Family. If anyone tries to talk to you while you are waiting at the curb for our driver to pull up, simply point to the street and ask "Friends & Family?" and they'll usually point where to stand.
+
+Say nothing else! If you mention the word taxi, car, driver, or anything else that indicates you are being picked up be someone other than your friend or family member, they might not let you get in the car because the area is just for non-commercial pickups.
+
+Do not take money out or say anything about money. Once you get to Puerto Morelos, you can pay your driver.
 
 # VisiTAX
 During Covid, QRoo instituted a [visiTAX](https://www.cancunairport.com/visitax){:target="_blank"}. They say it's mandatory, but collection is not enforced and paying can only be done online, so paying it is essentially voluntary.
