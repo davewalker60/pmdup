@@ -40,10 +40,11 @@ Once you've passed through the customs doors, you need to navigate your way thro
 * You'll enter a very large room with many lines. Sometimes the room is relatively empty; sometimes there are hundreds of people. If the room is busy and your passport doesn't expire in the next 180 days, consider using the automated e-gates at the far end of the room to typically get through faster. This is especially useful if you don't need to wait for bags.
 * After immigration/passport control, you'll pass through some doors to the duty-free and baggage claim area with typical airport conveyor belts.
 * Once you have your bags, you'll walk through the customs area (wide hallway). Unless a customs officer stops you, just keep walking.
-* You'll pass through another set of doors and suddenly be in a whole different world where all the vendors try to sell you things. Just say "No gracias" to the vendors and keep walking.* There are two building exits that go to two completely different places. So to find your ride:
+* You'll pass through another set of doors and suddenly be in a whole different world where all the vendors try to sell you things. Just say "No gracias" to the vendors and keep walking.
+* There are two building exits that go to two completely different places. So to find your ride:
   * If you've prearranged a commercial ride yourself, follow the instructions you've been given from the ride company. 
   * If you are renting a car, look for your rental company desk before exiting the building.
-  * If we've arranged a ride for you, after baggage claim, follow signs for **Family and Friends Only** and as you approach the exits, ***don't follow the big red sign*** and the flow of foot traffic going left. Instead proceed straight and exit through the **Family and Friends Only** exit door. Once outside, turn to the right, and walk past the crowd to a less-populated spot just past the orange cones. ![Terminal 4 exit](../images/terminal_4_exit.png) 
+  * If we've arranged a ride for you, after baggage claim, follow signs for **Family and Friends Only** and as you approach the exits, <span style="color:red">*don't follow the big red sign*</span> and the flow of foot traffic going left. Instead proceed straight and exit through the **Family and Friends Only** exit door. Once outside, turn to the right, and walk past the crowd to a less-populated spot just past the orange cones. ![Terminal 4 exit](../images/terminal_4_exit.png) 
 
 # Meeting our drivers
 

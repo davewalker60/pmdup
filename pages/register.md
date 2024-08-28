@@ -12,9 +12,14 @@ Registration is a multi-step process. Registering itself has three steps and the
 1. Check your passport now to verfiy that it will still be valid on the date you travel to Mexico.
 2. Complete and submit [**the registration form**](snippets/coming-soon.md){:target="_blank"} (with your approximate travel dates) as soon as possible.
 3. Send your registration payment as soon as is convenient (especially if you are including a scholarship donation) and **no later than December 15th**.
-4. Once you've arranged your travel, complete [**the travel form**](https://docs.google.com/forms/d/e/1FAIpQLSex7cyDs_Xf33rAxqU2S749xG_MB4lMQk3fPvF_p0JkkoKyTg/viewform){:target="_blank"}. More info at:
+4. Once you've arranged your travel, complete [**the travel form**](https://docs.google.com/forms/d/e/1FAIpQLSex7cyDs_Xf33rAxqU2S749xG_MB4lMQk3fPvF_p0JkkoKyTg/viewform){:target="_blank"}.
+   > If you are there on Tuesday, please join us for weed pulling and a potential evening pre-camp dance. Also, [many people stay for a week or more after camp](attractions.md#post-camp-community), so consider extending your trip to join in the fun!)
+   
+   Learn more travel info at:
+
   * [Getting from Home to PM](./from-home-to-pm.md)
   * [Getting from CUN to PM](from-cun-to-pm.md)
+  * [Travel Documents](travel-documents.md)
 5. Arrange your lodging.
   * [Lodging options](lodging-options.md)
   * [Las Arenas booking info](booking-las-arenas.md) *(or jump directly to [**the Las Arenas booking form**](https://docs.google.com/forms/d/e/1FAIpQLSct3SrTHl76pMYcZ5z9-eWdLCjCXzf4igqfVk689qA42YuyWA/viewform){:target="_blank"})*

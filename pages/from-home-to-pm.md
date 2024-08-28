@@ -8,6 +8,8 @@ toc: false
 
 This page covers various ways to get from home to the retreat. The most common way is to fly to the Cancun International Airport (CUN) and rideshare with us to Puerto Morelos. Whether riding with us or not, <span style="color: red">please complete the [travel form](https://docs.google.com/forms/d/e/1FAIpQLSex7cyDs_Xf33rAxqU2S749xG_MB4lMQk3fPvF_p0JkkoKyTg/viewform){:target="_blank"} once you’ve registered and have booked your travel to Mexico.</span> Thanks!
 
+> Refer to our [Travel Documents](travel-documents.md) page to learn what's needed to enter Mexico.
+
 # By air
 
 To get from home to Puerto Morelos by air, follow these steps:
@@ -18,7 +20,7 @@ To get from home to Puerto Morelos by air, follow these steps:
    - Non-economy frequent flyer miles tickets are fully-refundable.
    - Book one-way tickets to make it easier to switch if you decide to stay longer once down there.
 2. Use our [Navigating CUN](navigating-cun.md) page to learn your way around the Cancun airport.
-3. Arrange your travel from the airport to Puerto Morelos. Our [Getting from CUN to Puerto Morelos](from-cun-to-pm.md) page describes several ways, including using the [travel form](https://docs.google.com/forms/d/e/1FAIpQLSex7cyDs_Xf33rAxqU2S749xG_MB4lMQk3fPvF_p0JkkoKyTg/viewform){:target="_blank"}</span> to arrange a ride through us (highly recommended).
+3. Arrange your travel from the airport to Puerto Morelos. Our [Getting from CUN to Puerto Morelos](from-cun-to-pm.md) page describes several ways, including using the [travel form](https://docs.google.com/forms/d/e/1FAIpQLSex7cyDs_Xf33rAxqU2S749xG_MB4lMQk3fPvF_p0JkkoKyTg/viewform){:target="_blank"} to arrange a ride through us (highly recommended).
 
 # By bus
 

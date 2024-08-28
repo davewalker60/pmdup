@@ -77,12 +77,21 @@ El Jardín Botánico Dr. Alfredo Barrera Marin](https://www.facebook.com/JBPuert
 
 It has been running on little funding for years, so it could use a little love, but is still well worth exploring. It also includes a [chiclero camp](https://en.wikipedia.org/wiki/Chicle){:target="_blank"}, a reading cabin, an archaeological zone with semi-excavated small ruins, a natural park, hanging bridges, and a climbing tower that overlooks the mangrove swamp.
 
-# Exotic animal zoo
-The [Croco Cun Zoo](https://www.crococunzoo.com/){:target="_blank"}, located just off the highway on the north edge of Puerto Morelos, gives guided "touch, hold, and feed" tours of its jungle creatures. Orignally a rescues and rehabs sanctuary, it has become a very unique (their word is *peculiar*) place with crocodiles, snakes, wild monkeys, and more.
+# Interactive animal sanctuary
+The [Croco Cun Zoo](https://www.crococunzoo.com/){:target="_blank"}, located just off the highway on the north edge of Puerto Morelos, gives guided "touch, hold, and feed" tours of its jungle creatures. Originally a rescues and rehabs sanctuary, it has become a very unique (their word is *peculiar*) place with crocodiles, snakes, wild monkeys, and more.
 
 # Nightlife
 While there is tourism pressure to become like Cancun, preservationist locals work hard to not have the quaint seaside village become an all-night party destination. There are a few places that have music until midnight, but most shops and restaurants roll up the sidewalks by 8:00. That said, a sampling of our favorite nightlife includes:
 * Karaoke on Thursdays 8-10 at Layla Guesthouse
-* Live bands (with varying musicial genres depending on the night of the week) on the La Sirena rooftop
+* Live bands (with varying musical genres depending on the night of the week) on the La Sirena rooftop
 * Live (mostly rock) bands across the street from Las Arenas at Louro's (nicknamed *Loudo's* because it's so loud it's better enjoyed by listening from across the street.)
-* More chill afternoon music with live duos Saturdays and Sundays 4:30 to 6:00 up the beach at Unico Beach Club 
+* More chill afternoon music with live duos Saturdays and Sundays 4:30 to 6:00 up the beach at Unico Beach Club
+
+# Post-camp community
+Many people stay for a week or even up to a month after camp, so consider joining in the fun! Over the years, "the longtimers" have built a unique sense of community. We:
+* Sightsee all the above attractions together
+* Extend camp with post-camp dances, music jams, qigong, art/drawing sessions, etc...
+* Hang out at the beach palapa and snorkel together
+* Go to lunches and dinners together
+* Have potlucks
+* Enjoy live music, karaoke, and movies together
