@@ -12,19 +12,19 @@ Registration is a multi-step process. Registering itself has three steps and the
 1. Check your passport now to verfiy that it will still be valid on the date you travel to Mexico.
 2. Complete and submit [**the registration form**](snippets/coming-soon.md){:target="_blank"} (with your approximate travel dates) as soon as possible.
 3. Send your registration payment as soon as is convenient (especially if you are including a scholarship donation) and **no later than December 15th**.
-4. Once you've arranged your travel, complete [**the travel form**](https://docs.google.com/forms/d/e/1FAIpQLSex7cyDs_Xf33rAxqU2S749xG_MB4lMQk3fPvF_p0JkkoKyTg/viewform){:target="_blank"}.
-   > If you are there on Tuesday, please join us for weed pulling and a potential evening pre-camp dance. Also, [many people stay for a week or more after camp](attractions.md#post-camp-community), so consider extending your trip to join in the fun!)
-   
-   Learn more travel info at:
-
+4. Determine how long you'd like to stay.
+   * Some people arrive a few days early.
+   * On the day before camp starts, we [prepare the dance space](preparing-dance-space.md) and, if we get done, have a pre-camp dance in the evening.
+   * [Many people stay for a week or more after camp](attractions.md#post-camp-community), so consider extending your trip to join in the fun!
+5. Once you've arranged your travel, complete [**the travel form**](https://docs.google.com/forms/d/e/1FAIpQLSex7cyDs_Xf33rAxqU2S749xG_MB4lMQk3fPvF_p0JkkoKyTg/viewform){:target="_blank"}. See more travel info at:
   * [Getting from Home to PM](./from-home-to-pm.md)
   * [Getting from CUN to PM](from-cun-to-pm.md)
   * [Travel Documents](travel-documents.md)
-5. Arrange your lodging.
+6. Arrange your lodging.
   * [Lodging options](lodging-options.md)
   * [Las Arenas booking info](booking-las-arenas.md) *(or jump directly to [**the Las Arenas booking form**](https://docs.google.com/forms/d/e/1FAIpQLSct3SrTHl76pMYcZ5z9-eWdLCjCXzf4igqfVk689qA42YuyWA/viewform){:target="_blank"})*
 
-> Before December 15th, you are considered registered by completing step 1.<br>After December 15th, you are not considered registered until you've completed steps 1 and 2.
+> Before December 15th, you are considered registered by completing steps 1 and 2.<br>After December 15th, you are not considered registered until you've completed steps 1, 2, and 3.
 
 # Full attendance - [(register here)](https://docs.google.com/forms/d/e/1FAIpQLSd7atXw_w0jHAdo7dKQ6EoaH-AElo11niRYHc6ptRTmutRB6Q/viewform){:target="_blank"}
 
