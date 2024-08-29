@@ -4,7 +4,7 @@ sidebar: main_sidebar
 sidebar_link: 1
 permalink: venue.html
 toc: false
-search: exclude
+search: include
 ---
 
 {% include_relative snippets/venue-snippet.md %}

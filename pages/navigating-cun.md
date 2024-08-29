@@ -4,7 +4,7 @@ sidebar: main_sidebar
 sidebar_link: 28
 permalink: navigating-cun.html
 toc: false
-search: exclude
+search: include
 ---
 
 Like arriving at any international destination, at the [Cancun International Airport (CUN)](https://www.cancunairport.com/){:target="_blank"} you proceed through:

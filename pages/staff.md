@@ -4,7 +4,7 @@ sidebar: main_sidebar
 sidebar_link: 2
 permalink: staff.html
 toc: false
-search: exclude
+search: include
 ---
 
 <span style="color:red">Needs updating once Jen decides who gets listed and how.<br>What would people like in your (about 120 words max) bios? If different photo, please make it 340x250.</span>

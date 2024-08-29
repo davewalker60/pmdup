@@ -4,7 +4,7 @@ sidebar: main_sidebar
 sidebar_link: 4
 permalink: camp-history.html
 toc: false
-search: exclude
+search: include
 ---
 
 <span style="color:red">This page could use some love. I've sent this to Bernie asking if he wants to contribute to it.</span>

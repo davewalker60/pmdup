@@ -4,7 +4,7 @@ sidebar: main_sidebar
 sidebar_link: 9
 permalink: register.html
 toc: false
-search: exclude
+search: include
 ---
 
 <span style="color:red">Anything missing from included/not included lists?</span>

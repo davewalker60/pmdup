@@ -25,6 +25,10 @@ entries:
       url: /staff.html
       output: web
 
+    - title: Dance Space Setup
+      url: /preparing-dance-space.html
+      output: web
+
     - title: Camp History
       url: /camp-history.html
       output: web

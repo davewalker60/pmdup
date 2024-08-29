@@ -4,7 +4,7 @@ sidebar: main_sidebar
 sidebar_link: 11
 permalink: from-cun-to-pm.html
 toc: false
-search: exclude
+search: include
 ---
 
 This page covers various ways to get from the CUN airport to the retreat. The most common (and highly-recommended) way is to  rideshare with us. Whether riding with us or not, <span style="color: red">please complete the [travel form](https://docs.google.com/forms/d/e/1FAIpQLSex7cyDs_Xf33rAxqU2S749xG_MB4lMQk3fPvF_p0JkkoKyTg/viewform){:target="_blank"} once you’ve registered and have booked your travel to Mexico.</span> Thanks!

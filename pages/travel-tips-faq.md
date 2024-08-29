@@ -4,7 +4,7 @@ sidebar: main_sidebar
 sidebar_link: 26
 permalink: travel-tips-faq.html
 toc: false
-search: exclude
+search: include
 ---
 
 Traveling to a foreign country requires a bit more awareness than traveling domestically, but it doesn't need to be stressful, especially to the Mexican state of Quintana Roo (QRoo), Puerto Morelos, and the rest of the Riviera Maya.

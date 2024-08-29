@@ -4,7 +4,7 @@ sidebar: main_sidebar
 sidebar_link: 0
 permalink: about-camp.html
 toc: false
-search: exclude
+search: include
 ---
 
 <span style="color:red">***A big thank you to Sky for capturing the essence of camp on this page! :-) Anyone else have suggestions for improvement?***</span>
