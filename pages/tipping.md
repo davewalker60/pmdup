@@ -4,6 +4,7 @@ sidebar: main_sidebar
 sidebar_link: 20
 permalink: tipping.html
 toc: false
+search: exclude
 ---
 
 ### Tipping

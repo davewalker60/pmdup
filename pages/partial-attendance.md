@@ -4,6 +4,7 @@ sidebar: main_sidebar
 sidebar_link: 19
 permalink: partial-attendance.html
 toc: false
+search: exclude
 ---
 
 ### Partial attendance

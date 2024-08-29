@@ -4,6 +4,7 @@ sidebar: main_sidebar
 sidebar_link: 10
 permalink: lodging-options.html
 toc: false
+search: exclude
 ---
 
 {% include_relative snippets/puerto-morelos-snippet.md %}
