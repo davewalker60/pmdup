@@ -4,6 +4,7 @@ sidebar: main_sidebar
 sidebar_link: 12
 permalink: before-leaving-home.html
 toc: false
+search: exclude
 ---
 
 <span style="color:red">What do you think about the need for this page? Pages need to be short & easy to read on the phone, but that might frustrate people who want to scroll rather than tap repeatedly to navigate. This "all in one" page solves that issue but is way long. Alternatively, I can explore putting PREVIOUS | NEXT buttons at the bottom of all pages to advance through the topics sequentially.</span>

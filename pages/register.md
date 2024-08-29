@@ -16,11 +16,11 @@ Registration is a multi-step process. Registering itself has three steps and the
    * Some people arrive a few days early.
    * On the day before camp starts, we [prepare the dance space](preparing-dance-space.md) and, if we get done, have a pre-camp dance in the evening.
    * [Many people stay for a week or more after camp](attractions.md#post-camp-community), so consider extending your trip to join in the fun!
-5. Once you've arranged your travel, complete [**the travel form**](https://docs.google.com/forms/d/e/1FAIpQLSex7cyDs_Xf33rAxqU2S749xG_MB4lMQk3fPvF_p0JkkoKyTg/viewform){:target="_blank"}. See more travel info at:
+5. Once you've arranged your travel, complete [**the travel form**](https://docs.google.com/forms/d/e/1FAIpQLSex7cyDs_Xf33rAxqU2S749xG_MB4lMQk3fPvF_p0JkkoKyTg/viewform){:target="_blank"}. Learn more about travel at:
   * [Getting from Home to PM](./from-home-to-pm.md)
   * [Getting from CUN to PM](from-cun-to-pm.md)
   * [Travel Documents](travel-documents.md)
-6. Arrange your lodging.
+6. Arrange your lodging. Learn more at:
   * [Lodging options](lodging-options.md)
   * [Las Arenas booking info](booking-las-arenas.md) *(or jump directly to [**the Las Arenas booking form**](https://docs.google.com/forms/d/e/1FAIpQLSct3SrTHl76pMYcZ5z9-eWdLCjCXzf4igqfVk689qA42YuyWA/viewform){:target="_blank"})*
 

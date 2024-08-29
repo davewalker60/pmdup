@@ -4,6 +4,7 @@ sidebar: main_sidebar
 sidebar_link: 23
 permalink: external-links.html
 toc: false
+search: exclude
 ---
 
 The same links listed in the top navigation menu repeat here:

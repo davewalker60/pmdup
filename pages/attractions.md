@@ -1,9 +1,11 @@
 ---
+search: exclude
 title: Attractions
 sidebar: main_sidebar
 sidebar_link: 6
 permalink: attractions.html
 toc: true
+search: exclude
 ---
 
 <span style="color:red">Which is better, using this mini-TOC or putting each section on its own page?</span>

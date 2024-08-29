@@ -4,6 +4,7 @@ sidebar: main_sidebar
 sidebar_link: 24
 permalink: booking-las-arenas.html
 toc: false
+search: exclude
 ---
 
 We have booked the entire 30-room Hotel Las Arenas Puerto Morelos for 10 nights (Feb 11 check in to Feb 21 check out) and several of the rooms for a few additional nights before and after. On December 10, we will need to release the unbooked additional rooms back to the hotel, so the sooner you book, the better chance a room will be available for your dates.

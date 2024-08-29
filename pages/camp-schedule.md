@@ -4,6 +4,7 @@ sidebar: main_sidebar
 sidebar_link: 18
 permalink: camp-schedule.html
 toc: false
+search: exclude
 ---
 
 # <span style="color:red">Placeholder/sample schedule (based on last year)<br>Any descriptions to improve/add?</span>
