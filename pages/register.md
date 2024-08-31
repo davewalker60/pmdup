@@ -25,7 +25,7 @@ Registration is a multi-step process. Registering itself has three steps and the
 
 > Before January 15th, you are considered registered by completing steps 1 and 2.<br>After January 15th, you are not considered registered until we've received your registration payment.
 
-# Full attendance - [(register here)](https://docs.google.com/forms/d/e/1FAIpQLSd7atXw_w0jHAdo7dKQ6EoaH-AElo11niRYHc6ptRTmutRB6Q/viewform){:target="_blank"}
+# Full attendance [(register here)](https://docs.google.com/forms/d/e/1FAIpQLSd7atXw_w0jHAdo7dKQ6EoaH-AElo11niRYHc6ptRTmutRB6Q/viewform){:target="_blank"}
 
 Full attendance registration cost is $225-$350/person as you can afford and includes:
 * All morning & evening dance sessions

@@ -1,6 +1,6 @@
 # Entering Mexico via CUN
 
-As of sometime in 2023, to enter Mexico via the Cancun airport (CUN), all you need is a valid passport. <span style="color:red">**Check your passport expiration date!**</span> It technically can expire while you are there, but to use the automated immigration e-gates, it needs to be valid for 6 months beyond your date of entry (and be an e-passport - look for the camera icon on the cover).
+As of sometime in 2023, to enter Mexico via the Cancun airport (CUN), all you need is a valid passport. <span style="color:red">**Check your passport expiration date!**</span> It technically can expire while you are there, but to use the automated immigration e-gates, it needs to be valid for 6 months beyond your date of entry (and be an e-passport; look for the camera icon on the cover).
 
 No longer needed/used at CUN:
 * The Forma Migratoria Múltiple (FMM) tourist entry immigration card that we used to complete on the plane (or online after Covid).
