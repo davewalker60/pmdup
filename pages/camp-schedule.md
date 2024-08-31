@@ -7,8 +7,6 @@ toc: false
 search: include
 ---
 
-# <span style="color:red">Placeholder/sample schedule (based on last year)<br>Any descriptions to improve/add?</span>
-
 The following schedule describes the basic structure of the retreat and is subject to change. Each day’s specific events are announced in the camp's [WhatsApp community](whatsapp.md).
 
 **Feb 11**
@@ -18,9 +16,9 @@ The following schedule describes the basic structure of the retreat and is subje
 
 **Feb 12**
 
-- **4pm**: Camp officially starts with socializing and camp orientation.
-- **5pm**: Going to dinner together to help further orient the newcomers and to connect with old friends.
-- **7pm**: First official dance session
+- **4pm**: Camp officially starts with socializing and camp orientation. Connect with newcomers & old friends.
+- **5pm**: Community dinner together at the Las Arenas reception palapa.
+- rient the **7pm**: First official dance session
 
 **Feb 13 - 18**
 

@@ -7,8 +7,6 @@ toc: false
 search: include
 ---
 
-<span style="color:red">This page could use some love. I've sent this to Bernie asking if he wants to contribute to it.</span>
-
 Since 2001, we've been dancing each winter in Puerto Morelos.
 
 In both 1999 and 2000, Bernie and Adrianna Heideman visited Puerto Morelos with the thought of having a retreat there. In 2001, the thought became a reality.

@@ -8,8 +8,6 @@ toc: true
 search: include
 ---
 
-<span style="color:red">Which is better, using this mini-TOC or putting each section on its own page?</span>
-
 This page describes tourist attractions in and around Puerto Morelos that have been popular with our community. We highly recommend arriving a few days early and/or staying longer to take in all the Riviera Maya has to offer.
 
 # Beaches

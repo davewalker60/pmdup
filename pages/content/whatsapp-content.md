@@ -1,35 +1,34 @@
-<span style="color:red"> We need to update this page when we decide what groups to have this year. We also need to decide whether to add names to the community ourselves (vs. rely on people to do it themselves). Now that WhatsApp has communities, it makes far more sense to add people as they reigster and let them then voluntarily join the groups that interest them.</span>
+With people and camp activities spread out, we need a way to communicate. We use a WhatsApp community with chat groups.
 
-With people and camp activities spread out, we need a way to communicate. We use a WhatsApp community with several chat groups.
-
->  Please ensure that WhatsApp is installed on your phone and that you were successfully added as a member of the **PMDUP Community** WhatsApp community during registration.
+> Please ensure that WhatsApp is installed on your phone and that you were successfully added as a member of the **PM '25 Community** WhatsApp community during the registration process.
 
 # Chat groups
 
-For 2025, we've created the **PMDUP Community** WhatsApp community with these chat groups:
+For 2025, we've created the **PM '25 Community** WhatsApp community with these intial chat groups:
 
-- **Announcements ** is for daily camp announcements by staff only (no participant posting). This group is the main way we disseminate information during camp. All registrants are automatically added to this group as part of camp registration. 
+- **Announcements** is for daily camp announcements by staff only (no participant posting). This group is the main way we disseminate information during camp. All registrants are automatically added to this group as part of camp registration. 
 
 - **PM '25 Dancer Chat** is an unmoderated group for conversations about and at camp. All camp registrants can join the group. All participants can post. Not everyone will want to be in this group if it gets too verbose, so **please reply privately** with thank you, I agree, etc messages and conversations that don’t involve the whole group.
 
-- **PM ‘25 Group Outings** is an unmoderated group to arrange and coordinate group trips to snorkel on the reef, cenotes, Mayan ruins, or even simply into La Colonia for a meal. The motivations for this group are:
+> Other specialty groups might be added based on need. For example, **PM '25 Post Camp** will be added at the end of camp for people staying in Puerto Morelos longer (to use for logistics like _Who's in for dinner tonight at El Pesquero's?_).
 
-  - To reduce clutter in the main dancer chat group.
+<!--**PM ‘25 Group Outings** is an unmoderated group to arrange and coordinate group trips to snorkel on the reef, cenotes, Mayan ruins, or even simply into La Colonia for a meal. The motivations for this group are:-->
 
-  - To not require people to scroll through endless messages to find time-sensitive trip information.
+<!--To reduce clutter in the main dancer chat group.-->
 
-- **PM '25 Post Camp** is an unmoderated group that people staying in Puerto Morelos longer than camp use for logistics (like _Who's in for dinner tonight at El Pesquero's?_).  Anyone staying on after camp can join the group. All who join can post ***once camp ends***.
+<!--To not require people to scroll through endless messages to find time-sensitive trip information.-->
 
-  > After camp, **PM '25 Dancer Chat** remains active for people to continue to use to connect. Please don't use **PM '25 Post Camp** for postings that the whole camp might enjoy. People who return home tend to continue to live vicariously through those remaining in Puerto Morelos longer.  
+<!--**PM '25 Post Camp** is an unmoderated group that people staying in Puerto Morelos longer than camp use for logistics (like _Who's in for dinner tonight at El Pesquero's?_).  Anyone staying on after camp can join the group. All who join can post ***once camp ends***.-->
 
+<!--After camp, **PM '25 Dancer Chat** remains active for people to continue to use to connect. Please don't use **PM '25 Post Camp** for postings that the whole camp might enjoy. People who return home tend to continue to live vicariously through those remaining in Puerto Morelos longer.-->
 
 # How to join a group
 
-All groups related to this year's camp are available in the **PMDUP Community** WhatsApp community. To join any of the groups:
+All groups related to this year's camp are available in the **PM '25 Community** WhatsApp community. To join any of the groups:
 
-1. Navigate to the **PMDUP Community**.
-   - From your phone, in your **Chats** list, locate and tap **PMDUP Community**.
-   - From your computer, click the **Communities** tab, then click **PMDUP Community**.
+1. Navigate to the **PM '25 Community**.
+   - From your phone, in your **Chats** list, locate and tap **PM '25 Community**.
+   - From your computer, click the **Communities** icon, then click **PM '25 Community**.
 2. A list appears showing the groups you're in and the groups you can join.
    - Tap or click any group you can join to request access.
 

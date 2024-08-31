@@ -7,12 +7,10 @@ toc: false
 search: include
 ---
 
-<span style="color:red">Anything missing from included/not included lists?</span>
-
 Registration is a multi-step process. Registering itself has three steps and there are additional steps for lodging and travel:
 1. Check your passport now to verfiy that it will still be valid on the date you travel to Mexico.
 2. Complete and submit [**the registration form**](snippets/coming-soon.md){:target="_blank"} (with your approximate travel dates) as soon as possible.
-3. Send your registration payment as soon as is convenient (especially if you are including a scholarship donation) and **no later than December 15th**.
+3. Send your registration payment as soon as is convenient (especially if you are including a scholarship donation), but **no later than January 15th**.
 4. Determine how long you'd like to stay.
    * Some people arrive a few days early.
    * On the day before camp starts, we [prepare the dance space](preparing-dance-space.md) and, if we get done, have a pre-camp dance in the evening.
@@ -25,7 +23,7 @@ Registration is a multi-step process. Registering itself has three steps and the
   * [Lodging options](lodging-options.md)
   * [Las Arenas booking info](booking-las-arenas.md) *(or jump directly to [**the Las Arenas booking form**](https://docs.google.com/forms/d/e/1FAIpQLSct3SrTHl76pMYcZ5z9-eWdLCjCXzf4igqfVk689qA42YuyWA/viewform){:target="_blank"})*
 
-> Before December 15th, you are considered registered by completing steps 1 and 2.<br>After December 15th, you are not considered registered until you've completed steps 1, 2, and 3.
+> Before January 15th, you are considered registered by completing steps 1 and 2.<br>After January 15th, you are not considered registered until we've received your registration payment.
 
 # Full attendance - [(register here)](https://docs.google.com/forms/d/e/1FAIpQLSd7atXw_w0jHAdo7dKQ6EoaH-AElo11niRYHc6ptRTmutRB6Q/viewform){:target="_blank"}
 
@@ -33,7 +31,7 @@ Full attendance registration cost is $225-$350/person as you can afford and incl
 * All morning & evening dance sessions
 * All morning practices, afternoon classes, and other offerings
 * Late night sing-alongs & music jams
-* Two community meals
+* A community meals
 * Use of the simple community kitchen
 * Use of the beach palapa
 
