@@ -32,6 +32,19 @@ All groups related to this year's camp are available in the **PM '25 Community**
 2. A list appears showing the groups you're in and the groups you can join.
    - Tap or click any group you can join to request access.
 
+# How to exit a group
+
+All groups related to this year's camp are available in the **PM '25 Community** WhatsApp community. To exit any of the groups:
+
+1. Navigate to the **PM '25 Community**.
+   - From your phone, in your **Chats** list, locate and tap **PM '25 Community**.
+   - From your computer, click the **Communities** icon, then click **PM '25 Community**.
+2. A list appears showing the groups you're in.
+   - Tap or click the group you want to exit.
+3. Exit the group.
+   - From your phone, tap the group title banner at the top of the screen, then scroll down and select **Exit group**.
+   - From your computer, click the three dots in the upper right corner of the screen, then select **Exit group**.
+
 # How to reply privately
 
 In our WhatsApp groups, when what you have to say doesn’t pertain to the whole group, reply privately to keep spamming to a minimum. For example, asking a follow-up question or commenting in a way that’s personal to the two of you. This practice helps to keep the interest level up for everyone. Thanks!
