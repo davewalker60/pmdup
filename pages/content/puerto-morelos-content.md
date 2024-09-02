@@ -45,6 +45,6 @@ Ways to deal with the late-night noise include:
 
 # Donation items for the Mayan village
 
-Jessie Satira Noe is spearheading donations collection for Mayan people in the small village around Puerto Morelos. Please consider bringing donation items. Desired items include, but are not limited to: reading glasses. summer clothes for children, and simple school supplies for elementary age kids.
+Jessie Sitara Noe is spearheading donations collection for Mayan people in the small village around Puerto Morelos. Please consider bringing donation items. Desired items include, but are not limited to: reading glasses. summer clothes for children, and simple school supplies for elementary age kids.
 
 Email [noejessica@hotmail.com](mailto:noejessica@hotmail.com) with questions.

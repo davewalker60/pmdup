@@ -41,7 +41,7 @@ Dances of Universal Peace sessions happen each morning under the shade structure
 
 ## Qigong
 
-For 30 minutes each morning, Jessie Satira leads us in an all-levels Qigong practice either on the beach or near the dance circle space when it's too windy on the beach.
+For 30 minutes each morning, Jessie Sitara leads us in an all-levels Qigong practice either on the beach or near the dance circle space when it's too windy on the beach.
 
 ## Other class offerings
 
