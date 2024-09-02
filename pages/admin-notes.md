@@ -24,7 +24,7 @@ Tihs page is an archive of all the red notes that were at the top of many pages 
 
 ## Staff
 
-<span style="color:red">Needs updating once Jen decides who gets listed and how.<br>What would people like in your (about 120 words max) bios? If different photo, please make it 340x250.</span>
+<span style="color:red">Needs updating once Jen decides who gets listed and how.<br>What would people like in your (about 120 words max) bios? If different photo, please make it 250x340.</span>
 
  |
 | <br><span style="font-size: 160%">**Bernie Heideman (hopefully)**</span><br>Bernie has been leading for over 30 years, was a founding leader at the original Canyonlands Camp, is on staff for Wilderness Camp, started the Puerto Morelos Winter Dance retreat, and has led at other events in the US, Europe and Russia. He is a master at explosive joy and wild energy, but underneath that apparent frivolity he is always guiding us into the presence of “Presence.”<br><br>He brings a lot of joy, laughter and music circles to his events and can hold a huge space for everyone to first expand into and then to sink into the depths of their own soul experience. | &nbsp; ![Bernie](../images/PM_Bernie.jpg)
