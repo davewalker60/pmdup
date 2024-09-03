@@ -27,7 +27,7 @@ Most places will accept USD, but you'll ***always*** get a horrible exchange rat
 
 # Does "don't drink the water" apply to QRoo?
 
-Yes, even most locals experience intestinal distress by drinking water from the tap. Most lodging places, including Las Arenas, provide drinking water in 20-liter containers. To avoid filling the landfills with small plastic bottles, we recommend bringing with you a sturdy water bottle, perhaps with a built-in filter that filters out impurities (in Mexico water, chlorinated water, fluoride water, etc). Both Bernie and Sky use a Life Straw bottle and love them. 
+Yes, even most locals experience intestinal distress by drinking water from the tap. Most lodging places, including Las Arenas, provide drinking water in 20-liter containers. To avoid filling the landfills with small plastic bottles, we recommend bringing with you a sturdy water bottle, perhaps with a built-in filter that filters out impurities (in Mexico water, chlorinated water, fluoride water, etc). Both Bernie and Sky use a [LifeStraw](https://lifestraw.com/){:target="_blank"} bottle and love them. 
 
 # And what about eating raw fruits and vegetables?
 
