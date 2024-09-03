@@ -1,6 +1,6 @@
 With people and camp activities spread out, we need a way to communicate. We use a WhatsApp community with chat groups.
 
-> In WhatsApp, please open **PM Dances Community** to ensure that WhatsApp is correctly installed on your phone and that you were successfully approved as a member of the community during the registration process.
+> To join the community, follow the instructions on the registration form when you register. Once you've been added, please navigate to **PM Dances Community** to ensure that WhatsApp is correctly installed on your phone and that you were successfully approved as a member of the community during the registration process.
 
 # Chat groups
 
@@ -22,15 +22,16 @@ For 2025, we've created the **PM Dances Community** WhatsApp community with thes
 
 <!--After camp, **Dancer Chat** remains active for people to continue to use to connect. Please don't use **Post Camp** for postings that the whole camp might enjoy. People who return home tend to continue to live vicariously through those remaining in Puerto Morelos longer.-->
 
-# How to find and/or join a group
+# How to navigate WhatsApp for camp
 
-All groups related to this year's camp are available in the **PM Dances Community** WhatsApp community. To join any of the groups:
+All groups related to this year's camp are available in the **PM Dances Community** WhatsApp community. To access or join any of the groups:
 
 1. Navigate to the **PM Dances Community**. To do so:
    - From your phone, in your **Chats** list, locate and tap **PM Dances Community**.
    - From your computer, click the **Communities** icon, then click **PM Dances Community**.
-2. A list appears showing the groups you're in and the groups you can join. To join:
-   - Tap or click any group you can join to request access.
+2. A list appears showing the groups you're in and the groups you can join.
+   - To access, tap or click any group you're in.
+   - To join, tap or click any group you can join to request access.
 
 # How to exit a group
 
@@ -55,7 +56,7 @@ To reply privately from an iPhone:
 2. Tap **More…**
 3. Tap **Reply Privately**.
 
-[This video](https://www.youtube.com/watch?v=i1_1doLloFg) demonstrates the steps.
+[This video](https://www.youtube.com/watch?v=i1_1doLloFg){:target="_blank"} demonstrates the steps.
 
 To reply privately from an Android phone:
 
@@ -63,4 +64,4 @@ To reply privately from an Android phone:
 2. At the top right of the screen, tap the three dots (**…**),
 3. Tap **Reply privately**.
 
-[This video](https://www.youtube.com/watch?v=C2t1LxDsae0) demonstrates the steps.
+[This video](https://www.youtube.com/watch?v=C2t1LxDsae0){:target="_blank"} demonstrates the steps.
