@@ -65,3 +65,22 @@ To reply privately from an Android phone:
 3. Tap **Reply privately**.
 
 [This video](https://www.youtube.com/watch?v=C2t1LxDsae0){:target="_blank"} demonstrates the steps.
+
+# How to install WhatsApp
+
+## On your phone
+
+Installing WhatsApp on your phone is just like installing any other app. Simply search for it in either the App Store app on your iPhone or the Google Play Store on your Android phone.
+
+## On your computer
+
+You can simultaneously use WhatsApp on your computer and phone. We highly recommend ***against*** downloading the computer version of the app to your computer because it's buggy. Instead, use [WhatsApp Web](https://web.whatsapp.com){:target="_blank"}.
+
+The easiest way to get started is:
+
+1. Attempt to access our [WhatsApp community for camp](https://chat.whatsapp.com/EMbSgSrfAhiFqgHSPwd7mH){:target="_blank"}.
+2. Click **Join Chat**.
+3. You'll be presented a page that says the app is not installed. Instead of clicking **Download**, click **use WhatsApp Web** farther down the page.
+4. Follow the prompts to complete setup and request access to the chat.
+
+> Only dancers registered for camp can be approved. 
