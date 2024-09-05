@@ -6,9 +6,11 @@ With people and camp activities spread out, we need a way to communicate. We use
 
 For 2025, we've created the **PM Dances Community** WhatsApp community with these initial chat groups:
 
-- **Announcements** is for daily camp announcements by staff only (no participant posting). This group is the main way we disseminate information during camp. All registrants are automatically added to this group as part of camp registration. 
+- **Announcements** is for daily camp announcements by staff only (no participant posting). This group is the main way we disseminate information during camp. All registrants are added to this group as part of camp registration. 
 
 - **Dancer Chat** <span style="color: red">*(messaging currently disabled - we'll let you know when you can start posting)*</span> is an unmoderated group for conversations about and at camp. All camp registrants can join the group. All participants can post. Not everyone will want to be in this group if it gets too verbose, so **please reply privately** with thank you, I agree, etc messages and conversations that don’t involve the whole group.
+
+- **Admin Team Only**, as the name indicates, is a group for the admin team to communicate about behind-the-scenes stuff. There's no need for any camp registrants to join this group.
 
 > Other specialty groups might be added based on need. For example, **Post Camp** will be added at the end of camp for people staying in Puerto Morelos longer (to use for logistics like _Who's in for dinner tonight at El Pesquero's?_).
 
@@ -24,7 +26,7 @@ For 2025, we've created the **PM Dances Community** WhatsApp community with thes
 
 # How to navigate WhatsApp for camp
 
-All groups related to this year's camp are available in the **PM Dances Community** WhatsApp community. To access or join any of the groups:
+All groups related to this year's camp are part of the **PM Dances Community** WhatsApp community. To access or join any of the groups:
 
 1. Navigate to the **PM Dances Community**. To do so:
    - From your phone, in your **Chats** list, locate and tap **PM Dances Community**.
@@ -35,7 +37,7 @@ All groups related to this year's camp are available in the **PM Dances Communit
 
 # How to exit a group
 
-All groups related to this year's camp are available in the **PM Dances Community** WhatsApp community. To exit any of the groups:
+All groups related to this year's camp are part of the **PM Dances Community** WhatsApp community. To exit any of the groups:
 
 1. Navigate to the **PM Dances Community**. To do so:
    - From your phone, in your **Chats** list, locate and tap **PM Dances Community**.

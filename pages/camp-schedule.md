@@ -12,26 +12,29 @@ The following schedule describes the basic structure of the retreat and is subje
 **Feb 11**
 
 - **Daytime**: [Prepare the dance space](./preparing-dance-space.md). Many hands make for light work. Please join in the fun!
-- **Evening**: If we aren’t too worn out, there will likely be a pre-camp dance session in the evening. Time TBD.
+- **Evening**: Chill and visit with those who have already arrived.
 
 **Feb 12**
 
+- **Daytime**: Continue [Preparing the dance space](./preparing-dance-space.md).
+- **Evening**: If we finish the prep, we will have a pre-camp dance session in the evening. Time TBD.
+
+**Feb 13**
 - **4pm**: Camp officially starts with socializing and camp orientation. Connect with newcomers & old friends.
 - **5pm**: Community dinner together at the Las Arenas reception palapa.
-- rient the **7pm**: First official dance session
+- **7pm**: First official dance session.
 
-**Feb 13 - 18**
+**Feb 14 - 19**
 
 - **Early Mornings**: Qigong with Jessie either on the beach or in the dance space 8:15 to 8:45.
-- **Mornings**: Dance sessions under the shade structure 9:30 to noon..
+- **Mornings**: Dance sessions under the shade structure 9:30 to noon.
 - **Afternoons**: Various classes and offerings. Watch the Announcements group.
 - **Evenings**: Dance sessions under the stars. (the shade sail retracts!) 7:00 to 9:15
 - **Afterward**: Impromptu sing-along time most nights at the dance house until 10:30 or 11. 
 
-**Feb 19**
+**Feb 20**
 
-- **Morning**: Dance sessions under the shade structure. Exact time TBD.
-- **Lunchtime**: Closing circle. Exact time TBD.
+- **Morning**: Shade structure dismantling and/or the possibility of a post-camp Dance session. Exact time TBD. Stay tuned...
 
 # Camp activities
 
