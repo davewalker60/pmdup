@@ -5,13 +5,13 @@ permalink: index.html
 toc: false
 ---
 
-### ***&nbsp;&nbsp;&nbsp;Registration for the 2025 camp (Feb 12-18) is open. [Learn more here.](pages/register.md)***<br>***&nbsp;&nbsp;&nbsp;Hotel Las Arenas lodging registration is open. [Learn more here.](pages/booking-las-arenas.md)***
+### ***&nbsp;&nbsp;&nbsp;Registration for the 2025 camp (Feb 13-19) is open. [Learn more here.](pages/register.md)***<br>***&nbsp;&nbsp;&nbsp;Hotel Las Arenas lodging registration is open. [Learn more here.](pages/booking-las-arenas.md)***
 
 {% include image.html file="PM24.png" caption="Photo courtesy David Weihnacht" %}
 
 Each February, we gather together on the Riviera Maya in Puerto Morelos, Quintana Roo, Mexico (20 miles south of the Cancun airport) for not just a Dances of Universal Peace retreat but also to experience all the Riviera Maya has to offer before, during, and after the retreat.
 
-> The 2025 retreat starts the evening of Wednesday Feb 12 (with pre-camp dance space prep on Feb 11 & 12 - come join in the fun!) and ends after the evening circle on Tuesday Feb 18.
+> The 2025 retreat starts the evening of Thursday Feb 13 (with pre-camp dance space prep on Feb 11 & 12 - come join in the fun!) and ends after the evening circle on Wednesday Feb 19.
 
 Even though the once quaint seaside village is growing and changing, we still love it there and continue to gather as a DUP community each winter to eat, dance, pray, relax, swim, sun, and adventure together.
 

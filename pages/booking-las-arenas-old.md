@@ -42,7 +42,7 @@ Recent pesos per USD exchange rate highs and lows (with example USD conversion f
 - 3/13: 16.67 low (eg. 12,000 pesos = $719.86)
 - 1/23: 17.31 high (eg. 12,000 pesos = $693.24)
 
-Please give your best guess for your dates below. Camp will most likely unoffically start Wed, Feb 12 with dance-space prep and a dance that evening, just like last year. If, when you book plane tickets, your dates need to change slightly, please contact us immediately and we'll do what we can to accomodate you. 
+Please give your best guess for your dates below. Camp officially starts the evening of Thurs Feb 13 with dance-space prep on Tues Feb 11 & 12, and a pre-camp dance the evening of Wed Feb 12, just like last year. If, when you book plane tickets, your dates need to change slightly, please contact us immediately and we'll do what we can to accommodate you. 
 
 -----
 
