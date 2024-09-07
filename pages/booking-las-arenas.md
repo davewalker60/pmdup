@@ -47,3 +47,5 @@ Complete and submit [**the Las Arenas booking form**](https://docs.google.com/fo
 
 <!-- Keep next two lines on one to lessen vertical spacing -->
 ### Hotel Las Arenas Building Layout ![Room layout](../images/Las Arenas rooms 1000.png){:.thinblackborder}
+
+> Still have questions? Use our [**questions & suggestions form**](https://docs.google.com/forms/d/e/1FAIpQLSeKsY-e9iy44578E1ijjs_g5Bwi1gZCuW439N1bOBlL76U5qg/viewform){:target="_blank"} (found in the **Quick Jump** menu under **Contact Us**) or view [Lodging Options](lodging-options.md) for other hotel info.

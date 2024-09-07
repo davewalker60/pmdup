@@ -17,4 +17,4 @@ Around 2010, dancing moved to out in front of then Villas Latinas on the sandy g
 
 Villas Latinas has changed names many times over the years, including Dos Naciones, Hotel Villas de Mar, and now Hotel Las Arenas.
 
-> Do you have interesting history info to add? To contribute to this (or any) page, use the [**questions & suggestions**](https://docs.google.com/forms/d/e/1FAIpQLSeKsY-e9iy44578E1ijjs_g5Bwi1gZCuW439N1bOBlL76U5qg/viewform){:target="_blank"} form (found in the **Quick Jump** menu under **Contact Us**).
+> Do you have interesting history info to add? To contribute to this (or any) page, use the [**questions & suggestions form**](https://docs.google.com/forms/d/e/1FAIpQLSeKsY-e9iy44578E1ijjs_g5Bwi1gZCuW439N1bOBlL76U5qg/viewform){:target="_blank"} (found in the **Quick Jump** menu under **Contact Us**).
