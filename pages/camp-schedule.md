@@ -26,7 +26,9 @@ The following schedule describes the basic structure of the retreat and is subje
 
 **Feb 14 - 19**
 
-- **Early Mornings**: Qigong with Jessie either on the beach or in the dance space 8:15 to 8:45.
+- **Early Mornings**:
+  -  Qigong with Jessie either on the beach or in the dance space 8:15 to 8:45.
+  -  Deeper dance conversations with Sky at the Las Arenas reception palapa 8:55 to 9:25 ***some mornings TBD.***
 - **Mornings**: Dance sessions under the shade structure 9:30 to noon.
 - **Afternoons**: Various classes and offerings. Watch the Announcements group.
 - **Evenings**: Dance sessions under the stars. (the shade sail retracts!) 7:00 to 9:15
@@ -45,6 +47,10 @@ Dances of Universal Peace sessions happen each morning under the shade structure
 ## Qigong
 
 For 30 minutes each morning, Jessie Sitara leads us in an all-levels Qigong practice either on the beach or near the dance circle space when it's too windy on the beach.
+
+## Deeper dance conversations
+
+Sky facilitates morning conversations at retreats with the intent of deepening people’s attunement to and awareness of the deeper aspects of the Dances of Universal Peace as a practice. Topics range from the form of the Dances themselves, to a heightened awareness of the energy and vibration that the Dances create, to how the practice affects our inner and outer selves. No one is expected or required to speak - some people attend simply to listen.
 
 ## Other class offerings
 

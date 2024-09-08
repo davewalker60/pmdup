@@ -11,7 +11,7 @@ toc: false
 
 Each February, we gather together on the Riviera Maya in Puerto Morelos, Quintana Roo, Mexico (20 miles south of the Cancun airport) for not just a Dances of Universal Peace retreat but also to experience all the Riviera Maya has to offer before, during, and after the retreat.
 
-> The 2025 retreat starts the evening of Thursday Feb 13 (with pre-camp dance space prep on Feb 11 & 12 - come join in the fun!) and ends after the evening circle on Wednesday Feb 19.
+> The 2025 retreat starts the evening of Thursday Feb 13 (with pre-camp dance space prep on Feb 11 & 12 and a pre-camp dance Feb 12 - come join in the fun!) and ends after the evening circle on Wednesday Feb 19.
 
 Even though the once quaint seaside village is growing and changing, we still love it there and continue to gather as a DUP community each winter to eat, dance, pray, relax, swim, sun, and adventure together.
 
