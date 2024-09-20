@@ -34,12 +34,12 @@ No one knows what the impact of the US presidential election will have on the mo
 <!-- \* Add up to 10 additional nights (before and/or after) for the same price per night. Additional discount available for 21+ nights.-->
 \* Add additional nights (before and/or after) for the same price per night.
 
-<span style="color:red">\** *If the exchange rate drops below 17 pesos/dollar, the actual dollar (CDN or USD) price you pay will be determined using the exchange rate at the time you pay.*</span>
+<span style="color:red">\** *If the exchange rate drops below 17 pesos/USD, the actual dollar (CDN or USD) price you pay will be determined using the exchange rate at the time you pay.*</span>
 
 \*\*\* All prices include ~20 peso/night guaranteed housekeeper gratuity and we encourage you to leave more.
 
-# Reserve your room
-Complete and submit [**the Las Arenas booking form**](https://docs.google.com/forms/d/e/1FAIpQLSct3SrTHl76pMYcZ5z9-eWdLCjCXzf4igqfVk689qA42YuyWA/viewform){:target="_blank"} to reserve your room now and either pay now or anytime in 2024. You can:
+# [Reserve your room](https://docs.google.com/forms/d/e/1FAIpQLSct3SrTHl76pMYcZ5z9-eWdLCjCXzf4igqfVk689qA42YuyWA/viewform){:target="_blank"}
+<span style="color:red">Complete and submit [**the Las Arenas booking form**](https://docs.google.com/forms/d/e/1FAIpQLSct3SrTHl76pMYcZ5z9-eWdLCjCXzf4igqfVk689qA42YuyWA/viewform){:target="_blank"} to reserve your room</span> now and either pay now or anytime in 2024. You can:
 
 * Pay directly in pesos (through Wise) - Great option for Canadians to avoid double conversion fee!
 * Pay in USD (through PayPal or Venmo) - Just like we did last year.
