@@ -4,9 +4,13 @@ There are many, many restaurants both beachside and in La Colonia to explore ran
 
 # Groceries
 
-Whether doing some of your own cooking or just looking for snacks, the beachside Chedraui (pronounced shuh DROU wee) supermarket will have most of what you need. It's located in the first block south of the town square. There is also a much larger Chedraui just under the overpass out at the highway in La Colonia.
+Whether doing some of your own cooking or just looking for snacks, the beachside Chedraui (pronounced *shuh DROU wee*) supermarket will have most of what you need. It's located in the first block south of the town square. There is also a much larger Chedraui just under the overpass out at the highway in La Colonia.
 
 You can also get fresh juices, fruit, and vegetables at Fruteria El Puerto, a small shop (that we lovingly refer to as *the juice place*) on Niños Heroes (one block west and a few doors south of Las Arenas).
+
+# Laundry
+
+The laundromat immediately next to Fruteria El Puerto charges by the kilo and has very reasonable prices. You load your clothes in the washer and they tell you when to return. They move your clothes into the dryer for you and you return in time to fold them. 
 
 # Loudo's and other noise
 
@@ -23,7 +27,7 @@ Ways to deal with the late-night noise include:
 
 # Tipping
 
-- Standard restaurant and taxi tipping in Mexico is 10%.
+- Standard restaurant and taxi tipping in Mexico for tourists is 10% and locals typically do not tip.
 - Please consider giving at least 20 pesos/day to your housekeepers. They get paid very, very little per hour (like 1970s US minimum wage little) and are counting on your tips, so your $1/day tips help change their lives! I (Nur al-Haqq) do this even on the days I have them skip cleaning my room.
 
 # Getting around town
