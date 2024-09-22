@@ -2,6 +2,8 @@
 
 There are many, many restaurants both beachside and in La Colonia to explore ranging from the very inexpensive places the locals frequent to very expensive places with tourist price gouging. We recommend talking with longtime PM dancers to find what's best for you both beachside and via group excursions to La Colonia.
 
+> Have suggestions about how to better gather to go to meals while at camp? Use our [**questions & suggestions form**](https://docs.google.com/forms/d/e/1FAIpQLSeKsY-e9iy44578E1ijjs_g5Bwi1gZCuW439N1bOBlL76U5qg/viewform){:target="_blank"} (found in the **Quick Jump** menu under **Contact Us**) to share your ideas.
+
 # Groceries
 
 Whether doing some of your own cooking or just looking for snacks, the beachside Chedraui (pronounced *shuh DROU wee*) supermarket will have most of what you need. It's located in the first block south of the town square. There is also a much larger Chedraui just under the overpass out at the highway in La Colonia.
