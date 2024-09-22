@@ -10,6 +10,8 @@ search: include
 
 This page describes tourist attractions in and around Puerto Morelos that have been popular with our community. We highly recommend arriving a few days early and/or staying longer to take in all the Riviera Maya has to offer.
 
+> Have suggestions about how to better organize trips while at camp, get the word out, gather friends to go to lunch with, etc? Use our [**questions & suggestions form**](https://docs.google.com/forms/d/e/1FAIpQLSeKsY-e9iy44578E1ijjs_g5Bwi1gZCuW439N1bOBlL76U5qg/viewform){:target="_blank"} (found in the **Quick Jump** menu under **Contact Us**) to share your ideas.
+
 # Beaches
 
 The main attraction of the Riviera Maya are the beaches. Our camp takes place immediately adjacent to Puerto Morelos' main beach with a very large swimming area, roped off to keep the boats out, and the world's second largest coral reef in the distance.
