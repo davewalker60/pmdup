@@ -9,7 +9,7 @@ search: include
 
 Registration is a multi-step process. Registering itself has three steps and there are additional steps for lodging and travel:
 1. Check your passport now to verfiy that it will still be valid on the date you travel to Mexico.
-2. Complete and submit [**the registration form**](snippets/coming-soon.md){:target="_blank"} (with your approximate travel dates) as soon as possible.
+2. Complete and submit [**the registration form**](https://docs.google.com/forms/d/e/1FAIpQLSd7atXw_w0jHAdo7dKQ6EoaH-AElo11niRYHc6ptRTmutRB6Q/viewform){:target="_blank"} (with your approximate travel dates) as soon as possible.
 3. Send your registration payment as soon as is convenient (especially if you are including a scholarship donation), but **no later than January 15th**.
 4. Determine how long you'd like to stay.
    * Some people arrive a few days early.
