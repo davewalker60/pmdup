@@ -34,6 +34,8 @@ As we learned during camp last year, prices for the rooms have risen (to as much
 <!-- Keep next heading and image on one to lessen vertical spacing -->
 ### Hotel Las Arenas Building Layout ![Room layout](../images/Las Arenas rooms 1000.png){:.thinblackborder}
 
+*Pictures coming soon...*
+
 # Payment
 
 Pay through PayPal or Venmo, just like we did last year. If you can't do either, pay by check.
