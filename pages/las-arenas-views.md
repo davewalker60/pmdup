@@ -12,6 +12,15 @@ This page shows the ocean view (or lack thereof) from each room. *Most photos co
 {% include image.html file="view_from_101.jpg" caption="View from 101" %}
 {% include image.html file="view_from_101_243.jpg" caption="View from 101" %}
 {% include image.html file="view_from_101_450.jpg" caption="View from 101" %}
+
+| Views 243 |      |
+| ---: | :--- |
+| ![243](../images/view_from_101_243.jpg) | ![243](../images/view_from_101_243.jpg) | 
+
+| Views 450 |      |
+| ---: | :--- |
+| ![243](../images/view_from_101_450.jpg) | ![450](../images/view_from_101_450.jpg) | 
+
 {% include image.html file="view_from_102.jpg" caption="View from 102" %}
 {% include image.html file="view_from_103.jpg" caption="View from 103" %}
 {% include image.html file="view_from_104.jpg" caption="View from 104" %}
