@@ -58,7 +58,7 @@ entries:
       output: web
 
       subfolders:
-      - title: Arrange Lodging
+      - title: Lodging
         output: web
         subfolderitems:
 
@@ -70,7 +70,11 @@ entries:
           url: /booking-las-arenas.html
           output: web
 
-      - title: Arrange Travel
+        - title: Las Arenas Views
+          url: /las-arenas-views.html
+          output: web
+
+      - title: Travel
         output: web
         subfolderitems:
 

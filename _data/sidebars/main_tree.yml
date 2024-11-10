@@ -17,10 +17,11 @@ Not using - product level commented out in sidebar.html:
         Attractions: 6
     Register & Book:
         Register: 9
-        Arrange Lodging:
+        Lodging:
             Lodging Options: 10
             Booking Las Arenas: 24
-        Arrange Travel:
+            Las Arenas Views: 36
+        Travel:
             From Home to PM: 29
             From CUN to PM: 11
             Navigating CUN: 28

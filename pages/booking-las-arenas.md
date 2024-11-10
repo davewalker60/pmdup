@@ -24,7 +24,7 @@ As we learned during camp last year, prices for the rooms have risen (to as much
 <!-- \* Add up to 10 additional nights (before and/or after) for the same price per night. Additional discount available for 21+ nights.-->
 \* Add additional nights (before and/or after) for the same price per night.
 
-<span style="color:red">\** *If the exchange rate drops below 17 pesos/USD, the actual dollar (CDN or USD) price you pay will be determined using the exchange rate at the time you pay.*</span>
+<span style="color:red">\** *If the exchange rate drops below 17 pesos/USD before you send your payment, the actual dollar (CDN or USD) price you pay will be determined using the exchange rate at the time you pay.*</span>
 
 \*\*\* All prices include ~20 peso/night guaranteed housekeeper gratuity and we encourage you to leave more.
 
@@ -34,7 +34,7 @@ As we learned during camp last year, prices for the rooms have risen (to as much
 <!-- Keep next heading and image on one to lessen vertical spacing -->
 ### Hotel Las Arenas Building Layout ![Room layout](../images/Las Arenas rooms 1000.png){:.thinblackborder}
 
-*Pictures coming soon...*
+[See the ocean view (or lack thereof) from each room.](./las-arenas-views.md)
 
 # Payment
 
