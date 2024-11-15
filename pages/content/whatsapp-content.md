@@ -10,7 +10,7 @@ For 2025, we've created the **PM Dances Community** WhatsApp community with thes
 
 - **Dancer Chat** <span style="color: red">*(messaging currently disabled - we'll let you know when you can start posting)*</span> is an unmoderated group for conversations about and at camp. All camp registrants can join the group. All participants can post. Not everyone will want to be in this group if it gets too verbose, so **please reply privately** with thank you, I agree, etc messages and conversations that don’t involve the whole group.
 
-- **Admin Team Only**, as the name indicates, is a group for the admin team to communicate about behind-the-scenes stuff. There's no need for any camp registrants to join this group.
+- **Admin Team Chat**, as the name indicates, is a group for the admin team to communicate about behind-the-scenes stuff. There's no need for any camp registrants to join this group.
 
 > Other specialty groups might be added based on need. For example, **Post Camp** will be added at the end of camp for people staying in Puerto Morelos longer (to use for logistics like _Who's in for dinner tonight at El Pesquero's?_).
 
@@ -28,29 +28,34 @@ For 2025, we've created the **PM Dances Community** WhatsApp community with thes
 
 All groups related to this year's camp are part of the **PM Dances Community** WhatsApp community. To access or join any of the groups:
 
-1. Navigate to the **PM Dances Community**. To do so:
-   - From your phone, in your **Chats** list, locate and tap **PM Dances Community**.
-   - From your computer, click the **Communities** icon, then click **PM Dances Community**.
+1. In Whatsapp, navigate to the **PM Dances Community**. To do so:
+   - Click the **Communities** icon, then click **PM Dances Community**.
 2. A list appears showing the groups you're in and the groups you can join.
    - To access, tap or click any group you're in.
    - To join, tap or click any group you can join to request access.
 
+> Can't find the **PM Dances Community**?
+> - If it does not appear in your list of communities and you have registered for camp, use the [Whatsapp Community for Camp](https://chat.whatsapp.com/EMbSgSrfAhiFqgHSPwd7mH){:target="_blank"} link to request access.<br>
+> - If you haven't yet registered, you can request access as part of the registration process.
+> - On your phone, **PM Dances Community** also appears in your **Chats** list.
+ 
 # How to exit a group
 
 All groups related to this year's camp are part of the **PM Dances Community** WhatsApp community. To exit any of the groups:
 
-1. Navigate to the **PM Dances Community**. To do so:
-   - From your phone, in your **Chats** list, locate and tap **PM Dances Community**.
-   - From your computer, click the **Communities** icon, then click **PM Dances Community**.
+1. In Whatsapp, navigate to the **PM Dances Community**. To do so:
+   - Click the **Communities** icon, then click **PM Dances Community**.
 2. A list appears showing the groups you're in.
    - Tap or click the group you want to exit.
 3. Exit the group.
    - From your phone, tap the group title banner at the top of the screen, then scroll down and select **Exit group**.
    - From your computer, click the three dots in the upper right corner of the screen, then select **Exit group**.
 
+> Exiting the **Announcements** group removes you entirely from the community and all groups in the community.
+
 # How to reply privately
 
-In our WhatsApp groups, when what you have to say doesn’t pertain to the whole group, reply privately to keep spamming to a minimum. For example, asking a follow-up question or commenting in a way that’s personal to the two of you. This practice helps to keep the interest level up for everyone. Thanks!
+In our WhatsApp groups, when what you have to say doesn’t pertain to the whole group, reply privately to keep spamming to a minimum. For example, when asking a follow-up question or commenting in a way that’s personal to the two of you. This practice helps to keep the interest level up for everyone. Thanks!
 
 To reply privately from an iPhone:
 

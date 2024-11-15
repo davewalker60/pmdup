@@ -32,7 +32,7 @@ Full attendance registration cost is $225-$350/person as you can afford and incl
 * All morning practices, afternoon classes, and other offerings
 * Late night sing-alongs & music jams
 * A community meal
-* Use of the simple community kitchen
+* Use of the simple community kitchen/chill space
 * Use of the beach palapa
 
 And does ***not*** include:
