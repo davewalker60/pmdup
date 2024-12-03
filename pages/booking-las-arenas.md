@@ -15,11 +15,11 @@ As we learned during camp last year, prices for the rooms have risen (to as much
 
 | Nights | Beachside<br>Total USD (usd/night) | Poolside<br>Total USD (usd/night) |
 | :--------------------------------------------------------: | :----------------------------------: | :----------------------------------: |
-| 10-night block (Feb 11-21)* |            **$700** ($70.00<span style="color:red">**</span>)            | **$650** ($65.00<span style="color:red">**</span>) |
-| 9 nights                                                |            **$700** ($77.78<span style="color:red">**</span>)            | **$650** ($72.22<span style="color:red">**</span>) |
-| 8 nights                                                |            **$650** ($81.25<span style="color:red">**</span>)            | **$600** ($75.00<span style="color:red">**</span>) |
-| 7 nights                                                |            **$600** ($85.71<span style="color:red">**</span>)            | **$550** ($78.57<span style="color:red">**</span>) |
-| 6 nights                                                |            **$550** ($91.67<span style="color:red">**</span>)            | **$525** ($87.50<span style="color:red">**</span>) |
+| 10-night block (Feb 11-20)* |            **$700** ($70.00<span style="color:red">**</span>)            | **$650** ($65.00<span style="color:red">**</span>) |
+| 9 of the 10 nights                                                |            **$700** ($77.78<span style="color:red">**</span>)            | **$650** ($72.22<span style="color:red">**</span>) |
+| 8 of the 10 nights                                                |            **$650** ($81.25<span style="color:red">**</span>)            | **$600** ($75.00<span style="color:red">**</span>) |
+| 7 of the 10 nights                                                |            **$600** ($85.71<span style="color:red">**</span>)            | **$550** ($78.57<span style="color:red">**</span>) |
+| 6 of the 10 nights                                                |            **$550** ($91.67<span style="color:red">**</span>)            | **$525** ($87.50<span style="color:red">**</span>) |
 
 <!-- \* Add up to 10 additional nights (before and/or after) for the same price per night. Additional discount available for 21+ nights.-->
 \* Add additional nights (before and/or after) for the same price per night.
