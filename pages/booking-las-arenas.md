@@ -7,6 +7,8 @@ toc: false
 search: include
 ---
 
+<span style="color:red">***The hotel is now full. Continue to use the lodging request form to be on the waitlist.***</span>
+
 We have booked the entire 30-room Hotel Las Arenas Puerto Morelos for 10 nights (Feb 11 check in to Feb 21 check out) and several of the rooms for a few additional nights before and after. On December 10, we must release the unbooked additional rooms back to the hotel, so the sooner you book, the better chance a room will be available for your dates.
 
 As we learned during camp last year, prices for the rooms have risen (to as much as 1800 pesos/night) with beachside rooms now costing more than poolside rooms. ***But miraculously***, the total hotel group rate we negotiated amazingly allows us to charge the same $70 per night as last year (assuming the exchange rate remains above 17 pesos/dollar) for 10-night-stay beachside rooms and ***even less*** for poolside rooms!
@@ -29,7 +31,7 @@ As we learned during camp last year, prices for the rooms have risen (to as much
 \*\*\* All prices include ~20 peso/night guaranteed housekeeper gratuity and we encourage you to leave more.
 
 # [Reserve your room](https://docs.google.com/forms/d/e/1FAIpQLSct3SrTHl76pMYcZ5z9-eWdLCjCXzf4igqfVk689qA42YuyWA/viewform){:target="_blank"}
-<span style="color:red">Complete and submit [**the Las Arenas booking form**](https://docs.google.com/forms/d/e/1FAIpQLSct3SrTHl76pMYcZ5z9-eWdLCjCXzf4igqfVk689qA42YuyWA/viewform){:target="_blank"} to reserve your room</span> while they last (they are going fast!) and either pay now or anytime in 2024.
+The hotel is now full. Complete and submit [**the Las Arenas booking form**](https://docs.google.com/forms/d/e/1FAIpQLSct3SrTHl76pMYcZ5z9-eWdLCjCXzf4igqfVk689qA42YuyWA/viewform){:target="_blank"} to get on the waitlist.
 
 <!-- Keep next heading and image on one to lessen vertical spacing -->
 ### Hotel Las Arenas Building Layout ![Room layout](../images/Las Arenas rooms 1000.png){:.thinblackborder}
