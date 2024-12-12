@@ -17,6 +17,7 @@ These are the hotels that we know of beachside. All are within a 15-minute walk 
 
 - **Hotel Las Arenas** - The closest hotel to the beach, where we dance, and where a good portion of us stay. We are working directly with the hotel (thanks Dave Nur al-Haqq!) and have booked the entire 30-room hotel at a 10-day group rate that includes all taxes and avoids all online booking & cleaning fees. [<span style="color:red">***Learn more and book here***</span>](booking-las-arenas.md).
 - **Amar Inn**
+- **Areia Boutique Hotel Puerto Morelos**
 - **Casa El Moro**
 - **Cuca Macuca Hostel** - By far, the cheapest place to stay portside and right off the town square. Last we checked, a bed in a 6-bed dorm was $21/night on hostelworld.com (not sure if that includes taxes and online booking & cleaning fees).
 - **Hacienda Morelos**
@@ -25,7 +26,6 @@ These are the hotels that we know of beachside. All are within a 15-minute walk 
 - **La Quinta Orquídea (Dr. Suess house)**
 - **Layla Guest House**
 - **Villas Valentina**
-- **We Hotel Puerto Morelos**
 - **Casa Velero**
 - **AirBnB-type places beachside** - AirBnB, Vrbo, etc don’t list exact addresses online, so if it says it’s more than a ½ mile from the city center, it’s probably out near the highway or across the highway in La Colonia. 
 
