@@ -7,7 +7,7 @@ toc: false
 search: include
 ---
 
-<span style="color:red">***The hotel is nearly full. Once full, continue to use the lodging request form to be on the waitlist.***</span>
+<span style="color:red">***The hotel is now full. But things do change, so definitely submit the [Las Arenas lodging request form](https://docs.google.com/forms/d/e/1FAIpQLSct3SrTHl76pMYcZ5z9-eWdLCjCXzf4igqfVk689qA42YuyWA/viewform){:target="_blank"} to get on the waitlist and see what's available before booking anything else! We highly recommend making a fully-refundable or cancellable-until-a-few-days-before reservation elsewhere (so you can drop it if something opens for you at Las Arenas). Check out our [Lodging Options](lodging-options.md) web page for some places we know of.***</span>
 
 We have booked the entire 30-room Hotel Las Arenas Puerto Morelos for 10 nights (Feb 11 check in to Feb 21 check out) and several of the rooms for a few additional nights before and after. On December 10, we must release the unbooked additional rooms back to the hotel, so the sooner you book, the better chance a room will be available for your dates.
 
@@ -31,7 +31,7 @@ As we learned during camp last year, prices for the rooms have risen (to as much
 \*\*\* All prices include ~20 peso/night guaranteed housekeeper gratuity and we encourage you to leave more.
 
 # [Reserve your room](https://docs.google.com/forms/d/e/1FAIpQLSct3SrTHl76pMYcZ5z9-eWdLCjCXzf4igqfVk689qA42YuyWA/viewform){:target="_blank"}
-The hotel is nearly full. Complete and submit [**the Las Arenas booking form**](https://docs.google.com/forms/d/e/1FAIpQLSct3SrTHl76pMYcZ5z9-eWdLCjCXzf4igqfVk689qA42YuyWA/viewform){:target="_blank"} ASAP or risk being on the waitlist.
+The hotel is full. Complete and submit [**the Las Arenas booking form**](https://docs.google.com/forms/d/e/1FAIpQLSct3SrTHl76pMYcZ5z9-eWdLCjCXzf4igqfVk689qA42YuyWA/viewform){:target="_blank"} to get on the waitlist.
 
 <!-- Keep next heading and image on one to lessen vertical spacing -->
 ### Hotel Las Arenas Building Layout ![Room layout](../images/Las Arenas rooms 1000.png){:.thinblackborder}
