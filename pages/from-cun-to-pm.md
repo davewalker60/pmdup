@@ -14,7 +14,7 @@ This page covers various ways to get from the CUN airport to the retreat. The mo
 Once you clear customs at CUN, the scene is quite a zoo! But no need to be intimidated; it’s part of the adventure! To lessen your potential overwhelm, we are arranging rides for all who want them. 
 
 - We’ll connect you with your driver and he will meet you at the curb.
-- Our discounted rate is 600 pesos or $30 paid directly to the driver. This price is definitely the best rate for a private car and 1/2 the price of getting into a taxi at the airport without an advance reservation!
+- Our discounted rate is 600 pesos or $30 per car, paid directly to the driver upon arrival in Puerto Morelos. This price is definitely the best rate for a private car and 1/2 the price of getting into a taxi at the airport without an advance reservation!
 - To use our service, you must complete the [**travel form**](https://docs.google.com/forms/d/e/1FAIpQLSex7cyDs_Xf33rAxqU2S749xG_MB4lMQk3fPvF_p0JkkoKyTg/viewform){:target="_blank"} well in advance of your arrival date.
 
 > We are also arranging rideshares to the airport at the end of your trip.
