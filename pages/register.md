@@ -45,3 +45,4 @@ And does ***not*** include:
 - People not attending the full camp may attend individual morning or evening sessions for $30/session (500 pesos) and community meals for $10 (170 pesos) each, provided they follow the [health care guidelines](health-care-guidelines.md).
 - For the classes/offerings happening in the afternoons, simply make a donation to the person leading the offerings you attend.
 - To foster outreach and share the joy of the Dances of Universal Peace, we are again welcoming locals to join us on a donation or completely-comped basis, as they can afford, provided they follow the [health care guidelines](health-care-guidelines.md).
+- If you are certain of the days you'll attend, feel free to register. Otherwise, you may just show up and pay Wayne on site. 
