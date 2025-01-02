@@ -8,7 +8,7 @@ For 2025, we've created the **PM Dances Community** WhatsApp community with thes
 
 - **Announcements** is for daily camp announcements by staff only (no participant posting). This group is the main way we disseminate information during camp. All registrants are added to this group as part of camp registration. 
 
-- **Dancer Chat** <span style="color: red">*(messaging currently disabled - we'll let you know when you can start posting)*</span> is an unmoderated group for conversations about and at camp. All camp registrants can join the group. All participants can post. Not everyone will want to be in this group if it gets too verbose, so **please reply privately** with thank you, I agree, etc messages and conversations that don’t involve the whole group.
+- **Dancer Chat** is an unmoderated group for conversations about and at camp. All camp registrants can join the group. All participants can post. Not everyone will want to be in this group if it gets too verbose, so **please reply privately** with thank you, I agree, etc messages and conversations that don’t involve the whole group.
 
 - **Admin Team Chat**, as the name indicates, is a group for the admin team to communicate about behind-the-scenes stuff. There's no need for any camp registrants to join this group.
 
