@@ -19,6 +19,7 @@ These are the hotels that we know of beachside. All are within a 15-minute walk 
 - **Amar Inn**
 - **Areia Boutique Hotel Puerto Morelos**
 - **Casa El Moro**
+- **Casa Puerto Morelos**
 - **Cuca Macuca Hostel** - By far, the cheapest place to stay portside and right off the town square. Last we checked, a bed in a 6-bed dorm was $21/night on hostelworld.com (not sure if that includes taxes and online booking & cleaning fees).
 - **Hacienda Morelos**
 - **Hotel Caracol**
