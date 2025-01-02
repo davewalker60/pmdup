@@ -16,9 +16,11 @@ Here's a list of some fragrance-free items we know of.
 - *help compile this list......*
 
 ## Shampoo and conditioner
+- Honest Company
 - *help compile this list......*
 
 ## Deodorant
+- Native
 - *help compile this list......*
 
 ## Laundry detergent

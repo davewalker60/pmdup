@@ -10,6 +10,7 @@ search: include
 {% include_relative snippets/puerto-morelos-snippet.md %}
 
 Please keep this distinction in mind when considering where to stay. If you’d like more assistance than you find below, [Ask for assistance here](https://docs.google.com/forms/d/e/1FAIpQLSeKsY-e9iy44578E1ijjs_g5Bwi1gZCuW439N1bOBlL76U5qg/viewform){:target="_blank"}.
+> The True Friends and Expats of Puerto Morelos group on Facebook is another place where you can get reliable opinions for places you might discover online, and to vet them for possible scams. If it looks like a deal that's too good to be true, it's likely either miles from the beach and inconvenient or an outright scam. Be smart and ask around (including us) before sending anyone any money...
 
 # Portside / Beachside
 
@@ -28,7 +29,7 @@ These are the hotels that we know of beachside. All are within a 15-minute walk 
 - **Layla Guest House**
 - **Villas Valentina**
 - **Casa Velero**
-- **AirBnB-type places beachside** - AirBnB, Vrbo, etc don’t list exact addresses online, so if it says it’s more than a ½ mile from the city center, it’s probably out near the highway or across the highway in La Colonia. 
+- **AirBnB-type places beachside** - AirBnB, Vrbo, etc don’t list exact addresses online, so if it says it’s more than a ½ mile from the city center, it’s probably out near the highway or across the highway in La Colonia.
 
 > Note: If you know of other places, please [let us know](https://docs.google.com/forms/d/e/1FAIpQLSeKsY-e9iy44578E1ijjs_g5Bwi1gZCuW439N1bOBlL76U5qg/viewform){:target="_blank"} and we'll update this page. Thanks!
 
