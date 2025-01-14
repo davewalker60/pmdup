@@ -12,19 +12,29 @@ Here's a list of some fragrance-free items we know of.
 - DEET-free: Sawyer’s Picaridin, Coleman Skin Smart
 - With DEET: Sawyer Ultra 30, Sawyer Premium Controlled Release, Sawyer Family
 
-## Suntan and other lotion
-- *help compile this list......*
+## Sunscreen
+Look for the words ***fragrance free*** on the label.
+- Alba Botanica
+- Neutrogena
+- Safeway Signature
+
+## Lotion
+Look for the words ***fragrance free*** on the label.
+- Aveno
+- CeraVe
+- Eucerin
+- Lubriderm
+- Neutogena
 
 ## Shampoo and conditioner
 - Honest Company
-- *help compile this list......*
+- Whole Foods 365 Fragrance Free
 
 ## Deodorant
 - Native
-- *help compile this list......*
 
 ## Laundry detergent
-- *help compile this list......*
+- All and various other brands have fragrance free versions. Look for the words ***free and clear*** on the label.
 
 # Thank you in advance! 
 > Do you have items to add? To contribute to this (or any) page, use the [**questions & suggestions form**](https://docs.google.com/forms/d/e/1FAIpQLSeKsY-e9iy44578E1ijjs_g5Bwi1gZCuW439N1bOBlL76U5qg/viewform){:target="_blank"} (found in the **Quick Jump** menu under **Contact Us**).
