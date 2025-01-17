@@ -31,12 +31,12 @@ Full attendance registration cost is $225-$350/person as you can afford and incl
 * All morning & evening dance sessions
 * All morning practices, afternoon classes, and other offerings
 * Late night sing-alongs & music jams
-* A community meal
+<!--* A community meal-->
 * Use of the simple community kitchen/chill space
 * Use of the beach palapa
 
 And does ***not*** include:
-* Other meals
+* <!--Other m-->Meals
 * Lodging
 * Airfare and other transportation to PM (though [we will coordinate your rides](from-cun-to-pm.md) from/to CUN)
 

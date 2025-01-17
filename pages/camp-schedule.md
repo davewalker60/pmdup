@@ -21,7 +21,7 @@ The following schedule describes the basic structure of the retreat and is subje
 
 **Feb 13**
 - **4pm**: Camp officially starts with socializing and camp orientation. Connect with newcomers & old friends.
-- **5pm**: Community dinner together at the Las Arenas reception palapa.
+<!--- **5pm**: Community dinner together at the Las Arenas reception palapa.-->
 - **7pm**: First official dance session.
 
 **Feb 14 - 19**
