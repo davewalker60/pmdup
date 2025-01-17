@@ -45,7 +45,8 @@ Ways to deal with the late-night noise include:
 # Staying safe in Puerto Morelos
 
 - Valuables are fairly safe in your hotel rooms, but one can never be too careful. Most hotel rooms have a safe. If yours doesn’t, there should be one available for your use in the hotel office.
-- Ketchup scam - when in public, if someone squirts ketchup or sauce on you, immediately put your hands on your valuables and make a scene / call out for the police. 
+- Ketchup scam - when in public, if someone squirts ketchup or sauce on you, immediately put your hands on your valuables and make a scene / call out for the police.
+- Credit card swap scam - Never let anyone take your credit card out of your sight. And if your credit card ever does leave your hand, make sure the credit card handed back to you is yours. This scam is they give you a similar looking card, then head straight to the ATM with yours.
 - Fentanyl warning - https://www.latimes.com/world-nation/story/2023-06-14/fentanyl-tainted-pills-now-found-in-mexican-pharmacies-from-coast-to-coast
 - Please wear a mask when riding the collectivos to help keep us all healthy. Thank you for caring about your fellow dancers!
 
