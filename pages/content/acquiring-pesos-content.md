@@ -48,10 +48,9 @@ Consider acquiring pesos from your bank at home before traveling.
 
 # Tips for the best exchange rate
 
-
 Based on past experience, here's the order for minimizing the amount you pay for your pesos:
 
-1. Using no 3% foreign transaction fee credit card (and charging you in pesos) in PM results in the best rate by far.<br>*Caveat: We don't know if the idea of merchants charging a credit card use percentage has caught on in PM, but keep that in mind as well.*
+1. Using no 3% foreign transaction fee credit card results in the best rate by far, as long as you/they select ***charge in pesos*** on the credit card machine.<br>*Caveat: We don't know if the practice of merchants charging a credit card use percentage has caught on in PM, but keep that in mind...*
 
 2. Converting at your bank, if you can get the .003 or so rate difference.
 
