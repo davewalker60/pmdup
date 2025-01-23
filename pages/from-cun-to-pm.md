@@ -38,3 +38,11 @@ There is a taxi/collectivo stand on the east side of the highway (around the cor
 ## By rental car
 
 The Cancun airport is modern, on par with typical US domestic airports, complete with an in-airport rental car center. Check with your own car insurance company to see if your policy covers you while in Mexico.
+
+## By train
+
+The Tren Maya is fully operational, but only runs from Cancun south twice a day. There's a free shuttle from the airport to the train station and it costs 108 pesos to PM. We can't find any reliable info on the cost of a taxi from the train station to the beach village, but imagine it's another 400-600 pesos (same as cenote road price).
+
+If you are trying to do it really on the cheap, you possibly can walk from the airport out to the road and wait for the collectivo (but we know how that can go...). Unless you are gonna use the collectivo, it's cheaper (and a heck of a lot faster) to take a prearranged taxi door to door.
+
+I'm sure we'll learn more once we are down there this year...
