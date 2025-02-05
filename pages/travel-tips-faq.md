@@ -37,6 +37,10 @@ Eating improperly-washed fruits and vegetables raw also can result in intestinal
 
 Yes, cell reception is prevalent throughout the Riviera Maya, but [make sure your cell plan includes Mexico](./cell-phones.md) and/or keep your phone in airplane mode and rely on the equally-prevalent WiFi.
 
+# What kind of power outlets?
+
+THe power outlets in Puerto Morelos are the same 120-volt Type A (two prong) and Type B (three prong) outlets as in the USA.
+
 # Where in Puerto Morelos does camp take place?
 
 {% include_relative snippets/venue-snippet.md %}
