@@ -73,6 +73,29 @@ To reply privately from an Android phone:
 
 [This video](https://www.youtube.com/watch?v=C2t1LxDsae0){:target="_blank"} demonstrates the steps.
 
+# How to message privately
+
+This section describes how to find and message someone in the **Dancer Chat** directly (without replying to a post)
+
+To message privately from an iPhone:
+
+1. Tap the **Dancer Chat** title at the top.
+2. Scroll down to the end of the member icons.
+3. Tap **See all**.
+4. Scroll again to find and tap on the person.
+   > People in your contacts appear first, followed by others with names, followed by the numbers of people not in your contacts who have not posted anything yet.
+5. Tap **Info**.
+6. Tap **Message**.
+
+To message privately from an Android phone:
+
+1. Tap the **Dancer Chat** title at the top.
+2. Scroll down to the end of the member icons.
+3. Tap **View all**.
+4. Scroll again to find and tap on the person.
+   > People in your contacts appear first, followed by others with names, followed by the numbers of people not in your contacts who have not posted anything yet.
+5. Tap **Message** *(person or number)*.
+
 # How to install WhatsApp
 
 ## On your phone
