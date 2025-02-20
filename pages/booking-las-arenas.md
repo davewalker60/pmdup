@@ -13,7 +13,7 @@ We have booked the entire 30-room Hotel Las Arenas Puerto Morelos for 10 nights 
 
 As we learned during camp last year, prices for the rooms have risen (to as much as 1800 pesos/night) with beachside rooms now costing more than poolside rooms. ***But miraculously***, the total hotel group rate we negotiated amazingly allows us to charge the same $70 per night as last year (assuming the exchange rate remains above 17 pesos/dollar) for 10-night-stay beachside rooms and ***even less*** for poolside rooms!
 
-### Hotel Las Arenas Pricing Options***
+### Hotel Las Arenas Pricing Options
 
 | Nights | Beachside<br>Total USD (usd/night) | Poolside<br>Total USD (usd/night) |
 | :--------------------------------------------------------: | :----------------------------------: | :----------------------------------: |
@@ -27,8 +27,6 @@ As we learned during camp last year, prices for the rooms have risen (to as much
 \* Add additional nights (before and/or after) for the same price per night.
 
 <span style="color:red">\** *If the exchange rate drops below 17 pesos/USD before you send your payment, the actual dollar (CDN or USD) price you pay will be determined using the exchange rate at the time you pay.*</span>
-
-\*\*\* All prices include ~20 peso/night guaranteed housekeeper gratuity and we encourage you to leave more.
 
 # [Reserve your room](https://docs.google.com/forms/d/e/1FAIpQLSct3SrTHl76pMYcZ5z9-eWdLCjCXzf4igqfVk689qA42YuyWA/viewform){:target="_blank"}
 The hotel is full. Complete and submit [**the Las Arenas booking form**](https://docs.google.com/forms/d/e/1FAIpQLSct3SrTHl76pMYcZ5z9-eWdLCjCXzf4igqfVk689qA42YuyWA/viewform){:target="_blank"} to get on the waitlist.
