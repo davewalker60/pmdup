@@ -7,29 +7,31 @@ toc: false
 search: include
 ---
 
-<span style="color:red">***The hotel is now full. But things do change, so definitely submit the [Las Arenas lodging request form](https://docs.google.com/forms/d/e/1FAIpQLSct3SrTHl76pMYcZ5z9-eWdLCjCXzf4igqfVk689qA42YuyWA/viewform){:target="_blank"} to get on the waitlist and see what's available before booking anything else! We highly recommend making a fully-refundable or cancellable-until-a-few-days-before reservation elsewhere (so you can drop it if something opens for you at Las Arenas). Check out our [Lodging Options](lodging-options.md) web page for some places we know of.***</span>
+<span style="color:red">***The following information is approximate at this time. We hope to finalize dates and prices soon...***</span>
 
-We have booked the entire 30-room Hotel Las Arenas Puerto Morelos for 10 nights (Feb 11 check in to Feb 21 check out) and several of the rooms for a few additional nights before and after. On December 10, we must release the unbooked additional rooms back to the hotel, so the sooner you book, the better chance a room will be available for your dates.
+For 2026, we have again booked the entire 30-room Hotel Las Arenas Puerto Morelos. This time for 9 nights (Feb 11 check in to Feb 20 check out) and several rooms for a additional nights before and after. We must eventually release the unbooked additional rooms back to the hotel, so the sooner you know your dates, the better chance a room will be available for you. Dates for camp are Feb 13-19 (with likely pre- and post-camp dancing the day before and after).
 
-As we learned during camp last year, prices for the rooms have risen (to as much as 1800 pesos/night) with beachside rooms now costing more than poolside rooms. ***But miraculously***, the total hotel group rate we negotiated amazingly allows us to charge the same $70 per night as last year (assuming the exchange rate remains above 17 pesos/dollar) for 10-night-stay beachside rooms and ***even less*** for poolside rooms!
+**PLEASE READ CAREFULLY:**<br>
+**For 2026, we had to pay a 50,000 peso deposit. In the unlikely event that the courts decide to transfer control of the hotel back to the original owner, there is a slim chance that we might not be able to recover that money, even though we've been reassured/guaranteed in writing that it is 100% secure.**
 
-### Hotel Las Arenas Pricing Options
+**What we are asking of you is to share in that slight risk. To that end, we are requiring that each camp participant send a $100USD deposit to reserve your stay and prioritize your room preference. Your deposit is non-refundable if the unlikely scenario described above comes to fruition or if you cancel of your own accord.**
 
-| Nights | Beachside<br>Total USD (usd/night) | Poolside<br>Total USD (usd/night) |
-| :--------------------------------------------------------: | :----------------------------------: | :----------------------------------: |
-| 10-night block (Feb 11-20)* |            **$700** ($70.00<span style="color:red">**</span>)            | **$650** ($65.00<span style="color:red">**</span>) |
-| 9 of the 10 nights                                                |            **$700** ($77.78<span style="color:red">**</span>)            | **$650** ($72.22<span style="color:red">**</span>) |
-| 8 of the 10 nights                                                |            **$650** ($81.25<span style="color:red">**</span>)            | **$600** ($75.00<span style="color:red">**</span>) |
-| 7 of the 10 nights                                                |            **$600** ($85.71<span style="color:red">**</span>)            | **$550** ($78.57<span style="color:red">**</span>) |
-| 6 of the 10 nights                                                |            **$550** ($91.67<span style="color:red">**</span>)            | **$525** ($87.50<span style="color:red">**</span>) |
+If you are not interested in participating, check out our [Lodging Options](lodging-options.md) web page for many other places we know of to stay in Puerto Morelos and book early, as prices tend to skyrocket close to retreat time.
 
-<!-- \* Add up to 10 additional nights (before and/or after) for the same price per night. Additional discount available for 21+ nights.-->
-\* Add additional nights (before and/or after) for the same price per night.
+### Hotel Las Arenas Pricing
 
-<span style="color:red">\** *If the exchange rate drops below 17 pesos/USD before you send your payment, the actual dollar (CDN or USD) price you pay will be determined using the exchange rate at the time you pay.*</span>
+9-night stay (Feb 11-20), includes one night before and one night after camp:
+* $675 Beachside
+* $625 Poolside - Partial Ocean View
+* $575 Poolside - No Ocean View
+
+Each additional night before Feb 11 or Feb 20 and after:
+* $75 Beachside
+* $70 Poolside - Partial ocean view
+* $65 Poolside - No ocean view
 
 # [Reserve your room](https://docs.google.com/forms/d/e/1FAIpQLSct3SrTHl76pMYcZ5z9-eWdLCjCXzf4igqfVk689qA42YuyWA/viewform){:target="_blank"}
-The hotel is full. Complete and submit [**the Las Arenas booking form**](https://docs.google.com/forms/d/e/1FAIpQLSct3SrTHl76pMYcZ5z9-eWdLCjCXzf4igqfVk689qA42YuyWA/viewform){:target="_blank"} to get on the waitlist.
+<span style="color:red">Complete and submit [**the Las Arenas booking form**](https://docs.google.com/forms/d/e/1FAIpQLSct3SrTHl76pMYcZ5z9-eWdLCjCXzf4igqfVk689qA42YuyWA/viewform){:target="_blank"} to reserve your room</span> while they last (they are going fast!) and pay separately.
 
 <!-- Keep next heading and image on one to lessen vertical spacing -->
 ### Hotel Las Arenas Building Layout ![Room layout](../images/Las Arenas rooms 1000.png){:.thinblackborder}
@@ -38,16 +40,17 @@ The hotel is full. Complete and submit [**the Las Arenas booking form**](https:/
 
 # Payment
 
-Pay through PayPal or Venmo, just like we did last year. If you can't do either, pay by check.
+Use Wise, Venmo, or PayPal (just like we did last year). If you don't do electronic payments, you can mail a US check.
 
-You can pay anytime in 2024, but note, if you wait and the exchange rate drops below 17 pesos/US dollar, we'll need to adjust your price in this way:
- 
-- The actual dollar (USD or CDN) price you pay would be determined using the exchange rate at the time you pay.
-- Dollars collected would be converted to pesos at the time collected.
+<span style="color:red">*Your stay is not reserved and your room preference is not prioritized until your $100USD deposit is received.*</span>
+
+You can pay the balance anytime before Jan 15, 2026, but note, if the exchange rate drops below 17 pesos/dollar before you send your payment:
+* The actual dollar (USD or CDN) price you pay would be determined using the exchange rate at the time you pay.
+* Dollars collected would be converted to pesos at the time collected.
 
 # Cancellation policy
 
-Full refund with sufficiently-creative excuse, provided there are still people on the waitlist and your room gets filled. Cancellation close to retreat time may result in partial or no refund.
+Full refund (less $100USD non-refundable deposit) with sufficiently-creative excuse, provided there are still people on the waitlist and your room gets filled. Cancellation close to retreat time may result in partial or no refund.
 
 # Questions
 

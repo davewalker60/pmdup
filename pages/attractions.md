@@ -24,7 +24,11 @@ Dancers staying in Puerto Morelos for as much as a month rent a palapa (thatched
 
 ## Sargasso / Sargassum
 
-Since 2011, sargasso/sargassum has been breaking off from the [Sargasso Sea](https://en.wikipedia.org/wiki/Sargasso_Sea){:target="_blank"} in alarming rates and coming on shore in Florida and the Caribbean. The "season" has typically been from April to September, but has started as early as February in a couple of recent years. Feb '24 was far better than Feb '22 & '23. Predictions for Feb '25 are not yet available.
+Since 2011, sargasso/sargassum has been breaking off from the [Sargasso Sea](https://en.wikipedia.org/wiki/Sargasso_Sea){:target="_blank"} in alarming rates and coming on shore in Florida and the Caribbean. The "season" has typically been from April to September, but has started as early as February in a couple of recent years. Feb '24 & '25 were far better than Feb '22 & '23. Predictions for Feb '26 are not yet available.
+
+## Sea lice
+
+When the sargasso gets bad, jellyfish larvae (commonly called *sea lice*) can get into your bathing suit and cause a rash known as [seabather's eruption](https://en.wikipedia.org/wiki/Seabather%27s_eruption){:target="_blank"}. Various dancers suggest vinegar, topical anti-itch creams (such as [Ivarest](https://ivarest.com/){:target="_blank"}), and even your own pee as potential ways to get relief.
 
 ## La brisa caribe
 
@@ -84,10 +88,9 @@ The [Croco Cun Zoo](https://www.crococunzoo.com/){:target="_blank"}, located jus
 
 # Nightlife
 While there is tourism pressure to become like Cancun, preservationist locals work hard to not have the quaint seaside village become an all-night party destination. There are a few places that have music until midnight, but most shops and restaurants roll up the sidewalks by 8:00. That said, a sampling of our favorite nightlife includes:
-* Karaoke on Thursdays 8-10 at Layla Guesthouse
 * Live bands (with varying musical genres depending on the night of the week) on the La Sirena rooftop
 * Live (mostly rock) bands across the street from Las Arenas at Louro's (nicknamed *Loudo's* because it's so loud it's better enjoyed by listening from across the street.)
-* More chill afternoon music with live duos Saturdays and Sundays 4:30 to 6:00 up the beach at Unico Beach Club
+* More chill afternoon music with live duos Saturdays and Sundays up the beach at Diving Bar from 2:00 to 4:00 and Unico Beach Club from 4:00 to 6:00
 
 # Post-camp community
 Many people stay for a week or even up to a month after camp, so consider joining in the fun! Over the years, "the longtimers" have built a unique sense of community. We:
