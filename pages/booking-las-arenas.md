@@ -26,8 +26,8 @@ If you are not interested in participating, you can wait and see if rooms are st
 
 9-night stay (Feb 11-20), includes one night before and one night after camp:
 * $675 Beachside
-* $625 Poolside - Partial Ocean View
-* $575 Poolside - No Ocean View
+* $630 Poolside - Partial Ocean View
+* $585 Poolside - No Ocean View
 
 Each additional night before Feb 11 or Feb 20 and after:
 * $75 Beachside
@@ -46,7 +46,7 @@ Each additional night before Feb 11 or Feb 20 and after:
 
 Use Wise, Venmo, or PayPal (just like we did last year). If you don't do electronic payments, you can mail a US check.
 
-<span style="color:red">*Your stay is not reserved and your room preference is not prioritized until your $100USD deposit is received.*</span>
+<span style="color:red">*Your stay is not reserved and your room preference is not prioritized until your $100 USD non-refundable deposit is received.*</span>
 
 You can pay the balance anytime before Jan 15, 2026, but note, if the exchange rate drops below 18 pesos/usd before you send the balance, your price will be higher:
 * The actual dollar (USD or CDN) price you pay would be determined using the exchange rate at the time you pay.
@@ -54,7 +54,7 @@ You can pay the balance anytime before Jan 15, 2026, but note, if the exchange r
 
 # Cancellation policy
 
-Full refund (less $100USD non-refundable deposit) with sufficiently-creative excuse, provided there are still people on the waitlist and your room gets filled. Cancellation close to retreat time may result in partial or no refund.
+Full refund (less $100 USD non-refundable deposit) with sufficiently-creative excuse, provided there are still people on the waitlist and your room gets filled. Cancellation close to retreat time may result in partial or no refund.
 
 # What to expect at our favorite 2-star hotel
 
