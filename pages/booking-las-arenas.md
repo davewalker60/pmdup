@@ -54,6 +54,21 @@ Full refund (less $100USD non-refundable deposit) with sufficiently-creative exc
 
 # What to expect at our favorite 2-star hotel
 
+We set up a simple community kitchen in room 102. It has:
+
+* Microwave
+* Two-burner hot plate
+* Larger mini fridge
+* Sink
+* Dish rack
+* Coffee maker
+* Water kettle
+* Small selection of pots, pans, dishes, silverware, and cooking utensils.
+* 20L drinking water dispensers (provided both here and at the dance circle during dance sessions, but not in individual rooms during the retreat days)
+* Safe (for people without one in their room)
+
+> Please clean your cooking dishes **before** eating, so others can use them. And please thoroughly clean up after yourself! Your mother doesn't live here... (...unless you're name is Amber! :-) )
+
 While it's the *finest 2-star Mexican hotel on the beach you'll ever meet, staying does have its drawbacks. But hey, it's Mexico!
 
 * Hot water might not be available at all times
@@ -61,7 +76,6 @@ While it's the *finest 2-star Mexican hotel on the beach you'll ever meet, stayi
 * Not all rooms have fridges, safes, microwaves. Use the ones in the community kitchen (room 102) if you don't have them in your room.
 * Not all rooms have TVs and there is no cable (just WiFi for your NexFlix, etc). 
 * Not all rooms have working fans and air conditioners, though they tend to get them fixed quickly.
-* Drinking water will be provided only in the community kitchen and at the dance circle during dance sessions. 
 * It might take a couple of days to get two room keys, batteries replaced in the safe, etc.
 * The toilet seat hinges tend to break easily.
 * Shampoo yes, but no conditioner, body gel, or body lotion is provided.

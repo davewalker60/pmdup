@@ -24,7 +24,8 @@ Once you clear customs at CUN, the scene is quite a zoo! But no need to be intim
 ## By taxi or private car
 
 - The best rate we’ve found online is to pre-arrange a ride using the [CLICK HERE FOR DISCOUNTED RATES](https://cancun.ridebitsapp.com/central/new_reservation){:target="_blank"} link on the [Cancun International Airport](https://www.cancunairport.com/taxi.html){:target="_blank"} website.
-- Avoid hailing a taxi at the airport. Some people have been charged as much as triple ($90 yikes!). In fact, in an attempt to lessen the badgering, the airport has made it “illegal” to hail a cab at the curb. They (and we) highly recommend pre-arranging your ride. 
+- Avoid hailing a taxi at the airport. Some people have been charged as much as triple ($90 yikes!). In fact, in an attempt to lessen the badgering, the airport has made it “illegal” to hail a cab at the curb. They (and we) highly recommend pre-arranging your ride.
+- Never use a credit card with a taxi driver at the airport! They'll say it didn't work and send you to someone else, but in reality they just stole your card info or successfully charged a bunch to your card.
 
 ## By bus/taxi combination
 
@@ -43,6 +44,4 @@ The Cancun airport is modern, on par with typical US domestic airports, complete
 
 The Tren Maya is fully operational, but only runs from Cancun south twice a day. There's a free shuttle from the airport to the train station and it costs 108 pesos to PM. We can't find any reliable info on the cost of a taxi from the train station to the beach village, but imagine it's another 400-600 pesos (same as cenote road price).
 
-If you are trying to do it really on the cheap, you possibly can walk from the airport out to the road and wait for the collectivo (but we know how that can go...). Unless you are gonna use the collectivo, it's cheaper (and a heck of a lot faster) to take a prearranged taxi door to door.
-
-I'm sure we'll learn more once we are down there this year...
+If you are trying to do it really on the cheap, you possibly can walk from the Puerto Morelos train station out to the road and wait for the collectivo (but we know how that can go...). Unless you are gonna use the collectivo, it's cheaper (and a heck of a lot faster) to take a prearranged taxi door to door.

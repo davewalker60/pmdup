@@ -16,7 +16,7 @@ Hotel Las Arenas Puerto Morelos is an affordable 2-star hotel on the beach consi
   * Best price on the beach by far, especially with our 10-day, entire hotel group rate!
   * Most rooms have microwaves, mini fridges, beach towels, and hot water most of the time.
   * Make friends with the geckos, keep food sealed to avoid attracting ants, and a little bit of tape on torn screens keeps the mosquitos out... You get the idea...
-  * We'll be setting up a simple community kitchen and chill space in one of the rooms.
+  * We set up a simple community kitchen and chill space in one of the rooms.
 
 > **Hotel Las Arenas lodging registration is open. [Learn more here.](booking-las-arenas.md)**<br>
 Additional lodging is available at many places around town. [Learn more here.](lodging-options.md)

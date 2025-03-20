@@ -39,14 +39,14 @@ Ways to deal with the late-night noise include:
 
 ## La Colonia
   - La Colonia is a 7-minute / 2-mile drive from the beachside town square.
-  - Taxis are for 40 pesos ($2.35 US at 17 pesos/dollar) to town (50 if you are going past Timon Ave) and by law can only take 4 passengers.
+  - Taxis are for 50 pesos ($2.50 US at 20 pesos/dollar) to town (60 if you are going past Timon Ave) and by law can only take 4 passengers.
   - The [collectivo](https://puertomorelos.mx/producto/colectivos/){:target="_blank"} is a 10-peso public transportation option with lots of “local flavor”. **Please consider wearing a mask on the collectivos** before and during camp to help keep us all healthy. 
 
 # Staying safe in Puerto Morelos
 
 - Valuables are fairly safe in your hotel rooms, but one can never be too careful. Most hotel rooms have a safe. If yours doesn’t, there should be one available for your use in the hotel office.
-- Ketchup scam - when in public, if someone squirts ketchup or sauce on you, immediately put your hands on your valuables and make a scene / call out for the police.
-- Credit card swap scam - Never let anyone take your credit card out of your sight. And if your credit card ever does leave your hand, make sure the credit card handed back to you is yours. This scam is they give you a similar looking card, then head straight to the ATM with yours.
+- Ketchup scam - when in public, if someone squirts ketchup or sauce on you, immediately put your hands on your valuables and make a scene / call out for the police. While one person pretends to come to your aid, another tries to pick your pocket.
+- Credit card swap scam - Never let anyone take your credit card out of your sight. And if your credit card ever does leave your hand, make sure the credit card handed back to you is yours. The scam is they give you a similar looking card, then head straight to the ATM with yours.
 - Fentanyl warning - https://www.latimes.com/world-nation/story/2023-06-14/fentanyl-tainted-pills-now-found-in-mexican-pharmacies-from-coast-to-coast
 - Please wear a mask when riding the collectivos to help keep us all healthy. Thank you for caring about your fellow dancers!
 

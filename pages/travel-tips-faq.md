@@ -23,7 +23,7 @@ We do recommend installing an app like Google Translate on your phone and making
 
 # Can I use American money?
 
-Most places will accept USD, but you'll ***always*** get a horrible exchange rate. Before traveling, we recommend [acquiring some pesos from your local bank](acquiring-pesos.md).
+Most places will accept USD, but you'll ***almost always*** get a horrible exchange rate. Before traveling, we recommend [acquiring some pesos from your local bank](acquiring-pesos.md).
 
 # Does "don't drink the water" apply to QRoo?
 
@@ -39,7 +39,7 @@ Yes, cell reception is prevalent throughout the Riviera Maya, but [make sure you
 
 # What kind of power outlets?
 
-THe power outlets in Puerto Morelos are the same 120-volt Type A (two prong) and Type B (three prong) outlets as in the USA.
+The power outlets in Puerto Morelos are the same 120-volt Type A (two prong) and Type B (three prong) outlets as in the USA.
 
 # Where in Puerto Morelos does camp take place?
 
@@ -50,7 +50,7 @@ THe power outlets in Puerto Morelos are the same 120-volt Type A (two prong) and
 
 No, not if you follow a couple of simple steps. The Cancun airport (CUN) is becoming more and more like a US domestic airport each year. But... the vendors outside of customs can seem intimidating and finding your ride at the curb can be a bit tricky. [Navigating CUN](./navigating-cun.md) seamlessly guides you through the process. 
 
-And [pre-arranging your transportation from CUN to Puerto Morelos](from-cun-to-pm.md) helps.
+And [pre-arranging your transportation from CUN to Puerto Morelos](from-cun-to-pm.md) helps. Never use a credit card with a taxi driver at the airport! They'll say it didn't work and send you to someone else, but in reality they just stole your card info or successfully charged a bunch to your card.
 
 # Where do I stay when I get there?
 
