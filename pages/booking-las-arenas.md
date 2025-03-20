@@ -12,7 +12,7 @@ search: include
 For 2026, we have again booked the entire 30-room Hotel Las Arenas Puerto Morelos. This time for 9 nights (Feb 11 check in to Feb 20 check out) and several rooms for a additional nights before and after. We must eventually release the unbooked additional rooms back to the hotel, so the sooner you know your dates, the better chance a room will be available for you. Dates for camp are Feb 13-19 (with likely pre- and post-camp dancing the day before and after).
 
 **PLEASE READ CAREFULLY:**<br>
-**For 2026, we had to pay a 50,000 peso deposit. In the unlikely event that the courts decide to transfer control of the hotel back to the original owner, there is a slim chance that we might not be able to recover that money, even though we've been reassured/guaranteed in writing that it is 100% secure.**
+**Reserving the hotel for 2026 requires a 50,000 peso deposit. In the unlikely event that the courts decide to transfer control of the hotel back to the original owner, there is a slim chance that we might not be able to recover that money, even though we've been reassured/guaranteed in writing that it is 100% secure.**
 
 **What we are asking of you is to share in that slight risk. To that end, we are requiring that each camp participant send a $100USD deposit to reserve your stay and prioritize your room preference. Your deposit is non-refundable if the unlikely scenario described above comes to fruition or if you cancel of your own accord.**
 
@@ -44,13 +44,34 @@ Use Wise, Venmo, or PayPal (just like we did last year). If you don't do electro
 
 <span style="color:red">*Your stay is not reserved and your room preference is not prioritized until your $100USD deposit is received.*</span>
 
-You can pay the balance anytime before Jan 15, 2026, but note, if the exchange rate drops below 17 pesos/dollar before you send your payment:
+You can pay the balance anytime before Jan 15, 2026, but note, if the exchange rate drops below 18 pesos/usd before you send the balance, your price will be higher:
 * The actual dollar (USD or CDN) price you pay would be determined using the exchange rate at the time you pay.
 * Dollars collected would be converted to pesos at the time collected.
 
 # Cancellation policy
 
 Full refund (less $100USD non-refundable deposit) with sufficiently-creative excuse, provided there are still people on the waitlist and your room gets filled. Cancellation close to retreat time may result in partial or no refund.
+
+# What to expect at our favorite 2-star hotel
+
+While it's the *finest 2-star Mexican hotel on the beach you'll ever meet, staying does have its drawbacks. But hey, it's Mexico!
+
+* Hot water might not be available at all times
+* Most rooms have torn or missing screens. Each year they do their best to fix them for us.
+* Not all rooms have fridges, safes, microwaves. Use the ones in the community kitchen (room 102) if you don't have them in your room.
+* Not all rooms have TVs and there is no cable (just WiFi for your NexFlix, etc). 
+* Not all rooms have working fans and air conditioners, though they tend to get them fixed quickly.
+* Drinking water will be provided only in the community kitchen and at the dance circle during dance sessions. 
+* It might take a couple of days to get two room keys, batteries replaced in the safe, etc.
+* The toilet seat hinges tend to break easily.
+* Shampoo yes, but no conditioner, body gel, or body lotion is provided.
+* Some refrigerators have broken or missing shelves. Tape can be a partial remedy.
+* Freezers drip water into the refrigerators.
+* Hot water handles in the king room showers get scalding hot and can burn.
+* Gaps in door and window frames allow sand and mosquitos.
+* Any food you leave out will attract hundreds of ants.
+* Some rooms have poor mattresses.
+* Interesting smells occasionally rise from the shower drains, especially after a hard rain.
 
 # Questions
 
