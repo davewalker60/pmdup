@@ -42,6 +42,6 @@ The Cancun airport is modern, on par with typical US domestic airports, complete
 
 ## By train
 
-The Tren Maya is fully operational, but only runs from Cancun south twice a day. There's a free shuttle from the airport to the train station and it costs 108 pesos to PM. We can't find any reliable info on the cost of a taxi from the train station to the beach village, but imagine it's another 400-600 pesos (same as cenote road price).
+The Tren Maya is fully operational, but only runs from Cancun south twice a day. There's a free shuttle from the airport to the train station and it costs 130 pesos to take the train to PM. Then it's another 250 pesos for a taxi from the train station to the beach village.
 
-If you are trying to do it really on the cheap, you possibly can walk from the Puerto Morelos train station out to the road and wait for the collectivo (but we know how that can go...). Unless you are gonna use the collectivo, it's cheaper (and a heck of a lot faster) to take a prearranged taxi door to door.
+If you are trying to do it really on the cheap, you possibly can walk from the Puerto Morelos train station out to the road and wait for the collectivo (but we know how that can go...). Unless you are gonna use the collectivo, it's cheaper (and a heck of a lot faster) to take our prearranged taxi door to door.
