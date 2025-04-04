@@ -3,30 +3,37 @@ title: Las Arenas Views
 sidebar: main_sidebar
 sidebar_link: 36
 permalink: las-arenas-views.html
-toc: true
+toc: false
 search: include
 ---
 
-This page shows the view looking East (the direction of the ocean) from just outside each room. Look in the distance for ocean views for the rooms that have them.
+# Interior Views
+This section shows interior views of each room type.
+{% include image.html file="view_inside_1king.jpg" caption="Room with one king bed" %}
+{% include image.html file="view_inside_2queens.jpg" caption="Room with two queen beds" %}
+{% include image.html file="view_inside_1queen.jpg" caption="Room with one queen bed" %}
+
+# Ocean (or lack thereof) Views
+This section shows the view looking East (the direction of the ocean) from just outside each room. Look in the distance for ocean views for the rooms that have them.
 
 <!-- Keep next heading and image on one to lessen vertical spacing -->
 ### Hotel Las Arenas Building Layout ![Room layout](../images/Las Arenas rooms 1000.png){:.thinblackborder}
 
-### Views
 {% include image.html file="view_from_101.jpg" caption="View from 101 (courtesy David Weihnacht)" %}
-{% include image.html file="view_from_102.jpg" caption="View from 102 (courtesy David Weihnacht)" %}
+{% include image.html file="view_from_102.jpg" caption="View from 102 (courtesy Dave Nur al-Haqq Walker)" %}
 {% include image.html file="view_from_103.jpg" caption="View from 103 (courtesy David Weihnacht)" %}
 {% include image.html file="view_from_104.jpg" caption="View from 104 (courtesy David Weihnacht)" %}
-{% include image.html file="view_from_201.jpg" caption="View from 201" %}
+{% include image.html file="view_from_201.jpg" caption="View from 201 (courtesy Dave Nur al-Haqq Walker)" %}
 {% include image.html file="view_from_202.jpg" caption="View from 202 (courtesy David Weihnacht)" %}
 {% include image.html file="view_from_203.jpg" caption="View from 203 (courtesy David Weihnacht)" %}
 {% include image.html file="view_from_204.jpg" caption="View from 204 (courtesy David Weihnacht)" %}
-{% include image.html file="view_from_301.jpg" caption="View from 301 (courtesy David Weihnacht)" %}
+{% include image.html file="view_from_301.jpg" caption="View from 301 (courtesy Dave Nur al-Haqq Walker)" %}
+{% include image.html file="view_from_302.jpg" caption="View from 302 (courtesy Dave Nur al-Haqq Walker)" %}
 {% include image.html file="view_from_401.jpg" caption="View from 401 (courtesy David Weihnacht)" %}
 {% include image.html file="view_from_402.jpg" caption="View from 402 (courtesy David Weihnacht)" %}
 {% include image.html file="view_from_403.jpg" caption="View from 403 (courtesy David Weihnacht)" %}
 {% include image.html file="view_from_404.jpg" caption="View from 404 (courtesy David Weihnacht)" %}
-{% include image.html file="view_from_501.jpg" caption="View from 501 (no photo - similar to 402)" %}
+{% include image.html file="view_from_501.jpg" caption="View from 501 (courtesy Dave Nur al-Haqq Walker)" %}
 {% include image.html file="view_from_502.jpg" caption="View from 502" %}
 {% include image.html file="view_from_503.jpg" caption="View from 503" %}
 {% include image.html file="view_from_504.jpg" caption="View from 504" %}
