@@ -11,20 +11,14 @@ search: include
 <!--### <span style="color:red">***&nbsp;&nbsp;&nbsp;2026 Hotel Las Arenas lodging registration is open. [Learn more here.](booking-las-arenas.md)<br>&nbsp;&nbsp;&nbsp;Camp registration will open in the fall. Info below is from 2025.***</span>
 -->
 
-For 2026, the official camp is currently scheduled for Fri Feb 13 to Thu Feb 19, though there is a chance the dates could shift by a day to Thu Feb 12 to Web Feb 18. Start and end times on those days, as well as pre- and post-camp dancing the days before and after, are all TBD at this time. Stay tuned...
+For 2026, the official camp will be held Fri Feb 13 to Thu Feb 19. Start and end times on those days, as well as likely pre- and post-camp dancing the days before and after, are all TBD at this time. Stay tuned...
 
-We have again booked nearly the entire 30-room Hotel Las Arenas Puerto Morelos for 10 nights (Wed Feb 11 check in to Sat Feb 21 check out) and reserved several rooms for additional nights before and after. We must eventually release the unbooked additional rooms back to the hotel, so the sooner you know your dates, the better chance a room will be available for you.
+We currently have 28 rooms reserved (and are hoping to again book the entire 30-room Hotel Las Arenas Puerto Morelos) for 10 nights (Wed Feb 11 check in to Sat Feb 21 check out). We will also do our best to reserve rooms for additional nights before and after, based on the best guess dates you supply in the lodging form.
 
 <span style="color:red">**PLEASE READ CAREFULLY:**</span><br>
-**We've already paid the hefty deposit required to block off our dates for next year. In the unlikely event that the courts decide to transfer control of the hotel back to the original owner, there is a slim chance that we might not be able to recover the deposit money, even though we've been reassured/guaranteed in writing that it is 100% secure.**
+**To be part of the initial room selection process, each camp participant please complete and submit the [Hotel Las Arenas Lodging](https://docs.google.com/forms/d/e/1FAIpQLSct3SrTHl76pMYcZ5z9-eWdLCjCXzf4igqfVk689qA42YuyWA/viewform){:target="_blank"} form and send a non-refundable $100 USD (or 2000 MXN) deposit by May 10, 2025. Your deposit is non-refundable whether you cancel of your own accord or in the unlikely event of us losing the nearly $4000 hotel deposit due to circumstances beyond our control (eg, hurricane, change of hotel ownership, etc).**
 
-**What we are asking of you is to share in that slight risk. To that end, we are asking each camp participant to send a $100 USD deposit by April 14, 2025 to reserve your stay and prioritize your room preference. Your deposit is non-refundable if the unlikely scenario described above comes to fruition or if you cancel of your own accord.**
-
-If you are not interested in participating or can only attend camp for part of the time, you can wait and see if rooms are still available closer to camp time and/or check out our [Lodging Options](lodging-options.md) web page for many other places we know of to stay in Puerto Morelos (and book a cancellable reservation early, as prices tend to skyrocket close to retreat time.)
-
-**To be part of the first round of room selection, you must complete and submit the [Hotel Las Arenas Lodging](https://docs.google.com/forms/d/e/1FAIpQLSct3SrTHl76pMYcZ5z9-eWdLCjCXzf4igqfVk689qA42YuyWA/viewform){:target="_blank"} form and send your deposit by April 14, 2025.**
-
-The form includes some questions to help shape how to best honor everyone's room preferences. We've already had twice as many informal requests for beachside rooms as the number of rooms available, so we need to do something different about the selection process this year. Please don't panic! The questions are not a "majority wins" vote, but rather, intended to capture the thoughts of our community and give your voice a chance to be heard. Thank you for your cooperation! :-)
+If you don't want to send the deposit now or you can only attend camp for part of the time, select the appropriate waitlist options on the form to be in the running for rooms still available closer to camp time. (We also highly recommend booking a cancellable reservation elsewhere -- so you can cancel if something opens up at the hotel last minute -- and do so soon, as prices tend to skyrocket close to retreat time. Check out our [Lodging Options](lodging-options.md) web page for many other places we know of to stay in Puerto Morelos.)
 
 ### Hotel Las Arenas Pricing
 
@@ -85,12 +79,12 @@ We set up a simple community kitchen in room 102. It has:
 
 > Please clean your cooking dishes **before** eating, so others can use them. And please thoroughly clean up after yourself! Your mother doesn't live here... (...unless you're name is Amber! :-) )
 
-While it's the *finest 2-star Mexican hotel on the beach you'll ever meet, staying does have its drawbacks. But hey, it's Mexico!
+While it's "the finest 2-star Mexican hotel on the beach you'll ever meet", staying does have its drawbacks. But hey, it's Mexico!
 
 * Hot water might not be available at all times.
 * Most rooms have torn or missing screens. Each year they do their best to fix them for us.
 * Not all rooms have fridges, safes, microwaves. Use the ones in the community kitchen (room 102) if you don't have them in your room.
-* Not all rooms have TVs and there is no cable (just WiFi for your NexFlix, etc). 
+* Not all rooms have TVs and there is no cable (just WiFi for your NetFlix, etc). 
 * Not all rooms have working fans and air conditioners, though they tend to get them fixed quickly.
 * It might take a couple of days to get two room keys, batteries replaced in the safe, etc.
 * The toilet seat hinges tend to break easily.
