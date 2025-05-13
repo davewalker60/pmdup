@@ -7,22 +7,22 @@ toc: false
 search: include
 ---
 
-<span style="color:red">***The following information is approximate at this time. We hope to finalize dates and prices soon...***</span>
-<!--### <span style="color:red">***&nbsp;&nbsp;&nbsp;2026 Hotel Las Arenas lodging registration is open. [Learn more here.](booking-las-arenas.md)<br>&nbsp;&nbsp;&nbsp;Camp registration will open in the fall. Info below is from 2025.***</span>
+<!--### <span style="color:red">***The following information is approximate at this time. We hope to finalize dates and prices soon...***</span>
 -->
+### <span style="color:red">***&nbsp;&nbsp;&nbsp;2026 Hotel Las Arenas lodging registration is open. See below.<br>&nbsp;&nbsp;&nbsp;(Camp registration will open in the fall. [Learn more here.](register.md))***</span>
 
-For 2026, the official camp will be held Fri Feb 13 to Thu Feb 19. Start and end times on those days, as well as likely pre- and post-camp dancing the days before and after, are all TBD at this time. Stay tuned...
+<br>For 2026, the official camp will be held Fri Feb 13 to Thu Feb 19. Start and end times on those days, as well as likely pre- and post-camp dancing the days before and after, are all TBD at this time. Stay tuned...
 
 We currently have 28 rooms reserved (and are hoping to again book the entire 30-room Hotel Las Arenas Puerto Morelos) for 10 nights (Wed Feb 11 check in to Sat Feb 21 check out). We will also do our best to reserve rooms for additional nights before and after, based on the best guess dates you supply in the lodging form.
 
 <span style="color:red">**PLEASE READ CAREFULLY:**</span><br>
-**To be part of the initial room selection process, each camp participant please complete and submit the [Hotel Las Arenas Lodging](https://docs.google.com/forms/d/e/1FAIpQLSct3SrTHl76pMYcZ5z9-eWdLCjCXzf4igqfVk689qA42YuyWA/viewform){:target="_blank"} form and send a non-refundable $100 USD (or 2000 MXN) deposit by May 10, 2025. Your deposit is non-refundable whether you cancel of your own accord or in the unlikely event of us losing the nearly $4000 hotel deposit due to circumstances beyond our control (eg, hurricane, change of hotel ownership, etc).**
+**To be part of the initial room selection process, each camp participant please complete and submit the [Hotel Las Arenas Lodging](https://docs.google.com/forms/d/e/1FAIpQLSct3SrTHl76pMYcZ5z9-eWdLCjCXzf4igqfVk689qA42YuyWA/viewform){:target="_blank"} form and send a non-refundable $100 USD (or 2000 MXN) deposit by May 25, 2025. Your deposit is non-refundable whether you cancel of your own accord or in the unlikely event of us losing the nearly $4000 hotel deposit due to circumstances beyond our control (eg, hurricane, change of hotel ownership, etc).**
 
 If you don't want to send the deposit now or you can only attend camp for part of the time, select the appropriate waitlist options on the form to be in the running for rooms still available closer to camp time. (We also highly recommend booking a cancellable reservation elsewhere -- so you can cancel if something opens up at the hotel last minute -- and do so soon, as prices tend to skyrocket close to retreat time. Check out our [Lodging Options](lodging-options.md) web page for many other places we know of to stay in Puerto Morelos.)
 
 ### Hotel Las Arenas Pricing
 
-Prices for 10-night entire hotel rental stays Wed Feb 11 check in to Sat Feb 21 check out (unless camp shifts a day earlier TBD):
+The group block price (for stays of up to 10 nights between Wed Feb 11 check in and to Sat Feb 21 check out):
 * $750 Beachside - Shielded from Loudo's (601,602,701)
 * $725 Beachside (801,802,803,804,805)
 * $700 Beachside - Directly Across from Loudo's (901,902,903,904)

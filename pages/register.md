@@ -7,7 +7,7 @@ toc: false
 search: include
 ---
 
-### <span style="color:red">***&nbsp;&nbsp;&nbsp;Camp registration will open in the fall. The information below is from 2025.<br>&nbsp;&nbsp;&nbsp;2026 Hotel Las Arenas lodging registration will open soon. [Learn more here.](booking-las-arenas.md)***</span>
+### <span style="color:red">***&nbsp;&nbsp;&nbsp;Camp registration will open in the fall. The information below is from 2025.<br>&nbsp;&nbsp;&nbsp;2026 Hotel Las Arenas lodging registration is open. [Learn more here.](booking-las-arenas.md)***</span>
 
 Registration is a multi-step process. Registering itself has three steps and there are additional steps for lodging and travel:
 1. Check your passport now to verfiy that it will still be valid on the date you travel to Mexico.
