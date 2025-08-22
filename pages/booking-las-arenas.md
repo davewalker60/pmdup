@@ -14,11 +14,13 @@ search: include
 We currently have 28 rooms reserved (and are hoping to again book the entire 30-room Hotel Las Arenas Puerto Morelos) for 10 nights (Wed Feb 11 check in to Sat Feb 21 check out). We will also do our best to reserve rooms for additional nights before and after, based on the best guess dates you supply in the lodging form.
 
 <span style="color:red">**PLEASE READ CAREFULLY:**</span><br>
-**The deadline for the initial room selection process has passed but we are not yet sure of who will be in which rooms (because we don't yet know exactly which and how many rooms we have - gotta love Mexico!). Once that gets sorted out, there will likely still be a couple rooms available. To get on the waitlist, please complete and submit the [Hotel Las Arenas Lodging](https://docs.google.com/forms/d/e/1FAIpQLSct3SrTHl76pMYcZ5z9-eWdLCjCXzf4igqfVk689qA42YuyWA/viewform){:target="_blank"} form. Hold off on sending your non-refundable $100 USD (or 2000 MXN) deposit until you hear from us.**
+**The deadline for the initial room selection process has passed but we are not yet sure of who will be in which rooms (because we don't yet know exactly which and how many rooms we have - gotta love Mexico!). Once that gets sorted out, there will likely still be a couple rooms available. So at this point, continue to complete and submit the [Hotel Las Arenas Lodging](https://docs.google.com/forms/d/e/1FAIpQLSct3SrTHl76pMYcZ5z9-eWdLCjCXzf4igqfVk689qA42YuyWA/viewform){:target="_blank"} form, but hold off on sending your non-refundable $100 USD (or 2000 MXN) deposit until you hear from us. (We'll let you know whether you have a room or are on the waitlist as soon as we know. Thanks for your patience!)**
 
 Your *per-person* deposit is non-refundable whether you cancel of your own accord or in the unlikely event of us losing the nearly $4000 hotel deposit due to circumstances beyond our control (eg, hurricane, change of hotel ownership, etc).
 
-If you aren't open to sending the deposit or you can only attend camp for part of the time, select the appropriate waitlist options on the form to be in the running for rooms still available closer to camp time. (We also highly recommend booking a cancellable reservation elsewhere -- so you can cancel if something opens up at the hotel last minute -- and do so soon, as prices tend to skyrocket close to retreat time. Check out our [Lodging Options](lodging-options.md) web page for many other places we know of to stay in Puerto Morelos.)
+If you aren't open to sending the deposit or can only attend camp for part of the time, select the appropriate waitlist options on the form to be in the running for rooms still available closer to camp time.
+
+**<span style="color:red">Important waitlist note:</span>** We highly recommend booking a <span style="color:red">cancellable reservation</span> elsewhere -- so you can cancel if something opens up at the hotel last minute -- and do so soon, as prices tend to skyrocket close to retreat time. Check out our [Lodging Options](lodging-options.md) web page for many other places we know of to stay in Puerto Morelos.
 
 ### Hotel Las Arenas Pricing
 
