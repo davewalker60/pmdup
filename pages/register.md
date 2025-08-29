@@ -7,12 +7,12 @@ toc: false
 search: include
 ---
 
-### <span style="color:red">***&nbsp;&nbsp;&nbsp;Camp registration will open in the fall. The information below is from 2025.<br>&nbsp;&nbsp;&nbsp;2026 Hotel Las Arenas lodging registration is open. [Learn more here.](booking-las-arenas.md)***</span>
+### <span style="color:red">***&nbsp;&nbsp;&nbsp;2026 Camp registration opens September 1st.<br>&nbsp;&nbsp;&nbsp;2026 Hotel Las Arenas lodging registration is already open. [Learn more here.](booking-las-arenas.md)***</span>
 
 Registration is a multi-step process. Registering itself has three steps and there are additional steps for lodging and travel:
 1. Check your passport now to verfiy that it will still be valid on the date you travel to Mexico.
-2. Complete and submit [**the registration form**]()<!--(https://docs.google.com/forms/d/e/1FAIpQLSd7atXw_w0jHAdo7dKQ6EoaH-AElo11niRYHc6ptRTmutRB6Q/viewform){:target="_blank"}--> (with your approximate travel dates) as soon as possible.
-3. Send your registration payment as soon as is convenient (especially if you are including a scholarship donation), but **no later than January 15th**.
+2. Complete and submit [**the registration form**](https://forms.gle/aMo7Gi15NyQiEvVD7){:target="_blank"} (with your approximate travel dates) as soon as possible.
+3. Send your registration payment (PayPal preferred) as soon as is convenient (especially if you are including a scholarship donation), but **no later than January 15th**. (Checks must absolutely be received by no later than January 28th.)
 4. Determine how long you'd like to stay.
    * Some people arrive a few days early.
    * On the day before camp starts, we [prepare the dance space](preparing-dance-space.md) and, if we get done, have a pre-camp dance in the evening.
@@ -27,7 +27,7 @@ Registration is a multi-step process. Registering itself has three steps and the
 
 > Before January 15th, you are considered registered by completing steps 1 and 2.<br>After January 15th, you are not considered registered until we've received your registration payment.
 
-# Full attendance [(register here)]()<!--(https://docs.google.com/forms/d/e/1FAIpQLSd7atXw_w0jHAdo7dKQ6EoaH-AElo11niRYHc6ptRTmutRB6Q/viewform){:target="_blank"}-->
+# Full attendance ([register here](https://forms.gle/aMo7Gi15NyQiEvVD7){:target="_blank"})
 
 Full attendance registration cost is $225-$350/person as you can afford and includes:
 * All morning & evening dance sessions
@@ -40,7 +40,7 @@ Full attendance registration cost is $225-$350/person as you can afford and incl
 And does ***not*** include:
 * <!--Other m-->Meals
 * Lodging
-* Airfare and other transportation to PM (though [we will coordinate your rides](from-cun-to-pm.md) from/to CUN)
+* Airfare and other transportation to PM (though we encourage [coordinating rides with other dancers](from-cun-to-pm.md) from/to CUN)
 
 # Partial attendance
 

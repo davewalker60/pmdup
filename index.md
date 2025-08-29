@@ -6,7 +6,7 @@ toc: false
 ---
 
 <!--### ***&nbsp;&nbsp;&nbsp;Registration for the 2025 camp (Feb 13-19) is open. [Learn more here.](pages/register.md)***<br>-->
-### ***&nbsp;&nbsp;&nbsp;2026 Hotel Las Arenas lodging registration is open. [Learn more here.](pages/booking-las-arenas.md)***
+### ***&nbsp;&nbsp;&nbsp;2026 camp registration opens September 1st. [Learn more here.](pages/register.md)<br>&nbsp;&nbsp;&nbsp;2026 Hotel Las Arenas lodging registration is already open. [Learn more here.](pages/booking-las-arenas.md)***
 
 {% include image.html file="PM25.jpg" caption="2025 camp photo courtesy David Weihnacht" %}
 
@@ -18,8 +18,7 @@ This website describes the retreat/camp, the town, local activities, and everyth
 
 # For 2026...
 
-Dates for the 2026 retreat are not yet finalized, but we suspect camp will start sometime between the evening of Friday Feb 13 and Thursday Feb 18, and be for the same 7-day length as in 2025. There again will likely be [pre-camp dance space prep](pages/preparing-dance-space.md) on the two days prior and potential for pre-camp and post-camp dances the day before and the day after the official retreat dates.
-<!-- and ends after the evening circle on Wednesday Feb 19.-->
+Camp starts the evening of Friday Feb 13, and be for the same 7-day length as in 2025, ending the evening of Thursday Feb 19. There again will likely be [pre-camp dance space prep](pages/preparing-dance-space.md) on the two days prior and potential for pre-camp and post-camp dances the day before and the day after the official retreat dates.
 
 Come join in the fun! We look forward to dancing in the sand with you!
 

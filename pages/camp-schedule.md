@@ -28,9 +28,9 @@ The following schedule describes the basic structure of the retreat and is subje
 
 - **Early Mornings**:
   -  Qigong with Jessie either on the beach or in the dance space 8:15 to 8:45.
-  -  Deeper dance conversations with Sky at the Las Arenas reception palapa 8:55 to 9:25 ***some mornings TBD.***
+  -  Deeper dance conversations at the Las Arenas reception palapa 8:55 to 9:25 ***some mornings TBD.***
 - **Mornings**: Dance sessions under the shade structure 9:30 to noon.
-- **Afternoons**: Various classes and offerings. Watch the Announcements group.
+- **Afternoons**: Various classes and offerings. Watch the WhatsApp Announcements group.
 - **Evenings**: Dance sessions under the stars. (the shade sail retracts!) 7:00 to 9:15
 - **Afterward**: Impromptu sing-along time most nights at the dance house until 10:30 or 11. 
 

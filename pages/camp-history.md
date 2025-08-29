@@ -13,7 +13,7 @@ In both 1999 and 2000, Bernie and Adrianna Heideman visited Puerto Morelos with 
 
 The first few years were a bit hit or miss, but by 2006 we were holding the retreat on the beach in front of the Alaska House. The Alaska House has hosted the staff and others, and been the home of late-night music jams, ever since.
 
-Around 2010, dancing moved to out in front of then Villas Latinas on the sandy ground, under a shade structure in the mornings and (thanks to several dancers with rock climbing and other rope knowledge), the shade structure folds down so we can dance under the starts in the evenings.
+Around 2010, dancing moved to out in front of then Villas Latinas on the sandy ground, under a shade structure in the mornings and (thanks to several dancers with rock climbing and other rope knowledge), the shade structure was constructed to fold down so we can dance under the starts in the evenings.
 
 Villas Latinas has changed names many times over the years, including Dos Naciones, Hotel Villas de Mar, and now Hotel Las Arenas.
 
