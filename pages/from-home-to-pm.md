@@ -7,7 +7,7 @@ toc: false
 search: include
 ---
 
-This page covers various ways to get from home to the retreat. The most common way is to fly to the Cancun International Airport (CUN) and rideshare with us to Puerto Morelos. Whether riding with us or not, <span style="color: red">please complete the [travel form](https://docs.google.com/forms/d/e/1FAIpQLSex7cyDs_Xf33rAxqU2S749xG_MB4lMQk3fPvF_p0JkkoKyTg/viewform){:target="_blank"} once you’ve registered and have booked your travel to Mexico.</span> Thanks!
+This page covers various ways to get from home to the retreat. The most common way is to fly to the Cancun International Airport (CUN) and rideshare with other dancers to Puerto Morelos. Regradless of how you get to the retreat, <span style="color: red">please complete the [travel form](https://docs.google.com/forms/d/e/1FAIpQLSex7cyDs_Xf33rAxqU2S749xG_MB4lMQk3fPvF_p0JkkoKyTg/viewform){:target="_blank"} once you’ve registered and have booked your travel to Mexico.</span> Thanks!
 
 > Refer to our [Travel Documents](travel-documents.md) page to learn what's needed to enter Mexico.
 

@@ -12,7 +12,7 @@ search: include
 Registration is a multi-step process. Registering itself has three steps and there are additional steps for lodging and travel:
 1. Check your passport now to verfiy that it will still be valid on the date you travel to Mexico.
 2. Complete and submit [**the registration form**](https://forms.gle/aMo7Gi15NyQiEvVD7){:target="_blank"} (with your approximate travel dates) as soon as possible.
-3. Send your registration payment (PayPal preferred) as soon as is convenient (especially if you are including a scholarship donation), but **no later than January 15th**. (Checks must absolutely be received by no later than January 28th.)
+3. Send your registration payment (PayPal preferred) as soon as is convenient (especially if you are including a scholarship donation). If paying by check, checks must absolutely be received by no later than January 28th.
 4. Determine how long you'd like to stay.
    * Some people arrive a few days early.
    * On the day before camp starts, we [prepare the dance space](preparing-dance-space.md) and, if we get done, have a pre-camp dance in the evening.
@@ -44,7 +44,7 @@ And does ***not*** include:
 
 # Partial attendance
 
-- People not attending the full camp may attend individual morning or evening sessions for $30/session (600 pesos) and community meals for $10 (200 pesos) each, provided they follow the [health care guidelines](health-care-guidelines.md).
+- People not attending the full camp may attend individual morning or evening sessions for $30/session (550 pesos) and community meals for $10 (180 pesos) each, provided they follow the [health care guidelines](health-care-guidelines.md).
 - For the classes/offerings happening in the afternoons, simply make a donation to the person leading the offerings you attend.
 - To foster outreach and share the joy of the Dances of Universal Peace, we are again welcoming locals to join us on a donation or completely-comped basis, as they can afford, provided they follow the [health care guidelines](health-care-guidelines.md).
 - If you are certain of the days you'll attend, feel free to register. Otherwise, you may just show up and pay Wayne on site. 
