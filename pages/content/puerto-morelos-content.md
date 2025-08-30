@@ -14,11 +14,11 @@ You can also get fresh juices, fruit, and vegetables at Fruteria El Puerto, a sm
 
 The laundromat immediately next to Fruteria El Puerto charges by the kilo and has very reasonable prices. You load your clothes in the washer and they tell you when to return. They move your clothes into the dryer for you and you return in time to fold them. 
 
-# Loudo's and other noise
+# Noise
 
 We are right in the beachside town, and as can be expected in any beachside tourist town, there is plenty of nightly music. The downside, for those who like to retire early, is most of the music happens between 9 PM and midnight. The upside is most of the music doesn't start until after the end of our evening dance sessions.
 
-Of particular note, Lauro's (which Nur al-Haqq affectionally nicknamed _Loudo's_) is a music venue immediately across the street from Hotel Las Arenas and is one of the places that goes until midnight most nights.
+Of particular note, Lauro's (which Nur al-Haqq affectionately nicknamed _Loudo's_), the music venue immediately across the street from Hotel Las Arenas, is now called Live and supposedly is a little quieter and doesn't go so late.
 
 Ways to deal with the late-night noise include:
 

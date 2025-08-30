@@ -89,7 +89,7 @@ The [Croco Cun Zoo](https://www.crococunzoo.com/){:target="_blank"}, located jus
 # Nightlife
 While there is tourism pressure to become like Cancun, preservationist locals work hard to not have the quaint seaside village become an all-night party destination. There are a few places that have music until midnight, but most shops and restaurants roll up the sidewalks by 8:00. That said, a sampling of our favorite nightlife includes:
 * Live bands (with varying musical genres depending on the night of the week) on the La Sirena rooftop
-* Live (mostly rock) bands across the street from Las Arenas at Louro's (nicknamed *Loudo's* because it's so loud it's better enjoyed by listening from across the street.)
+* Live (mostly rock) bands across the street from Las Arenas at Live (formerly *Loudo's* but supposedly a little quieter and doesn't go so late.)
 * More chill afternoon music with live duos Saturdays and Sundays up the beach at Diving Bar from 2:00 to 4:00 and Unico Beach Club from 4:00 to 6:00
 
 # Post-camp community
