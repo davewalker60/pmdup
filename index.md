@@ -5,8 +5,7 @@ permalink: index.html
 toc: false
 ---
 
-<!--### ***&nbsp;&nbsp;&nbsp;Registration for the 2025 camp (Feb 13-19) is open. [Learn more here.](pages/register.md)***<br>-->
-### ***&nbsp;&nbsp;&nbsp;2026 camp registration opens September 1st. [Learn more here.](pages/register.md)<br>&nbsp;&nbsp;&nbsp;2026 Hotel Las Arenas lodging registration is already open. [Learn more here.](pages/booking-las-arenas.md)***
+### ***&nbsp;&nbsp;&nbsp;2026 camp registration is open. [Learn more here.](pages/register.md)<br>&nbsp;&nbsp;&nbsp;2026 Hotel Las Arenas lodging registration is open. [Learn more here.](pages/booking-las-arenas.md)***
 
 {% include image.html file="PM25.jpg" caption="2025 camp photo courtesy David Weihnacht" %}
 

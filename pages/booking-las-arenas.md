@@ -7,7 +7,7 @@ toc: false
 search: include
 ---
 
-### <span style="color:red">***&nbsp;&nbsp;&nbsp;2026 Hotel Las Arenas lodging registration is open. See below.<br>&nbsp;&nbsp;&nbsp;(Camp registration opens September 1st. [Learn more here.](register.md))***</span>
+### <span style="color:red">***&nbsp;&nbsp;&nbsp;2026 Hotel Las Arenas lodging registration is open. See below.<br>&nbsp;&nbsp;&nbsp;2026 camp registration is open. [Learn more here.](register.md)***</span>
 
 <br>For 2026, the official camp will be held Fri Feb 13 to Thu Feb 19. Start and end times on those days, as well as likely pre- and post-camp dancing the days before and after, are all TBD at this time. Stay tuned...
 
