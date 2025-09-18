@@ -34,13 +34,8 @@ The group block price ***per room*** (for stays of up to 10 nights between Wed F
 * $500 Poolside - No Ocean View & Directly Across from Loudo's (401,402,403,404,501,502)
 
 Consider staying longer to explore cenotes, ruins, the reef, and more... Room prices for each additional night before Wed Feb 11 and/or Sat Feb 21 and after:
-* $75 Beachside - Shielded from Loudo's
-* $72.50 Beachside
-* $70 Beachside - Directly Across from Loudo's
-* $60 Poolside - Partial Ocean View
-* $55 Poolside - No Ocean View & Shielded from Loudo's
-* $52.50 Poolside - No Ocean View
-* $50 Poolside - No Ocean View & Directly Across from Loudo's
+* $75 Beachside
+* $60 Poolside
 
 # [Reserve your room](https://docs.google.com/forms/d/e/1FAIpQLSct3SrTHl76pMYcZ5z9-eWdLCjCXzf4igqfVk689qA42YuyWA/viewform){:target="_blank"}
 <span style="color:red">Complete and submit [**the Las Arenas booking form**](https://docs.google.com/forms/d/e/1FAIpQLSct3SrTHl76pMYcZ5z9-eWdLCjCXzf4igqfVk689qA42YuyWA/viewform){:target="_blank"} to reserve your room</span> while they last (they are going fast!) and pay separately.
