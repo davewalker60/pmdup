@@ -27,11 +27,11 @@ If you aren't open to sending the deposit or can only attend camp for part of th
 The group block price ***per room*** (for stays of up to 10 nights between Wed Feb 11 check in and to Sat Feb 21 check out):
 * $750 Beachside - Shielded from Loudo's (601,602,701)
 * $725 Beachside (801,802,803,804,805)
-* $700 Beachside - Directly Across from Loudo's (901,902,903,904)
+* $700 Beachside - Across from Loudo's (901,902,903,904)
 * $600 Poolside - Partial Ocean View (103,104,201,203,204,503,504)
 * $550 Poolside - No Ocean View & Shielded from Loudo's (101,301)
 * $525 Poolside - No Ocean View (202,302)
-* $500 Poolside - No Ocean View & Directly Across from Loudo's (401,402,403,404,501,502)
+* $500 Poolside - No Ocean View & Across from Loudo's (401,402,403,404,501,502)
 
 Consider staying longer to explore cenotes, ruins, the reef, and more... Room prices for each additional night before Wed Feb 11 and/or Sat Feb 21 and after:
 * $75 Beachside

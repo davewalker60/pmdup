@@ -9,7 +9,7 @@ search: include
 
 The same links listed in the top navigation menu repeat here:
 
-* [Camp Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSd7atXw_w0jHAdo7dKQ6EoaH-AElo11niRYHc6ptRTmutRB6Q/viewform){:target="_blank"}
+* [Camp Registration Form](https://forms.gle/aMo7Gi15NyQiEvVD7){:target="_blank"}
 * [Travel and Lodging Form](https://docs.google.com/forms/d/e/1FAIpQLSex7cyDs_Xf33rAxqU2S749xG_MB4lMQk3fPvF_p0JkkoKyTg/viewform){:target="_blank"}
 * [Las Arenas Booking Form](https://docs.google.com/forms/d/e/1FAIpQLSct3SrTHl76pMYcZ5z9-eWdLCjCXzf4igqfVk689qA42YuyWA/viewform){:target="_blank"}
 * [WhatsApp Community for Camp](https://chat.whatsapp.com/EMbSgSrfAhiFqgHSPwd7mH){:target="_blank"}
