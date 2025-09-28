@@ -24,9 +24,9 @@ Follow these steps to coordinate a rideshare with other dancers:
 1. If you haven't done so already, complete and submit the [travel form](https://docs.google.com/forms/d/e/1FAIpQLSex7cyDs_Xf33rAxqU2S749xG_MB4lMQk3fPvF_p0JkkoKyTg/viewform){:target="_blank"} to add your arrival info to the rideshare spreadsheet.
 2. If you haven't done so already, join the [Airport Rides chat group](https://chat.whatsapp.com/DiL8kawPPIw4NtxV25MOsq){:target="_blank"} to communicate about rides.
 3. Consult the [rideshare spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSZSq4OF3O0hydC8OsEiC3n-gKzCRPGZj7wdRLIrn2qmSydI9kxBq9tinuZeEohARD7pqrylkqyNyrQ/pubhtml?gid=1287951932&single=true){:target="_blank"} to determine who is arriving about the same time as you are.
-4. Contact potential rideshare dancers directly (if you have their contact info) or through our WhatsApp community [Dancer Chat](https://chat.whatsapp.com/EMbSgSrfAhiFqgHSPwd7mH){:target="_blank"}.
+4. Contact potential rideshare dancers directly (if you have their contact info) or through our WhatsApp community (if they aren't in the Airport Rides group, contact them privately from the [Dancer Chat](https://chat.whatsapp.com/EMbSgSrfAhiFqgHSPwd7mH){:target="_blank"} group and encourage them to join the Airport Rides group).
 5. Refer to the **Arranging your ride** section below to arrange a driver.
-6. When you've arranged your ride, post a message in the Airport Rides chat group naming the people in your group and your driver. We'll monitor the chat and update the spreadsheet accordingly.
+6. Once you've arranged your ride, post a message in the Airport Rides chat group naming the people in your group and your driver. We'll monitor the chat and update the spreadsheet accordingly.
 
 > At camp, you'll also be able to coordinate rideshares to the airport for the end of your trip.
 
