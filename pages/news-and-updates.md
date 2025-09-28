@@ -7,4 +7,5 @@ toc: false
 search: include
 ---
 
-A running list of camp updates and changes to the website will appear here closer to camp time...
+This page contains a running list of camp updates and changes to the website.
+- Sep 27: The way we are doing rides from the airport for 2026 has changed. Refer to [From CUN to PM](from-cun-to-pm.md) for details.

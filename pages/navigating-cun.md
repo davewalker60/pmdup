@@ -17,10 +17,10 @@ Once you've passed through the customs doors, you need to navigate your way thro
 # Terminal 2
 * [CUN Terminal 2](https://www.cancunairport.com/terminal-2.html){:target="_blank"} on the CUN website gives a general description of the terminal and lists the airlines that use it.
 * For domestic flights (coming from elsewhere in Mexico), there is no immigration/passport control or customs.
-* <span style="color:red">If we've arranged a ride for you, post a message in your WhatsApp ride group now. We don't leave PM to get you until you do.</span>
+* <span style="color:red">If you've arranged a Family & Friends ride, message your driver now. They don't leave PM to get you until you do.</span>
 * Proceed directly to baggage claim.
 * To find your ride: 
-  * If we've arranged a ride for you, exit the building, locate door 6, and walk across the passenger pickup area toward the little park/grassy area to meet your <span style="color:red">***friend***</span> who is picking you up. <span style="color:red">Avoid saying anything to anyone and especially don't say driver or taxi or any such commercial term - it could cause issues.</span>
+  * If you've arranged a Family & Friends ride, exit the building, locate door 6, and walk across the passenger pickup area toward the little park/grassy area to meet your <span style="color:red">***friend***</span> who is picking you up. <span style="color:red">Avoid saying anything to anyone and especially don't say driver or taxi or any such commercial term - it could cause issues.</span>
   * If you've prearranged a commercial ride yourself, follow the instructions you've been given from the ride company. 
   * If you are renting a car, look for your rental company desk before exiting the building.
 
@@ -29,11 +29,11 @@ Once you've passed through the customs doors, you need to navigate your way thro
 * After deplaning, you'll walk through some long hallways and go down some stairs/escalator to get to immigration/passport control.
 * You'll enter a very large room with many lines. Sometimes the room is relatively empty; sometimes there are hundreds of people. If the room is busy and your passport doesn't expire in the next 180 days, consider using the automated e-gates at the far end of the room to typically get through faster. This is especially useful if you don't need to wait for bags.
 * After immigration/passport control, you'll pass through some doors to the duty-free and baggage claim area with typical airport conveyor belts.
-* <span style="color:red">If we've arranged a ride for you, post a message in your WhatsApp ride group now. We don't leave PM to get you until you do.</span>
-* Once you have your bags, post a second message then walk through the customs area (wide hallway). Unless a customs officer stops you, just keep walking.
+* <span style="color:red">If you've arranged a Family & Friends ride, message your driver now. They don't leave PM to get you until you do.</span>
+* Once you have your bags, send a second message then walk through the customs area (wide hallway). Unless a customs officer stops you, just keep walking.
 * You'll pass through another set of doors and suddenly be in a whole different world where all the vendors try to sell you things. Just say "No gracias" to the vendors and keep walking.
 * To find your ride: 
-  * If we've arranged a ride for you, exit the building, ***immediately turn to the left***, go under the sign to the **Family & friends** area,<br>![Terminal 3 sign](../images/terminal_3_ff.jpg)<br><br>hug the building wall, walk past Berryhill Restaurante & Bar, go through the gate<br>![Terminal 3 wall](../images/terminal_3_wall.jpg)<br><br>to the very first parking spot to meet your <span style="color:red">***friend***</span> who is picking you up. <span style="color:red">Avoid saying anything to anyone and especially don't say driver or taxi or any such commercial term - it could cause issues.</span><br>![Terminal 3 curb](../images/terminal_3_curb.jpg) 
+  * If you've arranged a Family & Friends ride, exit the building, ***immediately turn to the left***, go under the sign to the **Family & friends** area,<br>![Terminal 3 sign](../images/terminal_3_ff.jpg)<br><br>hug the building wall, walk past Berryhill Restaurante & Bar, go through the gate<br>![Terminal 3 wall](../images/terminal_3_wall.jpg)<br><br>to the very first parking spot to meet your <span style="color:red">***friend***</span> who is picking you up. <span style="color:red">Avoid saying anything to anyone and especially don't say driver or taxi or any such commercial term - it could cause issues.</span><br>![Terminal 3 curb](../images/terminal_3_curb.jpg) 
   * If you've prearranged a commercial ride yourself, exit the building, walk straight to where all the people and cars are, and follow the instructions you've been given from the ride company. 
   * If you are renting a car, look for your rental company desk before exiting the building.
 
@@ -42,13 +42,13 @@ Once you've passed through the customs doors, you need to navigate your way thro
 * After deplaning, you'll walk through some long hallways and go down some stairs/escalator to get to immigration/passport control.
 * You'll enter a very large room with many lines. Sometimes the room is relatively empty; sometimes there are hundreds of people. If the room is busy and your passport doesn't expire in the next 180 days, consider using the automated e-gates at the far end of the room to typically get through faster. This is especially useful if you don't need to wait for bags.
 * After immigration/passport control, you'll pass through some doors to the duty-free and baggage claim area with typical airport conveyor belts.
-* <span style="color:red">If we've arranged a ride for you, post a message in your WhatsApp ride group now. We don't leave PM to get you until you do.</span>
-* Once you have your bags, post a second message then walk through the customs area (wide hallway). Unless a customs officer stops you, just keep walking.
+* <span style="color:red">If you've arranged a Family & Friends ride, message your driver now. They don't leave PM to get you until you do.</span>
+* Once you have your bags, send a second message then walk through the customs area (wide hallway). Unless a customs officer stops you, just keep walking.
 * You'll pass through another set of doors and suddenly be in a whole different world where all the vendors try to sell you things. Just say "No gracias" to the vendors and keep walking.
 * There are two building exits that go to two completely different places. So to find your ride:
   * If you've prearranged a commercial ride yourself, follow the instructions you've been given from the ride company. 
   * If you are renting a car, look for your rental company desk before exiting the building.
-  * If we've arranged a ride for you, after baggage claim, follow signs for **Family and Friends Only** and as you approach the exits, <span style="color:red">*don't follow the big red sign*</span> and the flow of foot traffic going left. Instead proceed straight and exit through the **Family and Friends Only** exit door. Once outside, turn to the right, and walk past the crowd to a less-populated spot just past the orange cones to meet your <span style="color:red">***friend***</span> who is picking you up. <span style="color:red">Avoid saying anything to anyone and especially don't say driver or taxi or any such commercial term - it could cause issues.</span> ![Terminal 4 exit](../images/terminal_4_exit.png) 
+  * If you've arranged a Family & Friends ride, after baggage claim, follow signs for **Family and Friends Only** and as you approach the exits, <span style="color:red">*don't follow the big red sign*</span> and the flow of foot traffic going left. Instead proceed straight and exit through the **Family and Friends Only** exit door. Once outside, turn to the right, and walk past the crowd to a less-populated spot just past the orange cones to meet your <span style="color:red">***friend***</span> who is picking you up. <span style="color:red">Avoid saying anything to anyone and especially don't say driver or taxi or any such commercial term - it could cause issues.</span> ![Terminal 4 exit](../images/terminal_4_exit.png) 
 
 # Meeting our drivers
 
