@@ -9,8 +9,8 @@ topnav:
       url: /register.html
     - title: Lodging
       url: /lodging-options.html
-    - title: Travel
-      url: /from-home-to-pm.html
+    - title: Rides
+      url: /from-cun-to-pm.html
     - title: Updates
       url: /news-and-updates.html
 
