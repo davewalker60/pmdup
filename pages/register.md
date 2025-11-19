@@ -17,7 +17,7 @@ Registration is a multi-step process. Registering itself has three steps and the
    * Some people arrive a few days early.
    * On the day before camp starts, we [prepare the dance space](preparing-dance-space.md) and, if we get done, have a pre-camp dance in the evening.
    * [Many people stay for a week or more after camp](attractions.md#post-camp-community), so consider extending your trip to join in the fun!
-5. Once you've arranged your travel, complete [**the travel form**](https://docs.google.com/forms/d/e/1FAIpQLSex7cyDs_Xf33rAxqU2S749xG_MB4lMQk3fPvF_p0JkkoKyTg/viewform){:target="_blank"}. Learn more about travel at:
+5. Once you've arranged your travel, complete [**the travel form**](https://docs.google.com/forms/d/e/1FAIpQLSex7cyDs_Xf33rAxqU2S749xG_MB4lMQk3fPvF_p0JkkoKyTg/viewform){:target="_blank"}. This step is important for [coordinating rides](from-cun-to-pm.md) and as a hotel dates double check. Learn more about travel at:
   * [Getting from Home to PM](./from-home-to-pm.md)
   * [Getting from CUN to PM](from-cun-to-pm.md)
   * [Travel Documents](travel-documents.md)

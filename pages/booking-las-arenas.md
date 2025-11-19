@@ -14,7 +14,7 @@ search: include
 We currently have 28 rooms reserved (and are hoping to again book the entire 30-room Hotel Las Arenas Puerto Morelos) for 10 nights (Wed Feb 11 check in to Sat Feb 21 check out). We will also do our best to reserve rooms for additional nights before and after, based on the best guess dates you supply in the lodging form.
 
 <span style="color:red">**PLEASE READ CAREFULLY:**</span><br>
-**The deadline for the initial room selection process has passed and room assignments are being worked out now. There are still a couple rooms available, so to check on room availability, complete and submit the [Hotel Las Arenas Lodging](https://docs.google.com/forms/d/e/1FAIpQLSct3SrTHl76pMYcZ5z9-eWdLCjCXzf4igqfVk689qA42YuyWA/viewform){:target="_blank"} form, but hold off on sending your non-refundable $100 USD (or 2000 MXN) deposit until you hear from us. (We'll let you know whether you have a room or are on the waitlist as soon as we know. Thanks for your patience!)**
+**The deadline for the initial room selection process has passed and room assignments are being finalized. <!--There are still a couple rooms available, so to check on room availability-->To join the waitlist, complete and submit the [Hotel Las Arenas Lodging](https://docs.google.com/forms/d/e/1FAIpQLSct3SrTHl76pMYcZ5z9-eWdLCjCXzf4igqfVk689qA42YuyWA/viewform){:target="_blank"} form, but hold off on sending your non-refundable $100 USD (or 2000 MXN) deposit until you hear from us. (We'll let you know whether you have a room or are on the waitlist as soon as we know. Thanks for your patience!)**
 
 Your *per-person* deposit is non-refundable whether you cancel of your own accord or in the unlikely event of us losing the nearly $4000 hotel deposit due to circumstances beyond our control (eg, hurricane, change of hotel ownership, etc).
 
@@ -38,7 +38,7 @@ Consider staying longer to explore cenotes, ruins, the reef, and more... Room pr
 * $60 Poolside
 
 # [Reserve your room](https://docs.google.com/forms/d/e/1FAIpQLSct3SrTHl76pMYcZ5z9-eWdLCjCXzf4igqfVk689qA42YuyWA/viewform){:target="_blank"}
-<span style="color:red">Complete and submit [**the Las Arenas booking form**](https://docs.google.com/forms/d/e/1FAIpQLSct3SrTHl76pMYcZ5z9-eWdLCjCXzf4igqfVk689qA42YuyWA/viewform){:target="_blank"} to reserve your room</span> while they last (they are going fast!) and pay separately.
+<span style="color:red">Complete and submit [**the Las Arenas booking form**](https://docs.google.com/forms/d/e/1FAIpQLSct3SrTHl76pMYcZ5z9-eWdLCjCXzf4igqfVk689qA42YuyWA/viewform){:target="_blank"} to <!-- reserve your room</span> while they last (they are going fast!) and pay separately.-->join the waitlist.</span>
 
 <!-- Keep next heading and image on one to lessen vertical spacing -->
 ### Hotel Las Arenas Building Layout ![Room layout](../images/Las Arenas rooms 1000.png){:.thinblackborder}
