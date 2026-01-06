@@ -36,13 +36,17 @@ Follow these steps to coordinate a rideshare with other dancers:
 
 - If the best rate is your priority, pre-arrange a ride with a commercial driver using a credit card for as little as $32usd (for the firstAVAILABLE option) via the [transportation page](https://www.cancunairport.com/transportation.html){:target="_blank"} on the Cancun International Airport website. We've successfully used this service in the past, but making the reservation can be a bit hit or miss.
 
-- For a very reliable, no hassle commercial driver option, we've arranged a special 850 peso per ride discounted rate with a local commercial driver company based in Puerto Morelos. (Their usual rate is 1000 pesos, which seems kinda high.) Reservation must be made a minimum 24 hours before arrival/pick up time and you must tell them you are with the dance group. Via WhatsApp, contact:
-  - Raul +52 1 998 222 2860 (up to 4 people and luggage)
+- For a very reliable, no hassle, local commercial driver company based in Puerto Morelos, contact Raul via WhatsApp at +52 1 998 222 2860. We've arranged this special, discounted group rate:
+  - 1-4 people and luggage.
+  - 850 pesos for pickup at a single terminal (their usual rate is 1000 pesos, which seems kinda high).
+  - Add 200 pesos for each additional terminal stop.
+  - Reservation must be made a minimum of 24 hours before arrival/pick up time.
+  - <span style="color: red">You ***must*** tell them you are with the dance group when you make your reservation to get the discount.</span>
 
 - For dancers who know the Family & Friends non-commercial pickup routine, contact these drivers via WhatsApp. All are extremely reliable and charge just 600 pesos per ride.
   - Geordie +52 1 998 195 6385 (up to 2 people and luggage)
   - Darren  +52 1 998 474 1228 (up to 4 people and luggage)
-  - Howard  (contact through WhatsApp community) (up to 4 people and luggage)
+  - Howard  (contact him via the WhatsApp community **Airport Rides** group) (up to 4 people and luggage)
 
 > If you don't know the Family & Friends routine but want to learn it, please read [Navigating CUN](navigating-cun.md) and, if you are still interested, [request assistance here](https://docs.google.com/forms/d/e/1FAIpQLSeKsY-e9iy44578E1ijjs_g5Bwi1gZCuW439N1bOBlL76U5qg/viewform){:target="_blank"}.
 
