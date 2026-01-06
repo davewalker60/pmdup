@@ -23,7 +23,7 @@ Once you clear customs at CUN, the scene is quite a zoo! But no need to be intim
 Follow these steps to coordinate a rideshare with other dancers:
 1. Complete and submit the [travel form](https://docs.google.com/forms/d/e/1FAIpQLSex7cyDs_Xf33rAxqU2S749xG_MB4lMQk3fPvF_p0JkkoKyTg/viewform){:target="_blank"} to add your arrival info to the rideshare spreadsheet.
 2. Join the [Airport Rides chat group](https://chat.whatsapp.com/DiL8kawPPIw4NtxV25MOsq){:target="_blank"} to communicate about rides.
-3. Consult the [rideshare spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSZSq4OF3O0hydC8OsEiC3n-gKzCRPGZj7wdRLIrn2qmSydI9kxBq9tinuZeEohARD7pqrylkqyNyrQ/pubhtml?gid=1287951932&single=true){:target="_blank"} to determine who is arriving about the same time as you are.
+3. Consult the [rideshare spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSZSq4OF3O0hydC8OsEiC3n-gKzCRPGZj7wdRLIrn2qmSydI9kxBq9tinuZeEohARD7pqrylkqyNyrQ/pubhtml?gid=1287951932&single=true){:target="_blank"} to determine who is arriving about the same time as you are (***preferably in the same terminal**. Walking between terminals is not possible, and even though there is a semi-reliable inter-terminal shuttle, we don't recommend trying to meet up if you aren't arriving in the same terminal. Instead, coordinate with your driver to pick up at both terminals.*)
 4. Contact potential rideshare dancers directly (if you have their contact info) or through our WhatsApp community (if they aren't in the Airport Rides group, contact them privately from the [Dancer Chat](https://chat.whatsapp.com/EMbSgSrfAhiFqgHSPwd7mH){:target="_blank"} group and encourage them to join the Airport Rides group).
 5. Refer to the **Arranging your ride** section below to arrange a driver.
 6. Once you've arranged your ride, post a message in the Airport Rides chat group naming the people in your group and your driver. We'll monitor the chat and update the spreadsheet accordingly.
@@ -34,19 +34,19 @@ Follow these steps to coordinate a rideshare with other dancers:
 
 ## Our driver recommendations
 
-- If the best rate is your priority, pre-arrange a ride with a commercial driver using a credit card for as little as $32usd (for the firstAVAILABLE option) via the [transportation page](https://www.cancunairport.com/transportation.html){:target="_blank"} on the Cancun International Airport website. We've successfully used this service in the past, but making the reservation can be a bit hit or miss.
+1. If the best rate is your priority, pre-arrange a ride with a commercial driver using a credit card for as little as $32usd (for the firstAVAILABLE option) via the [transportation page](https://www.cancunairport.com/transportation.html){:target="_blank"} on the Cancun International Airport website. We've successfully used this service in the past, but making the reservation can be a bit hit or miss.
 
-- For a very reliable, no hassle, local commercial driver company based in Puerto Morelos, contact Raul via WhatsApp at +52 1 998 222 2860. We've arranged this special, discounted group rate:
+2. For a very reliable, no hassle, local commercial driver company based in Puerto Morelos, contact Raul via WhatsApp at +52 1 998 222 2860. We've arranged this special, discounted group rate:
   - 1-4 people and luggage.
   - 850 pesos for pickup at a single terminal (their usual rate is 1000 pesos, which seems kinda high).
   - Add 200 pesos for each additional terminal stop.
   - Reservation must be made a minimum of 24 hours before arrival/pick up time.
-  - <span style="color: red">You ***must*** tell them you are with the dance group when you make your reservation to get the discount.</span>
+  - <span style="color: red">You ***must*** tell Raul you are with the dance group when you make your reservation to get the discount.</span>
 
-- For dancers who know the Family & Friends non-commercial pickup routine, contact these drivers via WhatsApp. All are extremely reliable and charge just 600 pesos per ride.
+3. For dancers who know the Family & Friends non-commercial pickup routine, contact these drivers via WhatsApp. All are extremely reliable and charge just 600 pesos per ride.
   - Geordie +52 1 998 195 6385 (up to 2 people and luggage)
   - Darren  +52 1 998 474 1228 (up to 4 people and luggage)
-  - Howard  (contact him via the WhatsApp community **Airport Rides** group) (up to 4 people and luggage)
+  - Howard  (arrives 2/12 - contact him via the WhatsApp community **Airport Rides** group) (up to 4 people and luggage)
 
 > If you don't know the Family & Friends routine but want to learn it, please read [Navigating CUN](navigating-cun.md) and, if you are still interested, [request assistance here](https://docs.google.com/forms/d/e/1FAIpQLSeKsY-e9iy44578E1ijjs_g5Bwi1gZCuW439N1bOBlL76U5qg/viewform){:target="_blank"}.
 
