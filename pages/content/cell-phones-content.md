@@ -15,4 +15,6 @@ Wifi is prevalent now in all PM hotels & most restaurants. If your phone plan do
 
 - To do so (at least for US iPhones) you have to go into your settings and enable a special **Wifi Calling** setting **while in the US**.
 
-Wifi in the Cancun airport is a slightly different story. It's prevalent, but requires logging in through a web browser and is typically only free for 30 minutes. If you are relying on Wifi calling to arrange your ride, be conscious of when you activate your free 30 minutes to ensure being able to connect with your ride.
+Wifi in the Cancun airport is a different story. <span style="color:red">We highly recommend ***NOT*** relying on airport Wifi to connect with your driver!</span> The airport WiFi is hit or miss, requires logging in through a web browser, and is typically only free for 30 minutes.
+
+> Don't rely on Wifi calling to connect at the airport! If the airport WiFi isn't working for you, take your phone out of airplane mode. It'll cost you the daily fee from your carrier, but that's better than leaving drivers and fellow dancers in the dark. Thanks!

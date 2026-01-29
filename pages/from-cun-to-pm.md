@@ -9,6 +9,8 @@ search: include
 
 This page covers various ways to get from the CUN airport to the retreat. The most common (and highly-recommended) way is to rideshare with other dancers. Regardless of the way you choose, <span style="color: red">please complete the [travel form](https://docs.google.com/forms/d/e/1FAIpQLSex7cyDs_Xf33rAxqU2S749xG_MB4lMQk3fPvF_p0JkkoKyTg/viewform){:target="_blank"} once you’ve registered and have booked your travel to Mexico.</span> Thanks!
 
+> First and foremost, don't rely on the airport Wifi to connect with other dancers or your driver at the airport! If you have your phone in airplane mode but the airport WiFi isn't working for you, take your phone out of airplane mode. It'll cost you the daily fee from your carrier, but that's better than leaving drivers and fellow dancers in the dark. Thanks!
+
 <!--# Group rate rides
 
 Once you clear customs at CUN, the scene is quite a zoo! But no need to be intimidated; it’s part of the adventure! To lessen your potential overwhelm, we are arranging rides for all who want them. 
@@ -43,10 +45,10 @@ Follow these steps to coordinate a rideshare with other dancers:
   - Reservation must be made a minimum of 24 hours before arrival/pick up time.
   - <span style="color: red">You ***must*** tell Raul you are with the dance group when you make your reservation to get the discount.</span>
 
-3. For dancers who know the Family & Friends non-commercial pickup routine, contact these drivers via WhatsApp. All are extremely reliable and charge just 600 pesos per ride.
-  - Geordie +52 1 998 195 6385 (up to 2 people and luggage)
-  - Darren  +52 1 998 474 1228 (up to 4 people and luggage)
-  - Howard  (arrives 2/12 - contact him via the WhatsApp community **Airport Rides** group) (up to 4 people and luggage)
+3. For dancers who know the Family & Friends non-commercial pickup routine, contact these drivers via WhatsApp. All are extremely reliable and charge less than the commercial rates.
+  - Geordie +52 1 998 195 6385 (up to 2 people and luggage for 600 pesos)
+  - Darren  +52 1 998 474 1228 (up to 3 people and luggage for 650 pesos)
+  - Howard  (arrives 2/12 - contact him via the WhatsApp community **Airport Rides** group) (up to 4 people and luggage for 600 pesos)
 
 > If you don't know the Family & Friends routine but want to learn it, please read [Navigating CUN](navigating-cun.md) and, if you are still interested, [request assistance here](https://docs.google.com/forms/d/e/1FAIpQLSeKsY-e9iy44578E1ijjs_g5Bwi1gZCuW439N1bOBlL76U5qg/viewform){:target="_blank"}.
 

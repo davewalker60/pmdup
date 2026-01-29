@@ -4,7 +4,7 @@ With people and camp activities spread out, we need a way to communicate. We use
 
 # Chat groups
 
-For 2025, we've created the **PM Dances Community** WhatsApp community with these initial chat groups:
+For 2026, we've continuing to use the **PM Dances Community** WhatsApp community we created last year with these chat groups:
 
 - **Announcements** is for daily camp announcements by staff only (no participant posting). This group is the main way we disseminate information during camp. All registrants are added to this group as part of camp registration. 
 
@@ -12,17 +12,15 @@ For 2025, we've created the **PM Dances Community** WhatsApp community with thes
 
 - **Admin Team Chat**, as the name indicates, is a group for the admin team to communicate about behind-the-scenes stuff. There's no need for any camp registrants to join this group.
 
-> Other specialty groups might be added based on need. For example, **Post Camp** will be added at the end of camp for people staying in Puerto Morelos longer (to use for logistics like _Who's in for dinner tonight at El Pesquero's?_).
+- **Specialty Groups** are unmoderated groups to arrange and coordinate things like group trips to snorkel on the reef, cenotes, Mayan ruins, or even simply into La Colonia for a meal. The motivations for these group are:
 
-<!--**PM ‘25 Group Outings** is an unmoderated group to arrange and coordinate group trips to snorkel on the reef, cenotes, Mayan ruins, or even simply into La Colonia for a meal. The motivations for this group are:-->
+   - To reduce clutter in the main dancer chat group.
 
-<!--To reduce clutter in the main dancer chat group.-->
+   - To not require people to scroll through endless messages to find time-sensitive trip information.
 
-<!--To not require people to scroll through endless messages to find time-sensitive trip information.-->
+- **Post Camp** is an unmoderated group that people staying in Puerto Morelos longer than camp use for logistics (like _Who's in for dinner tonight at El Pesquero's?_), rather than clutter the **Dancer Chat**. Anyone staying on after camp can join the group. All who join can post ***once camp ends!***.
 
-<!--**Post Camp** is an unmoderated group that people staying in Puerto Morelos longer than camp use for logistics (like _Who's in for dinner tonight at El Pesquero's?_).  Anyone staying on after camp can join the group. All who join can post ***once camp ends***.-->
-
-<!--After camp, **Dancer Chat** remains active for people to continue to use to connect. Please don't use **Post Camp** for postings that the whole camp might enjoy. People who return home tend to continue to live vicariously through those remaining in Puerto Morelos longer.-->
+> After camp, **Dancer Chat** remains active for people to continue to use to connect. Please don't use **Post Camp** for postings that the whole camp might enjoy. People who return home tend to continue to live vicariously through those remaining in Puerto Morelos longer.
 
 # How to navigate WhatsApp for camp
 

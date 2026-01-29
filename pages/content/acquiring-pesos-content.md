@@ -1,8 +1,8 @@
 When traveling internationally, it's a good idea to have some local currency in your pocket when you arrive.
 
-> If you are getting a ride through us, you don't have to pay in pesos. You can pay our drivers in US dollars and the pre-determined price we set is at the current exchange rate.
+> If you are getting a ride from one of our recommended drivers, know that they greatly prefer being paid in pesos, but in a pinch they will take US dollars.
 
-Puerto Morelos is a tourist town, so most places accept US and Canadian dollars, but at a horrible exchange rate! Watch closely! We recommend paying in USD only as a last resort. Instead, this page describes better ways to acquire pesos.
+Puerto Morelos is a tourist town, so most places accept US and Canadian dollars, but at a horrible exchange rate! Watch closely! We recommend paying with dollars only as a last resort. Instead, this page describes better ways to acquire pesos.
 
 # Through your bank
 
@@ -12,7 +12,7 @@ Consider acquiring pesos from your bank at home before traveling.
 
 - Most banks require that you have an account with them and it takes a couple of days to “order” them.
 
-- Check the exchange rates and admin fees for the best rates. They can vary widely. Google _**MXN to USD**_ to see the current US Forbes/prime rate. It tells you how many cents you'll pay for a peso. For example, today's (Jan 17) rate is .048, so buying a peso costs slightly less than a nickel. You'll never quite get this rate, but more and more these days you can get as close as a .003 difference (so .051 in this example). This difference is one way the bank makes it's money.
+- Check the exchange rates and admin fees for the best rates. They can vary widely. Google _**MXN to USD**_ to see the current US Forbes/prime rate. It tells you how many cents you'll pay for a peso. For example, today's (Jan 29) rate is .058, so buying a peso costs 5.8 cents. You'll never quite get this rate, but more and more these days you can get as close as a .003 difference (so .061 in this example). This difference is one way the bank makes it's money.
 
 - Sometimes the bank will offer you the prime rate, but charge a flat fee instead. This method typically ends up costing you more, unless you are converting a large sum. Do the math for your specific case. If it's more than suits you, just wait and get pesos in PM, especially if they try to charge you both fees!  
 
