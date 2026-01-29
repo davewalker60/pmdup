@@ -21,8 +21,8 @@ The following schedule describes the basic structure of the retreat and is subje
 
 **Feb 13**
 - **3-6pm**: Camp officially starts with registration check in. See Wayne and Robin at the dance circle at Las Arenas.
-<!--- - **4pm**: Camp officially starts with socializing and camp orientation. Connect with newcomers & old friends.
-- **5pm**: Community dinner together at the Las Arenas reception palapa.-->
+<!-- - **4pm**: Camp officially starts with socializing and camp orientation. Connect with newcomers & old friends. -->
+<!-- - **5pm**: Community dinner together at the Las Arenas reception palapa.-->
 - **7pm**: First official dance session (featuring Bernie dances).
 
 **Feb 14 - 19**
