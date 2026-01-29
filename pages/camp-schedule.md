@@ -20,18 +20,19 @@ The following schedule describes the basic structure of the retreat and is subje
 - **Evening**: If we finish the prep, we will have a pre-camp dance session in the evening. Time TBD.
 
 **Feb 13**
-- **4pm**: Camp officially starts with socializing and camp orientation. Connect with newcomers & old friends.
-<!--- **5pm**: Community dinner together at the Las Arenas reception palapa.-->
-- **7pm**: First official dance session.
+- **3-6pm**: Camp officially starts with registration check in. See Wayne and Robin at the dance circle at Las Arenas.
+<!--- - **4pm**: Camp officially starts with socializing and camp orientation. Connect with newcomers & old friends.
+- **5pm**: Community dinner together at the Las Arenas reception palapa.-->
+- **7pm**: First official dance session (featuring Bernie dances).
 
 **Feb 14 - 19**
 
 - **Early Mornings**:
-  -  Qigong with Jessie either on the beach or in the dance space 8:15 to 8:45.
-  -  Deeper dance conversations at the Las Arenas reception palapa 8:55 to 9:25 ***some mornings TBD.***
-- **Mornings**: Dance sessions under the shade structure 9:30 to noon.
-- **Afternoons**: Various classes and offerings. Watch the WhatsApp Announcements group.
-- **Evenings**: Dance sessions under the stars. (the shade sail retracts!) 7:00 to 9:15
+  -  Qigong with Jessie either on the beach or in the dance space 8:00 to 8:30.
+  -  Morning mantra at the Las Arenas reception palapa 8:45 to 9:15
+- **Mornings**: Dance sessions under the shade structure 9:45 to 12:15.
+- **Afternoons**: Various classes and offerings 2:00-3:30 & 4:00-5:30. Watch the WhatsApp Announcements group.
+- **Evenings**: Dance sessions under the stars. (the shade sail retracts!) 6:45 to 9:00
 - **Afterward**: Impromptu sing-along time most nights at the dance house until 10:30 or 11. 
 
 **Feb 20**
@@ -48,13 +49,18 @@ Dances of Universal Peace sessions happen each morning under the shade structure
 
 For 30 minutes each morning, Jessie Sitara leads us in an all-levels Qigong practice either on the beach or near the dance circle space when it's too windy on the beach.
 
-## Deeper dance conversations
+<!--## Deeper dance conversations
 
 Sky facilitates morning conversations at retreats with the intent of deepening people’s attunement to and awareness of the deeper aspects of the Dances of Universal Peace as a practice. Topics range from the form of the Dances themselves, to a heightened awareness of the energy and vibration that the Dances create, to how the practice affects our inner and outer selves. No one is expected or required to speak - some people attend simply to listen.
+-->
+
+## Morning mantra
+
+*<Jen's decsription goes here...>*
 
 ## Other class offerings
 
-As we get closer to camp, other afternoon offerings will emerge and be described here. Offerings in the past include doing art, singing, meditation, Sufi teachings, cacao ceremony, crystal bowl sound journey, and more. Stay tuned for this year's offerings... 
+Afternoons are filled with various offerings announced as camp proceeds. Offerings in the past include doing art, singing, meditation, Sufi teachings, cacao ceremony, crystal bowl sound journey, and more. Watch the WhatsApp **Announcements** group for this year's offerings as camp unfolds... 
 
 ## Rumi cafe
 
