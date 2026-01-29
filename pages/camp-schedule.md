@@ -56,7 +56,7 @@ Sky facilitates morning conversations at retreats with the intent of deepening p
 
 ## Morning mantra
 
-*<Jen's description goes here...>*
+The morning mantra sessions are guided centering practices with seated mantra singing from a variety of traditions to start our day feeling uplifted, renewed and inspired.
 
 ## Other class offerings
 
