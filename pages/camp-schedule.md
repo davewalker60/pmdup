@@ -56,7 +56,7 @@ Sky facilitates morning conversations at retreats with the intent of deepening p
 
 ## Morning mantra
 
-*<Jen's decsription goes here...>*
+*<Jen's description goes here...>*
 
 ## Other class offerings
 
