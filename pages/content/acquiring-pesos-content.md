@@ -1,6 +1,6 @@
 When traveling internationally, it's a good idea to have some local currency in your pocket when you arrive.
 
-> If you are getting a ride from one of our recommended drivers, know that they greatly prefer being paid in pesos, but in a pinch they will take US dollars.
+> If you are getting a ride from one of our local drivers, know that they greatly prefer being paid in pesos, but in a pinch they will take US dollars.
 
 Puerto Morelos is a tourist town, so most places accept US and Canadian dollars, but at a horrible exchange rate! Watch closely! We recommend paying with dollars only as a last resort. Instead, this page describes better ways to acquire pesos.
 
