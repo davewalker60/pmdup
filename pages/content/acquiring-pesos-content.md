@@ -26,9 +26,9 @@ Consider acquiring pesos from your bank at home before traveling.
 
 - The ATMs in Mexico can be quirky and/or they regularly run out of pesos.
 
-  > We **strongly** recommend using only ATMs that are physically connected to a bank and only when the bank is open. Much less scamming happens there and if the machine eats your card, the bank is there to help you recover it. The closest one to camp is at the entrance to the Chedraui in La Colonia just across the highway.
+  > We recommend using ATMs that are physically connected to a bank and only when the bank is open. Much less scamming happens there and if the machine eats your card, the bank is there to help you recover it. The closest ones to camp are by the Super Aki in La Colonia. The #2 collectivo runs right by it. There are two banks and several ATMs there.
 
-- Make sure you decline the option to calculate the dollar amount at the machine. You'll get a ***much*** better rate letting your bank do the conversion. Jan and Kevin created [this video](https://drive.google.com/file/d/1Sv9yaOiukrbtHwA6jmgeaU8XfWdDO2d3/view?usp=drive_link){:target="_blank"} explaining the importance of declining the ATM exchange rate at Mexican ATMs. It saved them about 7%!
+- Make sure you decline the option to calculate the dollar amount at the machine. You'll get a ***much*** better rate letting your bank do the conversion. Jan and Kevin created a [**video explaining the importance of declining the ATM exchange rate**](https://drive.google.com/file/d/1Sv9yaOiukrbtHwA6jmgeaU8XfWdDO2d3/view?usp=drive_link){:target="_blank"} at Mexican ATMs. It saved them about 7%!
 
 - Be sure you are using a debit card in ATMs. Most banks treat ATM withdrawal using a credit card as a cash advance, which immediately starts accruing interest charges on your **entire** outstanding balance.
 
