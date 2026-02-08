@@ -29,8 +29,9 @@ Ways to deal with the late-night noise include:
 
 # Tipping
 
-- Standard restaurant and taxi tipping in Mexico for tourists is 10% and locals typically do not tip.
 - Please consider giving at least 20 pesos/day to your housekeepers. They get paid very, very little per hour (like 1970s US minimum wage little) and are counting on your tips, so your $1/day tips help change their lives! I (Nur al-Haqq) do this even on the days I have them skip cleaning my room.
+- Standard restaurant and taxi tipping in Mexico for tourists is 10% and locals typically do not tip.
+- Taxi drivers rent their cars from the company for a daily rate and then charge you the government-set price for rides based on distance. (Do with this info what you will...)
 
 # Getting around town
 
