@@ -1,8 +1,8 @@
 ---
 title: Booking Las Arenas
 sidebar: main_sidebar
-sidebar_link: 36
-permalink: booking-las-arenas.html
+sidebar_link: 96
+permalink: booking-rooms.html
 toc: false
 search: include
 ---

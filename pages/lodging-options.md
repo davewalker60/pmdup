@@ -18,7 +18,7 @@ If you’d like more assistance than you find below, especially if you are wanti
 
 These are the hotels that we know of beachside. All are within a 15-minute walk of Hotel Las Arenas (where we dance), most are closer. Check Google Maps for distance to Hotel Las Arenas Puerto Morelos. 
 
-- **Hotel Las Arenas** - The closest hotel to the beach, where we dance, and where a good portion of us stay. We are working directly with the hotel (thanks Dave Nur al-Haqq!) and have booked nearly the entire 30-room hotel at a 10-day group rate that includes all taxes and avoids all online booking & cleaning fees. [<span style="color:red">***Learn more and book here***</span>](booking-las-arenas.md).
+- **Hotel Las Arenas** - The closest hotel to the beach, where we dance, and where a good portion of us stay. We are working directly with the hotel (thanks Dave Nur al-Haqq!) and have booked nearly the entire 30-room hotel at a 10-day group rate that includes all taxes and avoids all online booking & cleaning fees. [<span style="color:red">***Learn more and book here***</span>](booking-rooms.md).
 - **Amar Inn** - Well-established place a very short distance up the beach with some nice and some funky rooms.
 - **Areia Boutique Hotel Puerto Morelos** - Completely-remodeled hotel, a bit upscale with great views of the ocean and mangroves from the top floors and rooftop.
 - **Casa El Moro** - A nice place just 1/2 block from Las Arenas with inexpensive prices if you book before the end of June.

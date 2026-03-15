@@ -23,7 +23,7 @@ We do recommend installing an app like Google Translate on your phone and making
 
 # Can I use American money?
 
-Most places will accept USD, but you'll ***almost always*** get a horrible exchange rate. Before traveling, we recommend [acquiring some pesos from your local bank](acquiring-pesos.md).
+Most places will accept USD, but you'll almost always get a ***horrible*** exchange rate. Before traveling, we recommend [acquiring some pesos from your local bank](acquiring-pesos.md).
 
 # Does "don't drink the water" apply to QRoo?
 
@@ -56,4 +56,4 @@ And [pre-arranging your transportation from CUN to Puerto Morelos](from-cun-to-p
 
 [Lodging Options](./lodging-options.md) describes the layout of Puerto Morelos and provides an abundance of places to stay.
 
-The great majority of the dancers stay at Hotel Las Arenas, where we dance. [Learn more about booking a room.](booking-las-arenas.md)
+The great majority of the dancers stay at Hotel Las Arenas, where we dance. [Learn more about booking a room.](booking-rooms.md)

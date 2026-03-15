@@ -6,6 +6,7 @@
 Not using - product level commented out in sidebar.html:
     About Camp:
         A Different Kind of Camp: 0
+        Register: 9
         Venue: 1
         Schedule: 18
         Staff: 2
@@ -15,16 +16,14 @@ Not using - product level commented out in sidebar.html:
         Travel Tips FAQ: 26
         Puerto Morelos: 5
         Attractions: 6
-    Register & Book:
-        Register: 9
-        Lodging:
-            Lodging Options: 10
-            Booking Las Arenas: 24
-            Las Arenas Views: 36
-        Travel:
-            From Home to PM: 29
-            From CUN to PM: 11
-            Navigating CUN: 28
+    Lodging:
+        Lodging Options: 10
+        Booking Rooms (via us): 24
+        Las Arenas Views: 36
+    Travel:
+        From Home to PM: 29
+        From CUN to PM: 11
+        Navigating CUN: 28
     Before Leaving Home:
         Travel Documents: 33
         WhatsApp: 13

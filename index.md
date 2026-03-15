@@ -5,9 +5,9 @@ permalink: index.html
 toc: false
 ---
 
-### ***&nbsp;&nbsp;&nbsp;2026 camp registration is open. [Learn more here.](pages/register.md)<br>&nbsp;&nbsp;&nbsp;2026 Hotel Las Arenas lodging registration is open. [Learn more here.](pages/booking-las-arenas.md)***
+### ***&nbsp;&nbsp;&nbsp;2027 hotel room registration via PMDUP is open. [Learn more here.](pages/booking-rooms.md)<br>&nbsp;&nbsp;&nbsp;2027 camp registration will open later this year. [Learn more here.](pages/register.md)***
 
-{% include image.html file="PM25.jpg" caption="2025 camp photo courtesy David Weihnacht" %}
+{% include image.html file="PM26.jpg" caption="2026 camp photo courtesy David Weihnacht" %}
 
 Each February, we gather together on the Riviera Maya in Puerto Morelos, Quintana Roo, Mexico (20 miles south of the Cancun airport) for not just a Dances of Universal Peace retreat but also to experience all the Riviera Maya has to offer before, during, and after the retreat.
 
@@ -15,14 +15,21 @@ Even though the once quaint seaside village is growing and changing, we still lo
 
 This website describes the retreat/camp, the town, local activities, and everything you need to know to register and prepare for traveling to Mexico. If you are new to Puerto Morelos, start with the [**Travel Tips FAQ**](pages/travel-tips-faq.md).
 
-# For 2026...
+# For 2027...
 
-Camp starts the evening of Friday Feb 13, and be for the same 7-day length as in 2025, ending the evening of Thursday Feb 19. There again will likely be [pre-camp dance space prep](pages/preparing-dance-space.md) on the two days prior and potential for pre-camp and post-camp dances the day before and the day after the official retreat dates.
+Camp officially starts the evening of Friday Feb 12, and runs for the same 7-day length as in 2025 & 2026, ending the evening of Thursday Feb 18. There again will likely be [pre-camp dance space prep](pages/preparing-dance-space.md) on the two days prior and pre-camp and post-camp dances the night before and the day/night after the official retreat dates.
 
 Come join in the fun! We look forward to dancing in the sand with you!
 
+# From 2026...
+Camp was our largest participant year ever - over 80 dancers! Thank you to all who participated.
+
+Some photos are available here:
+
+* [David Weihnacht's photos](https://www.flickr.com/photos/sdweihnacht/albums/72177720332168397/){:target="_blank"}
+
 # From 2025...
-![Camp Header](../images/PM25_header.jpg){:.noborder}
+{% include image.html file="PM25.jpg" caption="2025 camp photo courtesy David Weihnacht" %}
 
 Camp was again a huge success. Thank you to all who participated.
 
