@@ -46,3 +46,22 @@ Some photos are available here:
 * Additionally, use the **Quick Jump** menu (three lines/hamburger at upper-right on phone, across top on computer) to access the most frequently used items, search the content, or contact us to ask a question or make a suggestion.
 
 > The colors used in this website are the colors of the sand, sea, and sky of the Puerto Morelos beaches. If you look closely at the gradient banner, you can even see the horizon!
+
+# Current Rate: USD to MXN
+<p id="rate">Loading rate...</p>
+<script>
+    // Use a free API endpoint
+    const url = 'https://open.er-api.com';
+
+    fetch(url)
+        .then(response => response.json())
+        .then(data => {
+            // Extract USD to MXN rate
+            const rate = data.rates.MXN;
+            document.getElementById('rate').innerText = `1 USD = ${rate} MXN`;
+        })
+        .catch(error => {
+            console.error('Error fetching data:', error);
+            document.getElementById('rate').innerText = 'Failed to load rate.';
+        })
+</script>
