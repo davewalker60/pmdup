@@ -13,7 +13,7 @@ search: include
 
 We have 27 rooms of the 30-room Hotel Las Arenas Puerto Morelos for 10 nights (Wed Feb 10 check in to Sat Feb 20 check out) and 1 room for 6 nights (Wed Feb 10 check in to Tues Feb 16 check out). We will also do our best to reserve rooms for your additional nights before and after, based on the best-guess dates you provide in the lodging request form.
 
-We are also exploring renting the 6 Ojo De Agua Kabanas, the brown sargasso brick buildings just over the wall next to the dance circle, (to better control our surroundings during camp) and the Alaska House is available possibly both before and after camp as well.
+We are also exploring renting the 6 Ojo De Agua Kabañas, the brown sargasso brick buildings just over the wall next to the dance circle, (to better control our surroundings during camp) and the Alaska House is available possibly both before and after camp as well.
 
 <span style="color:red">**PLEASE READ CAREFULLY:**</span><br>**Before completing the lodging request form, it's imperative that you carefully read this entire web page. Thank you!** To participate in the Hotel Las Arenas initial room selection process, you'll be required in the form to agree to the information detailed here.
 
@@ -36,14 +36,15 @@ Are you interested in staying in the Alaska House before and/or after camp?
 
 Please express your interest in the **Alaska House** question in the lodging request form.
 
-### Ojo De Agua Kabanas Pricing
+### Ojo De Agua Kabañas Pricing
 Are you interested in a more cushy lodging experience during camp?
-* 2200 pesos/night for up to 10 nights (Feb 10 - Feb 20)
+* 2200 pesos/night is our discounted 2027 high-season price
+* For up to 10 nights (Feb 10 - Feb 20)
 * 1st floor rooms have 2 queens; 2nd floor 1 king
 * Mini fridge, working TV and AC, but no microwave (so use Las Arenas community kitchen)
-* Very upscale (but simple) rooms compared to Las Arenas 
+* Upscale (but simple/understated) rooms compared to Las Arenas 
 
-Please express your interest in the **Ojo De Agua Kabanas** question in the lodging request form.
+Please express your interest in the **Ojo De Agua Kabañas** question in the lodging request form.
 
 ### Hotel Las Arenas Pricing
 
@@ -54,6 +55,7 @@ The ***peso*** group block price ***per room*** for stays of up to 10 nights bet
 * 12000 Poolside - Partial Ocean View (103,104,201,203,204,503,504)
 * 13500 Beachside (601,602,801,802,805,901,902,903,904)
 * 15000 Beachside with sink, king, and queen (701)
+*  8100 *2/10-2/16 only* - Beachside 2nd floor, 2 queens (804)
 
 Consider staying longer to explore cenotes, ruins, the reef, and more...<br>Room prices for each additional night before Wed Feb 11 and/or Sat Feb 21 and after:
 * 1400/night Beachside (with discounts for 7+ and 14+ extra nights)
@@ -74,7 +76,7 @@ To approximate the up-to-the-minute equivalent amounts in your currency:
 ></iframe>
 
 # [Reserve your room](https://docs.google.com/forms/d/e/1FAIpQLSct3SrTHl76pMYcZ5z9-eWdLCjCXzf4igqfVk689qA42YuyWA/viewform){:target="_blank"}
-To participate in the Las Arenas initial room selection process, complete and submit [**the PMDUP Lodging Request form**](https://docs.google.com/forms/d/e/1FAIpQLSct3SrTHl76pMYcZ5z9-eWdLCjCXzf4igqfVk689qA42YuyWA/viewform){:target="_blank"} and send your 1800 peso ($100 USD) deposit by the deadline.<!-- reserve your room</span> while they last (they are going fast!) and pay separately.join the waitlist.-->
+To participate in the Las Arenas initial room selection process, complete and submit [**the PMDUP Lodging Request form**](https://docs.google.com/forms/d/e/1FAIpQLSct3SrTHl76pMYcZ5z9-eWdLCjCXzf4igqfVk689qA42YuyWA/viewform){:target="_blank"}, agree to register for camp within a week of registration opening later this year, and send your 1800 peso ($100 USD) deposit by the deadline.<!-- reserve your room</span> while they last (they are going fast!) and pay separately.join the waitlist.-->
 
 <!-- Keep next heading and image on one to lessen vertical spacing -->
 ### Hotel Las Arenas Building Layout ![Room layout](../images/Las Arenas rooms 1000.png){:.thinblackborder}
@@ -85,7 +87,7 @@ To participate in the Las Arenas initial room selection process, complete and su
 
 Like last year, we will attempt to fit everyone who has their deposit in by the Las Arenas initial selection deadline into the Tetris puzzle of rooms and room preferences. Hopefully, the process will take less time than the month or more of followups it took last year. Ya Saboor (divine patience) please!!
 
-Based on the **Fairness** question on last year's form, the community, by a wide margin, favors giving lodging priority to camp registrants with disability/mobility concerns (17%), followed by having two camp registrants in each room (12%). Ten camp registrants were left stranded on the waitlist last year, so having a solo room or a non-registrant roommate is highly unlikely this year. Please be prepared to honor the community's preferences.
+Based on the **Fairness** question on last year's form, the community, by a wide margin, favors giving lodging priority to camp registrants with disability/mobility concerns that require special consideration (17%), followed by having two camp registrants in each room (12%). Last year, 10 camp registrants were left stranded on the waitlist, so having a solo room or a non-registrant roommate is highly unlikely this year. Please be prepared to honor the community's preferences.
 
 *Note: In the event that the Tetris puzzle cannot be solved via everyone cooperating, we'll use some form of a lottery (TBD depending on what's making the puzzle unsolvable).*
 
