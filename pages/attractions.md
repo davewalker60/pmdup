@@ -18,9 +18,9 @@ The main attraction of the Riviera Maya are the beaches. Our camp takes place im
 
 The swimming area in February is usually slightly cooler than the consistent 81 degrees Fahrenheit gulf stream water temperature, depending on the weather. The current is consistent from north to south inside the reef, while [the wind](#la-brisa-caribe) primarily comes out of the southeast.
 
-## Beach palapa
+## Beach palapas
 
-Dancers staying in Puerto Morelos for as much as a month rent a palapa (thatched-roof umbrella and chairs) on the beach directly in front of Hotel Las Arenas. Camp covers the cost of the palapa during camp, making it available for all camp registrants during camp. And if you are staying beyond camp, you can continue to use is by contributing to the rent.
+The beach palapas (thatched-roof umbrella and chairs on the beach directly in front of Hotel Las Arenas) offer another gathering place for socializing. Camp contributes toward the cost of one beach palapa for the camp days and we collect donations to cover more days and more palapas as needed, making them available for all camp registrants before, during, and after camp. Dancers staying in Puerto Morelos for as much as a month also rent an additional palapa. We suggest a donation of $1 for each day you'll likely be using them. 
 
 ## Sargasso / Sargassum
 
