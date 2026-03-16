@@ -48,7 +48,19 @@ Please express your interest in the **Ojo De Agua Kabañas** question in the lod
 
 ### Hotel Las Arenas Pricing
 
-The best news ever is the obnoxiously-loud, late-night music bar (Loudo's/LIVE) across the street did not renew their lease. Dave met with the new tenant. She's an elderly local woman who is opening a traditional Mexican restaurante with no intention of having music past dinnertime. Thus, rooms toward the north end of the property should be quieter again. Alhumdulillah!
+The best news ever is the obnoxiously-loud, late-night music bar (Loudo's/LIVE) across the street did not renew their lease! Dave met with the new tenant. She's an elderly local woman who is opening a traditional Mexican restaurante with no intention of having music past dinnertime. Thus, rooms toward the north end of the property should be the quietest again. Alhumdulillah!
+
+This year, **room prices are listed in pesos** (with convenient USD & CAD conversion charts to give you an idea of the equivalent dollar amounts as rates fluctuate). The group block prices ***per room*** for stays of up to 10 nights between Wed Feb 10 check in and to Sat Feb 20 check out are:
+* 10800 Poolside - No Ocean View (101,202,301,302,401,402,403,404,501,502)
+* 12400 Poolside - Partial Ocean View (103,104,201,203,204,503,504)
+* 14000 Beachside (601,602,801,802,805,901,902,903,904)
+* 15200 Beachside with sink, king, and queen (701)
+*  8400 *6 nights (2/10-2/16) only* - Beachside 2nd floor, 2 queens (804)
+*  8400 ***6 nights (2/10-2/16) only*** - Beachside 2nd floor, 2 queens (804)
+
+Consider staying longer to explore cenotes, ruins, the reef, and more...<br>Room prices for each additional night before Wed Feb 11 and/or Sat Feb 21 and after are:
+* 1400/night Beachside (with discounts for 7+ and 14+ extra nights)
+* 1100/night Poolside
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTDckeEMkl5WNncTCorD4BsafpMtjgR-G4p_tTiiqvTOntXRtWurbfdsydHeOsFXK3QUT-7XaQCGttY/pubhtml?gid=697006945&amp;single=true&amp;widget=true&amp;headers=false" width="760" height="400"></iframe>
 
