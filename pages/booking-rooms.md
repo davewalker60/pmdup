@@ -11,23 +11,23 @@ search: include
 
 <br>For 2027, the official camp dancing will start the evening of Fri Feb 12 and end the evening of Thu Feb 18, with the likelihood of pre- and post-camp dancing on the night before and day/night after.
 
-We have 27 rooms of the 30-room Hotel Las Arenas Puerto Morelos for 10 nights (Wed Feb 10 check in to Sat Feb 20 check out) and 1 room for 6 nights (Wed Feb 10 check in to Tues Feb 16 check out). We will also do our best to reserve rooms for your additional nights before and after, based on the best-guess dates you provide in the lodging request form.
+We have 27 rooms of the 30-room Hotel Las Arenas Puerto Morelos for 10 nights (Wed Feb 10 check-in to Sat Feb 20 check-out) and 1 room for 6 nights (Wed Feb 10 check-in to Tues Feb 16 check-out). We will also do our best to reserve rooms for your additional nights before and after, based on the best-guess dates you provide in the lodging request form.
 
 We are also exploring renting the 6 Ojo De Agua Kabañas, the brown sargasso brick buildings just over the wall next to the dance circle, (to better control our surroundings during camp) and the Alaska House is available possibly both before and after camp as well.
 
 <span style="color:red">**PLEASE READ CAREFULLY:**</span><br>**Before completing the lodging request form, it's imperative that you carefully read this entire web page. Thank you!** To participate in the Hotel Las Arenas initial room selection process, you'll be required in the form to agree to the information detailed here.
 
 <!-- 
-**The deadline for the Las Arenas initial room selection process has passed and room assignments are being finalized. There are still a couple rooms available, so to check on room availability. To join the waitlist, complete and submit the [Hotel Las Arenas Lodging](https://docs.google.com/forms/d/e/1FAIpQLSct3SrTHl76pMYcZ5z9-eWdLCjCXzf4igqfVk689qA42YuyWA/viewform){:target="_blank"} form, but hold off on sending your non-refundable $100 USD (or 2000 MXN) deposit until you hear from us. (We'll let you know whether you have a room or are on the waitlist as soon as we know. Thanks for your patience!)**
+**The deadline for the Las Arenas initial room selection process has passed and room assignments are being finalized. There are still a couple rooms available, so to check on room availability. To join the waitlist, complete and submit the [Hotel Las Arenas Lodging](https://docs.google.com/forms/d/e/1FAIpQLSct3SrTHl76pMYcZ5z9-eWdLCjCXzf4igqfVk689qA42YuyWA/viewform){:target="_blank"} form, but hold off on sending your non-refundable $100 USD (or 1750 MXN) deposit until you hear from us. (We'll let you know whether you have a room or are on the waitlist as soon as we know. Thanks for your patience!)**
 -->
-The deadline for submitting your 1800 peso ($100 USD) ***per-person*** deposit is April 15, 2026. Your deposit is:
+The deadline for submitting your 1750 peso ($100 USD) ***per-person*** deposit is April 15, 2026. Your deposit is:
 * Non-refundable if you cancel of your own accord.
 * Non-refundable in the unlikely event of us losing our nearly $6000 hotel deposit due to circumstances beyond our control (eg, hurricane, change of hotel ownership, etc...).
 * Refundable if none of your room preferences are available and you choose to stay elsewhere.
 
 If you aren't open to sending the deposit now or can only attend camp for part of the time, select the appropriate waitlist options on the form to be in the running for rooms still available closer to camp time.
 
-**<span style="color:red">Important waitlist note:</span>** We highly recommend booking a <span style="color:red">cancellable reservation</span> elsewhere -- so you can cancel when inevitably something opens up at the hotel last minute (which happens a lot!). Keep in mind that prices tend to skyrocket the closer we get to retreat time, so don't wait. Check out our [Lodging Options](lodging-options.md) web page for many other places we know of to stay in Puerto Morelos.
+**<span style="color:red">Important waitlist note:</span>** If you choose being on the waitlist rather than sending the deposit, we highly recommend booking a <span style="color:red">cancellable reservation</span> elsewhere -- so you can cancel when inevitably something opens up at the hotel last minute (which happens a lot!). Keep in mind that prices tend to skyrocket the closer we get to retreat time, so don't wait. Check out our [Lodging Options](lodging-options.md) web page for many other places we know of to stay in Puerto Morelos.
 
 ### Alaska House pricing
 Are you interested in staying in the Alaska House before and/or after camp?
@@ -38,7 +38,7 @@ Please express your interest in the **Alaska House** question in the lodging req
 
 ### Ojo De Agua Kabañas pricing
 Are you interested in a more cushy lodging experience during camp?
-* 2200 pesos/night is our discounted 2027 high-season price
+* 2,200 pesos/night is our discounted 2027 high-season price
 * For up to 10 nights (Feb 10 - Feb 20)
 * 1st floor rooms have 2 queens; 2nd floor 1 king
 * Mini fridge, working TV and AC, but no microwave (so use Las Arenas community kitchen)
@@ -50,16 +50,16 @@ Please express your interest in the **Ojo De Agua Kabañas** question in the lod
 
 The best news ever is the obnoxiously-loud, late-night music bar (Loudo's/LIVE) across the street did not renew their lease! Dave met with the new tenant, Doña Triny! She's moving her restaurante there with no intention of having music past dinnertime. Thus, rooms toward the north end of the property should be the quietest again. Alhumdulillah!
 
-This year, **room prices are listed in pesos** (with convenient USD & CAD conversion charts to give you an idea of the equivalent dollar amounts as rates fluctuate). Given what we know as of March 15, 2026, the group block prices ***per room*** for stays of up to 10 nights between Wed Feb 10 check in and to Sat Feb 20 check out are ***most likely*** going to be:
-* 10800 Poolside - No Ocean View (101,202,301,302,401,402,403,404,501,502)
-* 12400 Poolside - Partial Ocean View (103,104,201,203,204,503,504)
-* 14000 Beachside (601,602,801,802,805,901,902,903,904)
-* 15200 Beachside with sink, king, and queen (701)
-*  &nbsp; 8400 *6 nights (2/10-2/16) only* - Beachside 2nd floor, 2 queens (804)
+This year, **room prices are listed in pesos** (with convenient USD & CAD conversion charts to give you an idea of the equivalent dollar amounts as rates fluctuate). Given what we know as of March 15, 2026, the group block prices ***per room*** for stays of up to 10 nights between Wed Feb 10 check-in and to Sat Feb 20 check-out are ***most likely*** going to be:
+* 10,800 Poolside - No Ocean View (101,202,301,302,401,402,403,404,501,502)
+* 12,400 Poolside - Partial Ocean View (103,104,201,203,204,503,504)
+* 14,000 Beachside (601,602,801,802,805,901,902,903,904)
+* 15,200 Beachside with sink, king, and queen (701)
+*  &nbsp; 8,400 *6 nights (2/10-2/16) only* - Beachside 2nd floor, 2 queens (804)
 
 Consider staying longer to explore cenotes, ruins, the reef, and more...<br>Room prices for each additional night before Wed Feb 11 and/or Sat Feb 21 and after are:
-* 1400/night Beachside (with discounts for 7+ and 14+ extra nights)
-* 1100/night Poolside
+* 1,400/night Beachside (with discounts for 7+ and 14+ extra nights)
+* 1,100/night Poolside
 
 This chart shows 10-night totals for each room type at various conversion rates for US and Canadian dollars.<br>The middle rate **bolded** in each section is the current rate.
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTDckeEMkl5WNncTCorD4BsafpMtjgR-G4p_tTiiqvTOntXRtWurbfdsydHeOsFXK3QUT-7XaQCGttY/pubhtml?gid=697006945&amp;single=true&amp;widget=true&amp;headers=false" width="640" height="300"></iframe>
@@ -83,7 +83,7 @@ To approximate the up-to-the-minute cost of your entire stay in your currency:
 ></iframe>
 
 # [Reserve your room](https://docs.google.com/forms/d/e/1FAIpQLSct3SrTHl76pMYcZ5z9-eWdLCjCXzf4igqfVk689qA42YuyWA/viewform){:target="_blank"}
-To participate in the Las Arenas initial room selection process, complete and submit [**the PMDUP Lodging Request form**](https://docs.google.com/forms/d/e/1FAIpQLSct3SrTHl76pMYcZ5z9-eWdLCjCXzf4igqfVk689qA42YuyWA/viewform){:target="_blank"}, agree to register for camp within a week of registration opening later this year, and send your 1800 peso ($100 USD) deposit by the deadline.<!-- reserve your room</span> while they last (they are going fast!) and pay separately.join the waitlist.-->
+To participate in the Las Arenas initial room selection process, complete and submit [**the PMDUP Lodging Request form**](https://docs.google.com/forms/d/e/1FAIpQLSct3SrTHl76pMYcZ5z9-eWdLCjCXzf4igqfVk689qA42YuyWA/viewform){:target="_blank"}, agree to register for camp within a week of registration opening later this year, and send your 1750 peso ($100 USD) deposit by the deadline.<!-- reserve your room</span> while they last (they are going fast!) and pay separately.join the waitlist.-->
 
 <!-- Keep next heading and image on one to lessen vertical spacing -->
 ### Hotel Las Arenas Building Layout ![Room layout](../images/Las Arenas rooms 1000.png){:.thinblackborder}
@@ -102,7 +102,7 @@ Based on the **Fairness** question on last year's form, the community, by a wide
 
 We'll again accept payment via Wise, Venmo, or PayPal (just like we did last year). But if you don't do electronic payments, you can mail a US check.
 
-<span style="color:red">*To participate in the Hotel Las Arenas initial room selection process, your 1800 peso ($100 USD) non-refundable deposit must be received by April 15, 2026.<!--Your stay is not reserved and your room preference is not prioritized until your $100 USD non-refundable deposit is received.--> **Deposits are per person (not per room).***</span>
+<span style="color:red">*To participate in the Hotel Las Arenas initial room selection process, your 1750 peso ($100 USD) non-refundable deposit must be received by April 15, 2026.<!--Your stay is not reserved and your room preference is not prioritized until your $100 USD non-refundable deposit is received.--> **Deposits are per person (not per room).***</span>
 
 Once the Tetris puzzle is solved and you approve your room assignment, we'll send you a payment request for the **Amount Now** you specify in the form via the **Pay Via** method you specify in the form. (If you are paying in dollars, we'll convert money to pesos first, then request the equivalent dollar amount from you.)
 
@@ -110,7 +110,7 @@ We will do the same at the pay **Balance by** date or rate selection you specify
 
 ### Cancellation policy
 
-Full refund (less 1800 peso non-refundable deposit) with sufficiently-creative excuse, provided there are still people on the waitlist and your room gets filled. Cancellation close to retreat time may result in partial or no refund.
+Full refund (less 1750 peso non-refundable deposit) with sufficiently-creative excuse, provided there are still people on the waitlist and your room gets filled. Cancellation close to retreat time may result in partial or no refund.
 
 # What to expect at our favorite 2-star hotel
 
