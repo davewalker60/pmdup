@@ -29,14 +29,14 @@ If you aren't open to sending the deposit now or can only attend camp for part o
 
 **<span style="color:red">Important waitlist note:</span>** We highly recommend booking a <span style="color:red">cancellable reservation</span> elsewhere -- so you can cancel when inevitably something opens up at the hotel last minute (which happens a lot!). Keep in mind that prices tend to skyrocket the closer we get to retreat time, so don't wait. Check out our [Lodging Options](lodging-options.md) web page for many other places we know of to stay in Puerto Morelos.
 
-### Alaska House Pricing
+### Alaska House pricing
 Are you interested in staying in the Alaska House before and/or after camp?
 * Before camp (Feb 2 - Feb 9) 7 nights - rooms range from ~$450 to ~$650
 * After camp (Feb 22 - Mar 9) 15 nights - rooms range from ~$900 to ~$1350
 
 Please express your interest in the **Alaska House** question in the lodging request form.
 
-### Ojo De Agua Kabañas Pricing
+### Ojo De Agua Kabañas pricing
 Are you interested in a more cushy lodging experience during camp?
 * 2200 pesos/night is our discounted 2027 high-season price
 * For up to 10 nights (Feb 10 - Feb 20)
@@ -46,7 +46,7 @@ Are you interested in a more cushy lodging experience during camp?
 
 Please express your interest in the **Ojo De Agua Kabañas** question in the lodging request form.
 
-### Hotel Las Arenas Pricing
+### Hotel Las Arenas pricing
 
 The best news ever is the obnoxiously-loud, late-night music bar (Loudo's/LIVE) across the street did not renew their lease! Dave met with the new tenant. She's an elderly local woman who is opening a traditional Mexican restaurante with no intention of having music past dinnertime. Thus, rooms toward the north end of the property should be the quietest again. Alhumdulillah!
 
@@ -56,15 +56,17 @@ This year, **room prices are listed in pesos** (with convenient USD & CAD conver
 * 14000 Beachside (601,602,801,802,805,901,902,903,904)
 * 15200 Beachside with sink, king, and queen (701)
 *  8400 *6 nights (2/10-2/16) only* - Beachside 2nd floor, 2 queens (804)
-*  8400 ***6 nights (2/10-2/16) only*** - Beachside 2nd floor, 2 queens (804)
 
 Consider staying longer to explore cenotes, ruins, the reef, and more...<br>Room prices for each additional night before Wed Feb 11 and/or Sat Feb 21 and after are:
 * 1400/night Beachside (with discounts for 7+ and 14+ extra nights)
 * 1100/night Poolside
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTDckeEMkl5WNncTCorD4BsafpMtjgR-G4p_tTiiqvTOntXRtWurbfdsydHeOsFXK3QUT-7XaQCGttY/pubhtml?gid=697006945&amp;single=true&amp;widget=true&amp;headers=false" width="760" height="400"></iframe>
+This chart shows 10-night totals for each room type at various conversion rates for US and Canadian dollars.<br>The middle rate **bolded** in each section is the current rate.
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTDckeEMkl5WNncTCorD4BsafpMtjgR-G4p_tTiiqvTOntXRtWurbfdsydHeOsFXK3QUT-7XaQCGttY/pubhtml?gid=697006945&amp;single=true&amp;widget=true&amp;headers=false" width="640" height="300"></iframe>
 
-### Approximate Your Total
+When to convert dollars to pesos is up to you this year. The [**Payment**](#payment) section below provides a description of the process used to do conversions. 
+
+### Approximate your total
 
 To approximate the up-to-the-minute cost of your entire stay in your currency:
 1. Select your source currency below (if not USD).
@@ -88,7 +90,7 @@ To participate in the Las Arenas initial room selection process, complete and su
 
 [See the ocean view (or lack thereof) from each room.](./las-arenas-views.md)
 
-# Hotel Las Arenas Initial Room Selection Process
+### Hotel Las Arenas initial room selection process
 
 Like last year, we will attempt to fit everyone who has their deposit in by the Las Arenas initial selection deadline into the Tetris puzzle of rooms and room preferences. Hopefully, the process will take less time than the month or more of followups it took last year. Ya Saboor (divine patience) please!!
 
@@ -96,17 +98,17 @@ Based on the **Fairness** question on last year's form, the community, by a wide
 
 *Note: In the event that the Tetris puzzle cannot be solved via everyone cooperating, we'll use some form of a lottery (TBD depending on what's making the puzzle unsolvable).*
 
-# Payment
+### Payment
 
 We'll again accept payment via Wise, Venmo, or PayPal (just like we did last year). But if you don't do electronic payments, you can mail a US check.
 
 <span style="color:red">*To participate in the Hotel Las Arenas initial room selection process, your 1800 peso ($100 USD) non-refundable deposit must be received by April 15, 2026.<!--Your stay is not reserved and your room preference is not prioritized until your $100 USD non-refundable deposit is received.--> **Deposits are per person (not per room).***</span>
 
-Once the Tetris puzzle is solved and you approve your room assignment, we'll calculate the peso equivalent of the **Amount Now** you specify in the form and send you a payment request via the **Pay Via** method you specify in the form.
+Once the Tetris puzzle is solved and you approve your room assignment, we'll send you a payment request for the **Amount Now** you specify in the form via the **Pay Via** method you specify in the form. (If you are paying in dollars, we'll convert money to pesos first, then request the equivalent dollar amount from you.)
 
-We will do the same for the pay **Balance by** date or selection you specify in the form or at any point you desire (before Jan 15, 2027) that you feel the exchange rate and calendar are good for you. Keep in mind that typically the rate is the worst for tourists in January and February because of the oncoming high season. We will periodically post exchange rate notices in the **Announcements** chat, so be sure to keep WhatsApp available.
+We will do the same at the pay **Balance by** date or rate selection you specify in the form or at any point you desire (before Jan 15, 2027) that you feel the exchange rate and calendar are right for you. Keep in mind that typically the rate is the worst for tourists in January and February because of the oncoming high season. We will periodically post exchange rate notices in the **Announcements** chat, so be sure to keep WhatsApp available.
 
-# Cancellation policy
+### Cancellation policy
 
 Full refund (less 1800 peso non-refundable deposit) with sufficiently-creative excuse, provided there are still people on the waitlist and your room gets filled. Cancellation close to retreat time may result in partial or no refund.
 
