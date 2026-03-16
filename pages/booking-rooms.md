@@ -7,7 +7,7 @@ toc: false
 search: include
 ---
 
-### <span style="color:red">***&nbsp;&nbsp;&nbsp;2027 hotel room registration via PMDUP is open. See below.<br>&nbsp;&nbsp;&nbsp;2027 camp registration will open later this year. [Learn more here.](register.md)***</span>
+### <span style="color:red">***&nbsp;&nbsp;&nbsp;2027 hotel room registration via PMDUP is almost ready to officially open. See below.<br>&nbsp;&nbsp;&nbsp;2027 camp registration will open later this year. [Learn more here.](register.md)***</span>
 
 <br>For 2027, the official camp dancing will start the evening of Fri Feb 12 and end the evening of Thu Feb 18, with the likelihood of pre- and post-camp dancing on the night before and day/night after.
 
@@ -61,7 +61,7 @@ Consider staying longer to explore cenotes, ruins, the reef, and more...<br>Room
 * 1,400/night Beachside (with discounts for 7+ and 14+ extra nights)
 * 1,100/night Poolside
 
-This chart shows 10-night totals for each room type at various conversion rates for US and Canadian dollars.<br>The middle rate **bolded** in each section is the current rate.
+This chart shows 10-night totals for each room type at various conversion rates for US and Canadian dollars.<br>The middle column (**bold**) in each section is the current rate.
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTDckeEMkl5WNncTCorD4BsafpMtjgR-G4p_tTiiqvTOntXRtWurbfdsydHeOsFXK3QUT-7XaQCGttY/pubhtml?gid=697006945&amp;single=true&amp;widget=true&amp;headers=false" width="640" height="300"></iframe>
 
 When to convert dollars to pesos is up to you this year. The [**Payment**](#payment) section below provides a description of the process used to do conversions. 

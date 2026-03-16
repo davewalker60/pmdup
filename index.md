@@ -5,7 +5,7 @@ permalink: index.html
 toc: false
 ---
 
-### ***&nbsp;&nbsp;&nbsp;2027 hotel room registration via PMDUP is open. [Learn more here.](pages/booking-rooms.md)<br>&nbsp;&nbsp;&nbsp;2027 camp registration will open later this year. [Learn more here.](pages/register.md)***
+### ***&nbsp;&nbsp;&nbsp;2027 hotel room registration via PMDUP is almost ready to officially open. [Learn more here.](pages/booking-rooms.md)<br>&nbsp;&nbsp;&nbsp;2027 camp registration will open later this year. [Learn more here.](pages/register.md)***
 
 {% include image.html file="PM26.jpg" caption="2026 camp photo courtesy David Weihnacht" %}
 

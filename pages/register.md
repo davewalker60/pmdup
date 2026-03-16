@@ -7,7 +7,7 @@ toc: false
 search: include
 ---
 
-### <span style="color:red">***&nbsp;&nbsp;&nbsp;2027 camp registration will open later this year. The info below is from 2026.<br>&nbsp;&nbsp;&nbsp;2027 hotel room registration via PMDUP is open. [Learn more here.](booking-rooms.md)***</span>
+### <span style="color:red">***&nbsp;&nbsp;&nbsp;2027 camp registration will open later this year. The info below is from 2026.<br>&nbsp;&nbsp;&nbsp;2027 hotel room registration via PMDUP is almost ready to officially open. [Learn more here.](booking-rooms.md)***</span>
 
 Registration is a multi-step process. Registering itself has three steps and there are additional steps for lodging and travel:
 1. Check your passport now to verfiy that it will still be valid on the date you travel to Mexico.
