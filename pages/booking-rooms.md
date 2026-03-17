@@ -32,9 +32,9 @@ If you aren't open to sending the deposit now or can only attend camp for part o
 ### Alaska House pricing
 Are you interested in staying in the Alaska House before and/or after camp?
 * Before camp (Feb 2 - Feb 9) 7 nights - rooms range from ~$450 to ~$650
-* After camp (Feb 22 - Mar 9) 15 nights - rooms range from ~$900 to ~$1350
+* After camp (Feb 22 - Mar 9) 15 nights - rooms range from ~$900 to ~$1425
 
-Please express your interest in the **Alaska House** question in the lodging request form.
+Please express your interest using the **Alaska House** question in the lodging request form.
 
 ### Ojo De Agua Kabañas pricing
 Are you interested in a more cushy lodging experience during camp?
@@ -42,9 +42,10 @@ Are you interested in a more cushy lodging experience during camp?
 * For up to 10 nights (Feb 10 - Feb 20)
 * 1st floor rooms have 2 queens; 2nd floor 1 king
 * Mini fridge, working TV and AC, but no microwave (so use Las Arenas community kitchen)
-* Upscale (but simple/understated) rooms compared to Las Arenas 
+* Upscale (but simple/understated) rooms compared to Las Arenas
+* Requires a 50% deposit, refundable/cancelable until Jan 10, 2027
 
-Please express your interest in the **Ojo De Agua Kabañas** question in the lodging request form.
+Please express your interest using the **Ojo De Agua Kabañas** question in the lodging request form.
 
 ### Hotel Las Arenas pricing
 
@@ -54,7 +55,7 @@ This year, **room prices are listed in pesos** (with convenient USD & CAD conver
 * 10,800 Poolside - No Ocean View (101,202,301,302,401,402,403,404,501,502)
 * 12,400 Poolside - Partial Ocean View (103,104,201,203,204,503,504)
 * 14,000 Beachside (601,602,801,802,805,901,902,903,904)
-* 15,200 Beachside with sink, king, and queen (701)
+* 15,200 Beachside with sink, king, and queen for three people (701)
 *  &nbsp; 8,400 *6 nights (2/10-2/16) only* - Beachside 2nd floor, 2 queens (804)
 
 Consider staying longer to explore cenotes, ruins, the reef, and more...<br>Room prices for each additional night before Wed Feb 11 and/or Sat Feb 21 and after are:
@@ -71,7 +72,7 @@ When to convert dollars to pesos is up to you this year. The [**Payment**](#paym
 To approximate the up-to-the-minute cost of your entire stay in your currency:
 1. Select your source currency below (if not USD).
 2. Enter your peso total in the MXN box.
-3. Multiply the source currency result by 1.0055 to include the mas-o-menos 1/2% estimated Wise conversion fee.
+3. Divide the source currency result by 1.0055 to include the mas-o-menos 1/2% estimated Wise conversion fee.
 
 <iframe
   title="fx"
@@ -94,13 +95,16 @@ To participate in the Las Arenas initial room selection process, complete and su
 
 Like last year, we will attempt to fit everyone who has their deposit in by the Las Arenas initial selection deadline into the Tetris puzzle of rooms and room preferences. Hopefully, the process will take less time than the month or more of followups it took last year.
 
-Success of the process requires communication, cooperation, compromise, trust, and patience of all involved. For example, one dancer graciously stepped forward and volunteered to switch a poolside room to make the Tetris puzzle work, only to eventually wind up in a beach room anyway.
+Success of the process relies on communication, cooperation, compromise, trust, and patience of all involved. The process is ***not*** a *competition*. It's ***not*** about you getting the best room for you. Rather, it's a way to meet your community in *love, harmony, and beauty* to achieve the best possible overall outcome for all involved.
+
+When we all energetically participate in this way, minor miracles happen. For example, last year one dancer graciously stepped forward and volunteered to switch to a noisy poolside room to make the Tetris puzzle work, only to eventually, after all the shuffling, wind up in the beach room that was dancer's initial first choice.
 
 Ya Waliyy (divine cooperation)!! Ya Saboor (divine patience)!!
 
-Based on the 16 choice **Fairness** question on last year's form, the community, by a wide margin, favors giving lodging priority to camp registrants with disability/mobility concerns that require special consideration (17%), followed by having two camp registrants in each room (12%). Last year, 10 camp registrants were left stranded on the waitlist, so having a solo room or a non-registrant roommate is highly unlikely this year. Please be prepared to honor the community's preferences.
+Based on the 16-choice **Fairness** question on last year's form, the community, by a wide margin, favors giving lodging priority to camp registrants with disability/mobility concerns that require special consideration (17%), followed by having two camp registrants in each room (12%). Last year, 10 camp registrants were left stranded on the waitlist, so having a solo room or a non-registrant roommate is highly unlikely this year. Please be prepared to honor the community's preferences.
 
-Other points to consider:
+Other points of note:
+* Sending your deposit by the deadline is ***not*** a *race*. Only after the initial selection process does "first come, first served" apply for any rooms unclaimed by the process.  
 * If you select **I'll choose a roommate later** in this year's form and 50 people send deposits before the person you choose sends their deposit, your roommate will need to be one of those 50 people.
 * In the event that the Tetris puzzle cannot be solved via everyone cooperating, we'll use some form of a lottery (TBD depending on what's making the puzzle unsolvable).
 
