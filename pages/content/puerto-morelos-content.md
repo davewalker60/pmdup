@@ -18,11 +18,11 @@ The laundromat immediately next to Fruteria El Puerto charges by the kilo and ha
 
 We are right in the beachside town, and as can be expected in any beachside tourist town, there is plenty of nightly music. The downside, for those who like to retire early, is most of the music happens between 9 PM and midnight. The upside is most of the music doesn't start until after the end of our evening dance sessions.
 
-Of particular note, Lauro's (which Nur al-Haqq affectionately nicknamed _Loudo's_), the music venue immediately across the street from Hotel Las Arenas, is now called Live and supposedly is a little quieter and doesn't go so late.
+Of particular note, Lauro's (which Nur al-Haqq affectionately nicknamed _Loudo's_) / LIVE, the music venue immediately across the street from Hotel Las Arenas, did not renew their lease. Instead, Doña Triny, a traditional Mexican restaurante is moving there with no intention of having music past dinnertime. Thus, the hotel should be the quieter again. Alhumdulillah!
 
-Ways to deal with the late-night noise include:
+Ways to deal with late-night noise include:
 
-- Join in the late-night music jams at the dance house (which can go as late as 11 or even 11:30 sometimes).
+- Join in our own late-night music jams (which can go as late as 11 or even 11:30 sometimes).
 - Surrender, participate in the nightlife, and wait until midnight to go to bed.
 - Wear ear plugs.
 - Grumble (not recommended).

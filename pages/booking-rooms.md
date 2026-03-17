@@ -48,7 +48,7 @@ Please express your interest in the **Ojo De Agua Kabañas** question in the lod
 
 ### Hotel Las Arenas pricing
 
-The best news ever is the obnoxiously-loud, late-night music bar (Loudo's/LIVE) across the street did not renew their lease! Dave met with the new tenant, Doña Triny! She's moving her restaurante there with no intention of having music past dinnertime. Thus, rooms toward the north end of the property should be the quietest again. Alhumdulillah!
+The best news ever is the obnoxiously-loud, late-night music bar (Loudo's/LIVE) across the street did not renew their lease! Dave met with the new tenant, Doña Triny! She's moving her traditional Mexican restaurante there with no intention of having music past dinnertime. Thus, rooms toward the north end of the property should be the quietest again. Alhumdulillah!
 
 This year, **room prices are listed in pesos** (with convenient USD & CAD conversion charts to give you an idea of the equivalent dollar amounts as rates fluctuate). Given what we know as of March 15, 2026, the group block prices ***per room*** for stays of up to 10 nights between Wed Feb 10 check-in and to Sat Feb 20 check-out are ***most likely*** going to be:
 * 10,800 Poolside - No Ocean View (101,202,301,302,401,402,403,404,501,502)
@@ -148,6 +148,7 @@ While it's "the finest 2-star Mexican hotel on the beach you'll ever meet", stay
   * Water for individual rooms
   * Etc...
 * The toilet seat hinges tend to break easily.
+* Like everywhere in Mexico, toilet paper goes in the trash, ***not the toilet***.
 * Shampoo yes, but no conditioner, body gel, or body lotion is provided.
 * Some refrigerators have broken or missing shelves. Tape can be a partial remedy.
 * Freezers tend to drip water into the refrigerators.
