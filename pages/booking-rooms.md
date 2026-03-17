@@ -95,7 +95,7 @@ To participate in the Las Arenas initial room selection process, complete and su
 
 Like last year, we will attempt to fit everyone who has their deposit in by the Las Arenas initial selection deadline into the Tetris puzzle of rooms and room preferences. Hopefully, the process will take less time than the month or more of followups it took last year.
 
-Success of the process relies on communication, cooperation, compromise, trust, and patience of all involved. The process is ***not*** a *competition*. It's ***not*** about you getting the best room for you. Rather, it's a way to meet your community in *love, harmony, and beauty* to achieve the best possible overall outcome for all involved.
+Success of the process relies on communication, cooperation, compromise, trust, and patience of all involved. The process is ***not a competition***. It's ***not*** about you necessarily getting the best room for you. Rather, it's a way to meet your community in *love, harmony, and beauty* to achieve the best possible overall outcome for all involved, by providing the opportunity for the greatest number of dancers to live together in community for 10 days in a beautiful, sunny, warm, ocean-breeze-filled, magical spot on the planet while it's cold and wintery back home.
 
 When we all energetically participate in this way, minor miracles happen. For example, last year one dancer graciously stepped forward and volunteered to switch to a noisy poolside room to make the Tetris puzzle work, only to eventually, after all the shuffling, wind up in the beach room that was dancer's initial first choice.
 
@@ -104,7 +104,7 @@ Ya Waliyy (divine cooperation)!! Ya Saboor (divine patience)!!
 Based on the 16-choice **Fairness** question on last year's form, the community, by a wide margin, favors giving lodging priority to camp registrants with disability/mobility concerns that require special consideration (17%), followed by having two camp registrants in each room (12%). Last year, 10 camp registrants were left stranded on the waitlist, so having a solo room or a non-registrant roommate is highly unlikely this year. Please be prepared to honor the community's preferences.
 
 Other points of note:
-* Sending your deposit by the deadline is ***not*** a *race*. Only after the initial selection process does "first come, first served" apply for any rooms unclaimed by the process.  
+* Sending your deposit by the deadline is ***not a race***. Only after the initial selection process does "first come, first served" apply for any rooms unclaimed by the process.  
 * If you select **I'll choose a roommate later** in this year's form and 50 people send deposits before the person you choose sends their deposit, your roommate will need to be one of those 50 people.
 * In the event that the Tetris puzzle cannot be solved via everyone cooperating, we'll use some form of a lottery (TBD depending on what's making the puzzle unsolvable).
 
