@@ -20,7 +20,7 @@ We are also exploring renting the 6 Ojo De Agua Kabañas, the brown sargasso bri
 <!-- 
 **The deadline for the Las Arenas initial room selection process has passed and room assignments are being finalized. There are still a couple rooms available, so to check on room availability. To join the waitlist, complete and submit the [Hotel Las Arenas Lodging](https://docs.google.com/forms/d/e/1FAIpQLSct3SrTHl76pMYcZ5z9-eWdLCjCXzf4igqfVk689qA42YuyWA/viewform){:target="_blank"} form, but hold off on sending your non-refundable $100 USD (or 1750 MXN) deposit until you hear from us. (We'll let you know whether you have a room or are on the waitlist as soon as we know. Thanks for your patience!)**
 -->
-The deadline for submitting your 1750 peso ($100 USD) ***per-person*** deposit is April 15, 2026. Your deposit is:
+To participate in the initial room selection process, submit your 1750 peso ($100 USD) ***per-person*** deposit by the April 15, 2026 deadline. Your deposit is:
 * Non-refundable if you cancel of your own accord.
 * Non-refundable in the unlikely event of us losing our nearly $6000 hotel deposit due to circumstances beyond our control (eg, hurricane, change of hotel ownership, etc...).
 * Refundable if none of your room preferences are available and you choose to stay elsewhere.
@@ -92,11 +92,17 @@ To participate in the Las Arenas initial room selection process, complete and su
 
 ### Hotel Las Arenas initial room selection process
 
-Like last year, we will attempt to fit everyone who has their deposit in by the Las Arenas initial selection deadline into the Tetris puzzle of rooms and room preferences. Hopefully, the process will take less time than the month or more of followups it took last year. Ya Saboor (divine patience) please!!
+Like last year, we will attempt to fit everyone who has their deposit in by the Las Arenas initial selection deadline into the Tetris puzzle of rooms and room preferences. Hopefully, the process will take less time than the month or more of followups it took last year.
 
-Based on the **Fairness** question on last year's form, the community, by a wide margin, favors giving lodging priority to camp registrants with disability/mobility concerns that require special consideration (17%), followed by having two camp registrants in each room (12%). Last year, 10 camp registrants were left stranded on the waitlist, so having a solo room or a non-registrant roommate is highly unlikely this year. Please be prepared to honor the community's preferences.
+Success of the process requires communication, cooperation, compromise, trust, and patience of all involved. For example, one dancer graciously stepped forward and volunteered to switch a poolside room to make the Tetris puzzle work, only to eventually wind up in a beach room anyway.
 
-*Note: In the event that the Tetris puzzle cannot be solved via everyone cooperating, we'll use some form of a lottery (TBD depending on what's making the puzzle unsolvable).*
+Ya Waliyy (divine cooperation)!! Ya Saboor (divine patience)!!
+
+Based on the 16 choice **Fairness** question on last year's form, the community, by a wide margin, favors giving lodging priority to camp registrants with disability/mobility concerns that require special consideration (17%), followed by having two camp registrants in each room (12%). Last year, 10 camp registrants were left stranded on the waitlist, so having a solo room or a non-registrant roommate is highly unlikely this year. Please be prepared to honor the community's preferences.
+
+Other points to consider:
+* If you select **I'll choose a roommate later** in this year's form and 50 people send deposits before the person you choose sends their deposit, your roommate will need to be one of those 50 people.
+* In the event that the Tetris puzzle cannot be solved via everyone cooperating, we'll use some form of a lottery (TBD depending on what's making the puzzle unsolvable).
 
 ### Payment
 
