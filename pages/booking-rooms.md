@@ -31,8 +31,8 @@ If you aren't open to sending the deposit now or can only attend camp for part o
 
 ### Alaska House pricing
 Are you interested in staying in the Alaska House before and/or after camp?
-* Before camp (Feb 2 - Feb 9) 7 nights - rooms range from ~$450 to ~$650
-* After camp (Feb 22 - Mar 9) 15 nights - rooms range from ~$900 to ~$1425
+* Before camp (Feb 2 - Feb 9) 7 nights - rooms range from $420 to $665 (60 to 95/night)
+* After camp (Feb 22 - Mar 9) 15 nights - rooms range from $900 to $1425 (60 to 95/night)
 
 Please express your interest using the **Alaska House** question in the lodging request form.
 
@@ -59,7 +59,9 @@ This year, **room prices are listed in pesos** (with convenient USD & CAD conver
 *  &nbsp; 8,400 *6 nights (2/10-2/16) only* - Beachside 2nd floor, 2 queens (804)
 
 Consider staying longer to explore cenotes, ruins, the reef, and more...<br>Room prices for each additional night before Wed Feb 11 and/or Sat Feb 21 and after are:
-* 1,400/night Beachside (with discounts for 7+ and 14+ extra nights)
+* 1,400/night Beachside
+* 1,200/night Beachside when 7+ extra nights
+* 1,100/night Beachside when 14+ extra nights
 * 1,100/night Poolside
 
 This chart shows 10-night totals for each room type at various conversion rates for US and Canadian dollars.<br>The middle column (**bold**) in each section is the current rate.
