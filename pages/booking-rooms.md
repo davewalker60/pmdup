@@ -56,7 +56,7 @@ This year, roommate prices are listed ***per person in pesos*** (with convenient
 * 6,200 Poolside - Partial Ocean View (103,104,201,203,204,503,504)
 * 7,000 Beachside (601,602,801,802,805,901,902,903,904)
 * 5,100 Beachside with sink, king, and queen for three people (701)
-* 2,400 *6 nights (2/10-2/16) only* - Beachside 2nd floor, 2 queens (804)
+* 4,200 *6 nights (2/10-2/16) only* - Beachside 2nd floor, 2 queens (804)
 
 Consider staying longer to explore cenotes, ruins, the reef, and more...<br>Room prices for each additional night before Wed Feb 11 and/or Sat Feb 21 and after are:
 * 1,400 (700 each for two) Beachside
