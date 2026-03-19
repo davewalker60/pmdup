@@ -20,7 +20,7 @@ We are also exploring renting the 6 Ojo De Agua Kabañas, the brown sargasso bri
 <!-- 
 **The deadline for the Las Arenas initial room selection process has passed and room assignments are being finalized. There are still a couple rooms available, so to check on room availability. To join the waitlist, complete and submit the [Hotel Las Arenas Lodging](https://docs.google.com/forms/d/e/1FAIpQLSct3SrTHl76pMYcZ5z9-eWdLCjCXzf4igqfVk689qA42YuyWA/viewform){:target="_blank"} form, but hold off on sending your non-refundable $100 USD (or 1750 MXN) deposit until you hear from us. (We'll let you know whether you have a room or are on the waitlist as soon as we know. Thanks for your patience!)**
 -->
-To participate in the initial room selection process, submit your 1750 peso ($100 USD) ***per-person*** deposit by the April 15, 2026 deadline. Your deposit is:
+**To participate in the initial room selection process, submit your 1750 peso ($100 USD) <span style="color:red">*per-person*</span> deposit by the April 15, 2026 deadline.** Your deposit is:
 * Non-refundable if you cancel of your own accord.
 * Non-refundable in the unlikely event of us losing our nearly $6000 hotel deposit due to circumstances beyond our control (eg, hurricane, change of hotel ownership, etc...).
 * Refundable if none of your room preferences are available and you choose to stay elsewhere.
@@ -51,20 +51,20 @@ Please express your interest using the **Ojo De Agua Kabañas** question in the 
 
 The best news ever is the obnoxiously-loud, late-night music bar (Loudo's/LIVE) across the street did not renew their lease! Dave met with the new tenant, Doña Triny! She's moving her traditional Mexican restaurante there with no intention of having music past dinnertime. Thus, rooms toward the north end of the property should be the quietest again. Alhumdulillah!
 
-This year, **room prices are listed in pesos** (with convenient USD & CAD conversion charts to give you an idea of the equivalent dollar amounts as rates fluctuate). Given what we know as of March 15, 2026, the group block prices ***per room*** for stays of up to 10 nights between Wed Feb 10 check-in and to Sat Feb 20 check-out are ***most likely*** going to be:
-* 10,800 Poolside - No Ocean View (101,202,301,302,401,402,403,404,501,502)
-* 12,400 Poolside - Partial Ocean View (103,104,201,203,204,503,504)
-* 14,000 Beachside (601,602,801,802,805,901,902,903,904)
-* 15,200 Beachside with sink, king, and queen for three people (701)
-*  &nbsp; 8,400 *6 nights (2/10-2/16) only* - Beachside 2nd floor, 2 queens (804)
+This year, roommate prices are listed ***per person in pesos*** (with convenient USD & CAD conversion charts to give you an idea of the equivalent dollar amounts as rates fluctuate). Given what we know as of March 15, 2026, the group block prices ***per person (based on double occupancy)*** for stays of up to 10 nights between Wed Feb 10 check-in and to Sat Feb 20 check-out are ***most likely*** going to be:
+* 5,400 Poolside - No Ocean View (101,202,301,302,401,402,403,404,501,502)
+* 6,200 Poolside - Partial Ocean View (103,104,201,203,204,503,504)
+* 7,000 Beachside (601,602,801,802,805,901,902,903,904)
+* 5,100 Beachside with sink, king, and queen for three people (701)
+* 2,400 *6 nights (2/10-2/16) only* - Beachside 2nd floor, 2 queens (804)
 
 Consider staying longer to explore cenotes, ruins, the reef, and more...<br>Room prices for each additional night before Wed Feb 11 and/or Sat Feb 21 and after are:
-* 1,400/night Beachside
-* 1,200/night Beachside when 7+ extra nights
-* 1,100/night Beachside when 14+ extra nights
-* 1,100/night Poolside
+* 1,400 (700 each for two) Beachside
+* 1,200 (600 each for two) Beachside when 7+ extra nights
+* 1,100 (550 each for two) Beachside when 14+ extra nights
+* 1,100 (550 each for two) Poolside
 
-This chart shows 10-night totals for each room type at various conversion rates for US and Canadian dollars.<br>The middle column (**bold**) in each section is the current rate.
+This chart shows 10-night ***per person (based on double occupancy)*** totals for each room type at various conversion rates for US and Canadian dollars. The middle column (**bold**) in each section is the current rate.
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTDckeEMkl5WNncTCorD4BsafpMtjgR-G4p_tTiiqvTOntXRtWurbfdsydHeOsFXK3QUT-7XaQCGttY/pubhtml?gid=697006945&amp;single=true&amp;widget=true&amp;headers=false" width="640" height="300"></iframe>
 
 When to convert dollars to pesos is up to you this year. The [**Payment**](#payment) section below provides a description of the process used to do conversions. 
@@ -106,7 +106,7 @@ Ya Waliyy (divine cooperation)!! Ya Saboor (divine patience)!!
 Based on the 16-choice **Fairness** question on last year's form, the community, by a wide margin, favors giving lodging priority to camp registrants with disability/mobility concerns that require special consideration (17%), followed by having two camp registrants in each room (12%). Last year, 10 camp registrants were left stranded on the waitlist, so having a solo room or a non-registrant roommate is highly unlikely this year. Please be prepared to honor the community's preferences.
 
 Other points of note:
-* Sending your deposit by the deadline is ***not a race***. Only after the initial selection process does "first come, first served" apply for any rooms unclaimed by the process.  
+* Sending your deposit by the deadline is ***not a race***. The "first come, first served" adage applies only for any rooms/beds still available after the initial selection process. 
 * If you select **I'll choose a roommate later** in this year's form and 50 people send deposits before the person you choose sends their deposit, your roommate will need to be one of those 50 people.
 * In the event that the Tetris puzzle cannot be solved via everyone cooperating, we'll use some form of a lottery (TBD depending on what's making the puzzle unsolvable).
 
