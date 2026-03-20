@@ -53,9 +53,9 @@ The best news ever is the obnoxiously-loud, late-night music bar (Loudo's/LIVE) 
 
 This year, roommate prices are listed ***per person in pesos*** (with convenient USD & CAD conversion charts to give you an idea of the equivalent dollar amounts as rates fluctuate). Given what we know as of March 15, 2026, the group block prices ***per person (based on double occupancy)*** for stays of up to 10 nights between Wed Feb 10 check-in and to Sat Feb 20 check-out are ***most likely*** going to be:
 * 5,400 Poolside - No Ocean View (101,202,301,302,401,402,403,404,501,502)
-* 6,200 Poolside - Partial Ocean View (103,104,201,203,204,503,504)
+* 6,250 Poolside - Partial Ocean View (103,104,201,203,204,503,504)
 * 7,000 Beachside (601,602,801,802,805,901,902,903,904)
-* 5,100 Beachside with sink, king, and queen **for three people** (701)
+* 7,500 Beachside with king and covered patio (701)
 * 4,200 *6 nights (2/10-2/16) only* - Beachside 2nd floor, 2 queens (804)
 
 Consider staying longer to explore cenotes, ruins, the reef, and more...<br>Room prices for each additional night before Wed Feb 11 and/or Sat Feb 21 and after are:
