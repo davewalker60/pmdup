@@ -55,7 +55,7 @@ This year, roommate prices are listed ***per person in pesos*** (with convenient
 * 5,400 Poolside - No Ocean View (101,202,301,302,401,402,403,404,501,502)
 * 6,200 Poolside - Partial Ocean View (103,104,201,203,204,503,504)
 * 7,000 Beachside (601,602,801,802,805,901,902,903,904)
-* 5,100 Beachside with sink, king, and queen for three people (701)
+* 5,100 Beachside with sink, king, and queen **for three people** (701)
 * 4,200 *6 nights (2/10-2/16) only* - Beachside 2nd floor, 2 queens (804)
 
 Consider staying longer to explore cenotes, ruins, the reef, and more...<br>Room prices for each additional night before Wed Feb 11 and/or Sat Feb 21 and after are:
@@ -119,6 +119,8 @@ We'll again accept payment via Wise, Venmo, or PayPal (just like we did last yea
 Once the Tetris puzzle is solved and you approve your room assignment, we'll send you a payment request for the **Amount Now** you specify in the form via the **Pay Via** method you specify in the form. (If you are paying in dollars, we'll convert money to pesos first, then request the equivalent dollar amount from you.)
 
 We will do the same at the pay **Balance by** date or rate selection you specify in the form or at any point you desire (before Jan 15, 2027) that you feel the exchange rate and calendar are right for you. Keep in mind that typically the rate is the worst for tourists in January and February because of the oncoming high season. We will periodically post exchange rate notices in the **Announcements** chat, so be sure to keep WhatsApp available.
+
+> If you'd like to create a Wise account to make conversions between currencies of all kinds easier and cheaper, [use this link](https://wise.com/invite/dic/daviderrolw){:target="_blank"}.
 
 ### Cancellation policy
 
