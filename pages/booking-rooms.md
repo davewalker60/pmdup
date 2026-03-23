@@ -9,7 +9,7 @@ search: include
 
 ### <span style="color:red">***&nbsp;&nbsp;&nbsp;2027 hotel room registration via PMDUP is almost ready to officially open. See below.<br>&nbsp;&nbsp;&nbsp;2027 camp registration will open later this year. [Learn more here.](register.md)***</span>
 
-<br>For 2027, the official camp dancing will start the evening of Fri Feb 12 and end the evening of Thu Feb 18, with the likelihood of pre- and post-camp dancing on the night before and day/night after.
+<br>For 2027, the official camp dancing starts the evening of Fri Feb 12 and ends the evening of Thu Feb 18, with the likelihood of pre- and post-camp dancing on the night before and day/night after.
 
 We have 27 rooms of the 30-room Hotel Las Arenas Puerto Morelos for 10 nights (Wed Feb 10 check-in to Sat Feb 20 check-out) and 1 room for 6 nights (Wed Feb 10 check-in to Tues Feb 16 check-out). We will also do our best to reserve rooms for your additional nights before and after, based on the best-guess dates you provide in the lodging request form.
 
@@ -97,8 +97,12 @@ To approximate the up-to-the-minute cost of your entire stay in your currency:
   style="vertical-align: top;" 
 ></iframe>
 
-# [Reserve your room](https://docs.google.com/forms/d/e/1FAIpQLSct3SrTHl76pMYcZ5z9-eWdLCjCXzf4igqfVk689qA42YuyWA/viewform){:target="_blank"}
-To participate in the Las Arenas initial room selection process, complete and submit [**the PMDUP Lodging Request form**](https://docs.google.com/forms/d/e/1FAIpQLSct3SrTHl76pMYcZ5z9-eWdLCjCXzf4igqfVk689qA42YuyWA/viewform){:target="_blank"}, agree to register for camp within a week of registration opening later this year, and send your 1750 peso ($100 USD) deposit by the deadline.<!-- reserve your room</span> while they last (they are going fast!) and pay separately.join the waitlist.-->
+# Reserve your room
+To participate in the Las Arenas initial room selection process:
+* Read this entire web page top to bottom.
+* Complete and submit the PMDUP 2027 Lodging Request form (at bottom)
+* Agree to register for camp within a week of registration opening later this year
+* Send your 1750 peso ($100 USD) deposit by the deadline.<!-- reserve your room</span> while they last (they are going fast!) and pay separately.join the waitlist.-->
 
 <!-- Keep next heading and image on one to lessen vertical spacing -->
 ### Hotel Las Arenas Building Layout ![Room layout](../images/Las Arenas rooms 1000.png){:.thinblackborder}
@@ -179,6 +183,12 @@ While it's "the finest 2-star Mexican hotel on the beach you'll ever meet", stay
 * Any food you leave out will attract hundreds of ants.
 * Some rooms have poor mattresses.
 * Interesting smells occasionally rise from the shower drains, especially after a hard rain.
+
+# The lodging request form
+
+Congratulations! At long last, you've made it through the required reading! :-)
+
+Time now to complete and submit [**the PMDUP 2027 Lodging Request form**](https://docs.google.com/forms/d/e/1FAIpQLSct3SrTHl76pMYcZ5z9-eWdLCjCXzf4igqfVk689qA42YuyWA/viewform){:target="_blank"}.
 
 # Questions
 

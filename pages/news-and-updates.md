@@ -8,5 +8,7 @@ search: include
 ---
 
 This page contains a running list of camp updates and changes to the website.
-- Sep 27: The way we are doing rides from the airport for 2026 has changed. Refer to [From CUN to PM](from-cun-to-pm.md) for details.
-- Jan 1: All topics under **Before Leaving Home** are now up to date. If you haven't done so already, please read the section in its entirety well before leaving for camp.
+
+<div style="border: 1px solid #333; width: 100%; height: 300px; overflow: hidden;">
+    <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTDckeEMkl5WNncTCorD4BsafpMtjgR-G4p_tTiiqvTOntXRtWurbfdsydHeOsFXK3QUT-7XaQCGttY/pubhtml?gid=1419085152&amp;single=true&amp;widget=true&amp;headers=false" style="width: 100%; height: 100%; border: none;"></iframe>
+</div>

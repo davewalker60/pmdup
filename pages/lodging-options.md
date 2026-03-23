@@ -7,6 +7,8 @@ toc: false
 search: include
 ---
 
+This page describes lodging options for all of Puerto Morelos. For details about booking through us, refer to [Booking Rooms via PMDUP](booking-rooms.md).
+
 {% include_relative snippets/puerto-morelos-snippet.md %}
 
 Please keep this distinction in mind when considering where to stay.

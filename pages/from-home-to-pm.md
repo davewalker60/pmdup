@@ -21,8 +21,8 @@ To get from home to Puerto Morelos by air, follow these steps:
    - Non-economy frequent flyer miles tickets are fully-refundable.
    - Book one-way tickets to make it easier to switch if you decide to stay longer once down there.
 2. Use our [Navigating CUN](navigating-cun.md) page to learn your way around the Cancun airport.
-3. Arrange your travel from the airport to Puerto Morelos. Our [Getting from CUN to Puerto Morelos](from-cun-to-pm.md) page describes several ways, including using the [travel form](https://docs.google.com/forms/d/e/1FAIpQLSex7cyDs_Xf33rAxqU2S749xG_MB4lMQk3fPvF_p0JkkoKyTg/viewform){:target="_blank"} to arrange ridesharing with other dancers (highly recommended).
+3. Arrange your travel from the airport to Puerto Morelos. Our [Rides from CUN to Puerto Morelos](from-cun-to-pm.md) page describes several ways, including using the [travel form](https://docs.google.com/forms/d/e/1FAIpQLSex7cyDs_Xf33rAxqU2S749xG_MB4lMQk3fPvF_p0JkkoKyTg/viewform){:target="_blank"} to arrange ridesharing with other dancers (highly recommended).
 
 # By bus
 
-If you are coming from elsewhere in Mexico or Central America, you might consider traveling by bus. You might need to use a combination of the ADO and Playa Express bus lines. Last we've heard is the ADO bus still drops people off at Puerto Morelos traveling northbound, but please use [Google maps](https://maps.google.com){:target="_blank"} or a site like [Rome2Rio](https://rome2rio.com){:target="_blank"} for current possibilities and schedules.
+If you are coming from elsewhere in Mexico or Central America, you might consider traveling by bus. You might need to use a combination of the ADO and Playa Express bus lines. Last we've heard is the ADO bus still drops people off at Puerto Morelos ***when traveling northbound only***, but please use [Google maps](https://maps.google.com){:target="_blank"} or a site like [Rome2Rio](https://rome2rio.com){:target="_blank"} for current possibilities and schedules.

@@ -1,5 +1,5 @@
 ---
-title: Getting from CUN to Puerto Morelos
+title: Rides from CUN to Puerto Morelos
 sidebar: main_sidebar
 sidebar_link: 11
 permalink: from-cun-to-pm.html
@@ -61,7 +61,7 @@ Follow these steps to coordinate a rideshare with other dancers:
 
 ## By bus/taxi combination
 
-***September '25 update:** Rumors are circulating that ADO is stopping briefly in PM again, **if you can talk the driver into pulling off**. Also note, the driver **will not** under any circumstances open the luggage compartment underneath, so if you try taking this bus, absolutely take your luggage **onto** the bus with you. Good luck and let us know how it goes...*
+***February '26 update:*** The rumors circulating that southbound ADO buses are stopping in PM again ***are false!*** Unless you can talk the driver into pulling off, you'll be stuck going all the way to Playa and back. Also note, if you do talk them into it, the driver **will not** under any circumstances open the luggage compartment underneath. So if you try taking this bus, absolutely take your luggage **onto** the bus with you. Good luck and let us know how it goes...
 
 <span style="color: red">**January '24: There no longer is a bus that goes from the airport directly to PM!**</span> Getting to PM by bus is still possible, but it takes a minimum of two hours by either:
 
@@ -78,4 +78,4 @@ The Cancun airport is modern, on par with typical US domestic airports, complete
 
 The Tren Maya is fully operational, but only runs from Cancun south twice a day. There's a free shuttle from the airport to the train station and it costs 130 pesos to take the train to PM. Then it's another 250 pesos for a taxi from the train station to the beach village.
 
-If you are trying to do it really on the cheap, you possibly can walk from the Puerto Morelos train station out to the road and wait for the collectivo (but we know how that can go...). Unless you are gonna use the collectivo, it's cheaper (and a heck of a lot faster) to take a prearranged taxi door to door.
+If you are trying to do it really on the cheap, you possibly can walk from the Puerto Morelos train station out to the road and wait for the collectivo (but we know how that can go...). Unless you are gonna use the collectivo, it's cheaper (and a heck of a lot faster) to take a prearranged taxi directly from the airport to PM.
