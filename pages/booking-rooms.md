@@ -38,20 +38,23 @@ Please express your interest using the **Alaska House** question in the lodging 
 
 ### Ojo De Agua Kabañas pricing
 Are you interested in a more cushy lodging experience during camp?
-* 2,200 pesos/night is our discounted 2027 high-season price
+* 2,200 pesos/night is our discounted 2027 high-season **room** price
 * For up to 10 nights (Feb 10 - Feb 20)
 * 1st floor rooms have 2 queens; 2nd floor 1 king
 * Mini fridge, working TV and AC, but no microwave (so use Las Arenas community kitchen)
 * Upscale (but simple/understated) rooms compared to Las Arenas
-* Requires a 50% deposit, refundable/cancelable until Jan 10, 2027
+* ***Might*** require a 50% deposit, refundable/cancelable until Jan 10, 2027
+* Photos: [https://kabanas-ojo-de-agua.hoteles-puerto-morelos.com/#photo](https://kabanas-ojo-de-agua.hoteles-puerto-morelos.com/#photo){:target="_blank"}
 
 Please express your interest using the **Ojo De Agua Kabañas** question in the lodging request form.
+
+> For 2027, Ojo De Agua Kabañas is also our solo/non-registrant roommate option.
 
 ### Hotel Las Arenas pricing
 
 The best news ever is the obnoxiously-loud, late-night music bar (Loudo's/LIVE) across the street did not renew their lease! Dave met with the new tenant, Doña Triny! She's moving her traditional Mexican restaurante there with no intention of having music past dinnertime. Thus, rooms toward the north end of the property should be the quietest again. Alhumdulillah!
 
-This year, roommate prices are listed ***per person in pesos*** (with convenient USD & CAD conversion charts to give you an idea of the equivalent dollar amounts as rates fluctuate). Given what we know as of March 15, 2026, the group block prices ***per person (based on double occupancy)*** for stays of up to 10 nights between Wed Feb 10 check-in and to Sat Feb 20 check-out are ***most likely*** going to be:
+For 2027, the group block pricing is ***per person based on double occupancy***. Roommate prices are listed ***in pesos*** (with convenient USD & CAD conversion charts to give you an idea of the equivalent dollar amounts as rates fluctuate). Given what we know as of March 23, 2026, the ***per person (based on double occupancy)*** prices for stays of up to 10 nights between Wed Feb 10 check-in and to Sat Feb 20 check-out are ***most likely*** going to be:
 * 5,400 Poolside - No Ocean View (101,202,301,302,401,402,403,404,501,502)
 * 6,250 Poolside - Partial Ocean View (103,104,201,203,204,503,504)
 * 7,000 Beachside (601,602,801,802,805,901,902,903,904)
@@ -64,25 +67,34 @@ Consider staying longer to explore cenotes, ruins, the reef, and more...<br>Room
 * 1,100 (550 each for two) Beachside when 14+ extra nights
 * 1,100 (550 each for two) Poolside
 
-This chart shows 10-night ***per person (based on double occupancy)*** totals for each room type at various conversion rates for US and Canadian dollars. The middle column (**bold**) in each section is the current rate.
+This table shows 10-night ***per person (based on double occupancy)*** totals for each room type at various conversion rates for US and Canadian dollars. The middle column (**bold**) in each section is the current rate.
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTDckeEMkl5WNncTCorD4BsafpMtjgR-G4p_tTiiqvTOntXRtWurbfdsydHeOsFXK3QUT-7XaQCGttY/pubhtml?gid=697006945&amp;single=true&amp;widget=true&amp;headers=false" width="640" height="300"></iframe>
 
-When to convert dollars to pesos is up to you this year. The [**Payment**](#payment) section below provides a description of the process used to do conversions. 
+When to convert dollars to pesos is up to you this year. The [**Payment**](#payment) section provides a description of the process used to do conversions. The graph below shows recent history of the mid-market exchange rate Wise uses for conversions.
 
 ### Approximate your total
 
 To approximate the up-to-the-minute cost of your entire stay in your currency:
 1. Select your source currency below (if not USD).
 2. Enter your peso total in the MXN box.
-3. Divide the source currency result by 1.0055 to include the mas-o-menos 1/2% estimated Wise conversion fee.
+3. Multiply the source currency result by 1.0055 to include the mas-o-menos 1/2% estimated Wise conversion fee.
 
 <iframe
   title="fx"
   src="https://wise.com/gb/currency-converter/fx-widget/converter?sourceCurrency=USD&targetCurrency=MXN&amount=1"
-  height=290
-  width=700
+  height=420
+  width=340
   frameBorder="0"
   allowtransparency="true"
+></iframe>
+<iframe
+  title="fx"
+  src="https://wise.com/gb/currency-converter/fx-widget/chart?sourceCurrency=USD&targetCurrency=MXN"
+  height=590
+  width=370
+  frameBorder="0"
+  allowtransparency="true"
+  style="vertical-align: top;" 
 ></iframe>
 
 # [Reserve your room](https://docs.google.com/forms/d/e/1FAIpQLSct3SrTHl76pMYcZ5z9-eWdLCjCXzf4igqfVk689qA42YuyWA/viewform){:target="_blank"}
@@ -103,7 +115,9 @@ When we all energetically participate in this way, minor miracles happen. For ex
 
 Ya Waliyy (divine cooperation)!! Ya Saboor (divine patience)!!
 
-Based on the 16-choice **Fairness** question on last year's form, the community, by a wide margin, favors giving lodging priority to camp registrants with disability/mobility concerns that require special consideration (17%), followed by having two camp registrants in each room (12%). Last year, 10 camp registrants were left stranded on the waitlist, so having a solo room or a non-registrant roommate is highly unlikely this year. Please be prepared to honor the community's preferences.
+Based on the 16-choice **Fairness** question on last year's form, the community, by a wide margin, favors giving lodging priority to camp registrants with disability/mobility concerns that require special consideration (17%), followed by having two camp registrants in each room (12%). Last year, 10 camp registrants were left stranded on the waitlist, so having a solo room or a non-registrant roommate at Las Arenas is highly unlikely this time. Please be prepared to honor the community's preferences.
+
+> For 2027, Ojo De Agua Kabañas is our solo/non-registrant roommate option.
 
 Other points of note:
 * Sending your deposit by the deadline is ***not a race***. The "first come, first served" adage applies only for any rooms/beds still available after the initial selection process. 
@@ -120,7 +134,7 @@ Once the Tetris puzzle is solved and you approve your room assignment, we'll sen
 
 We will do the same at the pay **Balance by** date or rate selection you specify in the form or at any point you desire (before Jan 15, 2027) that you feel the exchange rate and calendar are right for you. Keep in mind that typically the rate is the worst for tourists in January and February because of the oncoming high season. We will periodically post exchange rate notices in the **Announcements** chat, so be sure to keep WhatsApp available.
 
-> If you'd like to create a Wise account to make conversions between currencies of all kinds easier and cheaper, [use this link](https://wise.com/invite/dic/daviderrolw){:target="_blank"}.
+> If you'd like to create a Wise account to make conversions between currencies of all kinds easier and cheaper, [use this link (and your first transfer is free)](https://wise.com/invite/dic/daviderrolw){:target="_blank"}.
 
 ### Cancellation policy
 
@@ -141,7 +155,7 @@ We set up a simple community kitchen in room 102. It has:
 * 20L drinking water dispenser (provided here as part of your stay. Water is also available for your individual rooms for a nominal fee.)
 * Safe (for people without one in their room)
 
-> Please clean your cooking dishes **before** eating, so others can use them. And please thoroughly clean up after yourself! Your mother doesn't live here... (...unless you're name is Amber! :-) )
+> Please clean your cooking dishes **before** eating, so others can use them. And please thoroughly clean up after yourself! Your mother doesn't live here! (...unless your name is Amber or Ana... :-) )
 
 While it's "the finest 2-star Mexican hotel on the beach you'll ever meet", staying does have its drawbacks. But hey, it's Mexico!
 

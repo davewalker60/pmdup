@@ -15,6 +15,10 @@ Even though the once quaint seaside village is growing and changing, we still lo
 
 This website describes the retreat/camp, the town, local activities, and everything you need to know to register and prepare for traveling to Mexico. If you are new to Puerto Morelos, start with the [**Travel Tips FAQ**](pages/travel-tips-faq.md).
 
+<div style="border: 1px solid #333; width: 100%; height: 300px; overflow: hidden;">
+    <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTDckeEMkl5WNncTCorD4BsafpMtjgR-G4p_tTiiqvTOntXRtWurbfdsydHeOsFXK3QUT-7XaQCGttY/pubhtml?gid=1419085152&amp;single=true&amp;widget=true&amp;headers=false" style="width: 100%; height: 100%; border: none;"></iframe>
+</div>
+
 # For 2027...
 
 Camp officially starts the evening of Friday Feb 12, and runs for the same 7-day length as in 2025 & 2026, ending the evening of Thursday Feb 18. There again will likely be [pre-camp dance space prep](pages/preparing-dance-space.md) on the two days prior and pre-camp and post-camp dances the night before and the day/night after the official retreat dates.
