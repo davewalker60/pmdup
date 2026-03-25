@@ -59,7 +59,7 @@ The best news ever is the obnoxiously-loud, late-night music bar (Loudo's/LIVE) 
 
 &nbsp;&nbsp;&nbsp;![Room layout](../images/Las Arenas rooms 1000.png){:.thinblackborder}
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[*See the ocean view (or lack thereof) from each room.*](./las-arenas-views.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[*\* See the ocean view (or lack thereof) from each room.*](./las-arenas-views.md)
 
 For 2027, the group block pricing is ***per person based on double occupancy***. Roommate prices are listed ***in pesos*** (with convenient USD & CAD conversion charts to give you an idea of the equivalent dollar amounts as rates fluctuate). Given what we know as of March 23, 2026, the ***per person (based on double occupancy)*** prices for stays of up to 10 nights between Wed Feb 10 check-in and to Sat Feb 20 check-out are ***most likely*** going to be:
 * 5,400 Poolside - No Ocean View (101,202,301,302,401,402,403,404,501,502)
@@ -138,7 +138,7 @@ We'll again accept payment via Wise, Venmo, or PayPal (just like we did last yea
 
 Once the Tetris puzzle is solved and you approve your room assignment, we'll send you a payment request for the **Amount Now** you specify in the form via the **Pay Via** method you specify in the form. (If you are paying in dollars, we'll convert money to pesos first, then request the equivalent dollar amount from you.)
 
-We will do the same at the pay **Balance by** date or rate selection you specify in the form or at any point you desire (before Jan 15, 2027) that you feel the exchange rate and calendar are right for you. Keep in mind that typically the rate is the worst for tourists in January and February because of the oncoming high season. We will periodically post exchange rate notices in the **Announcements** chat, so be sure to keep WhatsApp available.
+We will do the same at the pay **Balance by** date or rate selection you specify in the form or at any point you desire (before Jan 15, 2027) that you feel the exchange rate and calendar are right for you. Keep in mind that typically the rate is the worst for tourists in January and February because of the oncoming high season. We will periodically post exchange rate notices in the **Announcements** chat of the PM Dances Community on WhatsApp, so be sure to keep WhatsApp available.
 
 > If you'd like to create a Wise account to make conversions between currencies of all kinds easier and cheaper, [use this link (and your first transfer is free)](https://wise.com/invite/dic/daviderrolw){:target="_blank"}.
 
