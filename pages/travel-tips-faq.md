@@ -15,7 +15,7 @@ All you need is a valid passport. There are no Covid restrictions or immunizatio
 
 <span style="color:red">**Check your passport expiration date!**</span> It technically can expire while you are there, but to use the automated immigration lanes, it needs to be valid for 6 months beyond your date of entry.  
 
-# Do I need to speak Spanish?
+# Do I need to speak Spanish
 
 No. While it is helpful (as well as respectful) to know the language, you can almost always find someone who speaks some English almost everywhere throughout QRoo.
 

@@ -15,12 +15,12 @@ We have 27 rooms of the 30-room Hotel Las Arenas Puerto Morelos for 10 nights (W
 
 We are also exploring renting the 6 Ojo De Agua Kabañas, the brown sargasso brick buildings just over the wall next to the dance circle, (to better control our surroundings during camp) and the Alaska House is available possibly both before and after camp as well.
 
-<span style="color:red">**PLEASE READ CAREFULLY:**</span><br>**Before completing the lodging request form, it's imperative that you carefully read this entire web page. Thank you!** To participate in the Hotel Las Arenas initial room selection process, you'll be required in the form to agree to the information detailed here.
+<span style="color:red">**PLEASE READ CAREFULLY:**</span><br>**Before completing the lodging request form, it's imperative that you carefully read this entire web page. Thank you!** To participate in the initial room selection process, you'll be required in the form to agree to the information detailed here.
 
 <!-- 
 **The deadline for the Las Arenas initial room selection process has passed and room assignments are being finalized. There are still a couple rooms available, so to check on room availability. To join the waitlist, complete and submit the [Hotel Las Arenas Lodging](https://docs.google.com/forms/d/e/1FAIpQLSct3SrTHl76pMYcZ5z9-eWdLCjCXzf4igqfVk689qA42YuyWA/viewform){:target="_blank"} form, but hold off on sending your non-refundable $100 USD (or 1750 MXN) deposit until you hear from us. (We'll let you know whether you have a room or are on the waitlist as soon as we know. Thanks for your patience!)**
 -->
-**To participate in the initial room selection process, submit your 1750 peso ($100 USD) <span style="color:red">*per-person*</span> deposit by the April 15, 2026 deadline.** Your deposit is:
+**To participate in the initial room selection process, submit your 1750 peso ($100 USD) <span style="color:red">*per-person*</span> deposit by the April 25, 2026 deadline.** Your deposit is:
 * Non-refundable if you cancel of your own accord.
 * Non-refundable in the unlikely event of us losing our nearly $6000 hotel deposit due to circumstances beyond our control (eg, hurricane, change of hotel ownership, etc...).
 * Refundable if none of your room preferences are available and you choose to stay elsewhere.
@@ -30,16 +30,16 @@ If you aren't open to sending the deposit now or can only attend camp for part o
 **<span style="color:red">Important waitlist note:</span>** If you choose being on the waitlist rather than sending the deposit, we highly recommend booking a <span style="color:red">cancellable reservation</span> elsewhere -- so you can cancel when inevitably something opens up at the hotel last minute (which happens a lot!). Keep in mind that prices tend to skyrocket the closer we get to retreat time, so don't wait. Check out our [Lodging Options](lodging-options.md) web page for many other places we know of to stay in Puerto Morelos.
 
 ### Alaska House pricing
-Are you interested in staying in the Alaska House before and/or after camp?
+Are you interested in staying in the Alaska House before and/or after camp? Rooms may be shared or solo (depending on who's interested). These prices are **per room in USD**:
 * Before camp (Feb 2 - Feb 9) 7 nights - rooms range from $420 to $665 (60 to 95/night)
 * After camp (Feb 22 - Mar 9) 15 nights - rooms range from $900 to $1425 (60 to 95/night)
 
 Please express your interest using the **Alaska House** question in the lodging request form.
 
 ### Ojo De Agua Kabañas pricing
-Are you interested in a more cushy lodging experience during camp?
+Are you interested in a more cushy lodging experience during camp? Rooms may be shared or solo (depending on who's interested).
 * 2,200 pesos/night is our discounted 2027 high-season **room** price
-* For up to 10 nights (Feb 10 - Feb 20)
+* Flexible dates for up to 10 nights (Feb 10 - Feb 20)
 * 1st floor rooms have 2 queens; 2nd floor 1 king
 * Mini fridge, working TV and AC, but no microwave (so use Las Arenas community kitchen)
 * Upscale (but simple/understated) rooms compared to Las Arenas
@@ -48,11 +48,18 @@ Are you interested in a more cushy lodging experience during camp?
 
 Please express your interest using the **Ojo De Agua Kabañas** question in the lodging request form.
 
-> For 2027, Ojo De Agua Kabañas is also our solo/non-registrant roommate option.
+> For 2027, Ojo De Agua Kabañas is our solo/non-registrant roommate option (but may also be shared with another dancer).
 
 ### Hotel Las Arenas pricing
 
 The best news ever is the obnoxiously-loud, late-night music bar (Loudo's/LIVE) across the street did not renew their lease! Dave met with the new tenant, Doña Triny! She's moving her traditional Mexican restaurante there with no intention of having music past dinnertime. Thus, rooms toward the north end of the property should be the quietest again. Alhumdulillah!
+
+<!-- Keep next heading and image on one to lessen vertical spacing -->
+&nbsp;&nbsp;&nbsp;**Hotel Las Arenas Building Layout**
+
+&nbsp;&nbsp;&nbsp;![Room layout](../images/Las Arenas rooms 1000.png){:.thinblackborder}
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[*See the ocean view (or lack thereof) from each room.*](./las-arenas-views.md)
 
 For 2027, the group block pricing is ***per person based on double occupancy***. Roommate prices are listed ***in pesos*** (with convenient USD & CAD conversion charts to give you an idea of the equivalent dollar amounts as rates fluctuate). Given what we know as of March 23, 2026, the ***per person (based on double occupancy)*** prices for stays of up to 10 nights between Wed Feb 10 check-in and to Sat Feb 20 check-out are ***most likely*** going to be:
 * 5,400 Poolside - No Ocean View (101,202,301,302,401,402,403,404,501,502)
@@ -70,7 +77,7 @@ Consider staying longer to explore cenotes, ruins, the reef, and more...<br>Room
 This table shows 10-night ***per person (based on double occupancy)*** totals for each room type at various conversion rates for US and Canadian dollars. The middle column (**bold**) in each section is the current rate.
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTDckeEMkl5WNncTCorD4BsafpMtjgR-G4p_tTiiqvTOntXRtWurbfdsydHeOsFXK3QUT-7XaQCGttY/pubhtml?gid=697006945&amp;single=true&amp;widget=true&amp;headers=false" width="640" height="300"></iframe>
 
-When to convert dollars to pesos is up to you this year. The [**Payment**](#payment) section provides a description of the process used to do conversions. The graph below shows recent history of the mid-market exchange rate Wise uses for conversions.
+When to convert dollars to pesos is up to you this time. The [**Payment**](#payment) section provides a description of the process used to do conversions. The graph below shows recent history of the mid-market exchange rate Wise uses for conversions.
 
 ### Approximate your total
 
@@ -97,23 +104,18 @@ To approximate the up-to-the-minute cost of your entire stay in your currency:
   style="vertical-align: top;" 
 ></iframe>
 
-# Reserve your room
-To participate in the Las Arenas initial room selection process:
+# Reserve your spot
+To participate in the initial room selection process:
 * Read this entire web page top to bottom.
 * Complete and submit the PMDUP 2027 Lodging Request form (at bottom)
-* Agree to register for camp within a week of registration opening later this year
+* Agree (in form) to register for camp within a week of registration opening later this year
 * Send your 1750 peso ($100 USD) deposit by the deadline.<!-- reserve your room</span> while they last (they are going fast!) and pay separately.join the waitlist.-->
 
-<!-- Keep next heading and image on one to lessen vertical spacing -->
-### Hotel Las Arenas Building Layout ![Room layout](../images/Las Arenas rooms 1000.png){:.thinblackborder}
+### Initial room selection process
 
-[See the ocean view (or lack thereof) from each room.](./las-arenas-views.md)
+Like last year, we will attempt to fit everyone who has their deposit in by the initial selection deadline into the Tetris puzzle of rooms and room preferences. Hopefully, the process will take less time than the month or more of followups it took last year.
 
-### Hotel Las Arenas initial room selection process
-
-Like last year, we will attempt to fit everyone who has their deposit in by the Las Arenas initial selection deadline into the Tetris puzzle of rooms and room preferences. Hopefully, the process will take less time than the month or more of followups it took last year.
-
-Success of the process relies on communication, cooperation, compromise, trust, and patience of all involved. The process is ***not a competition***. It's ***not*** about you necessarily getting the best room for you. Rather, it's a way to meet your community in *love, harmony, and beauty* to achieve the best possible overall outcome for all involved, by providing the opportunity for the greatest number of dancers to live together in community for 10 days in a beautiful, sunny, warm, ocean-breeze-filled, magical spot on the planet while it's cold and wintery back home.
+Success of the process relies on communication, cooperation, compromise, trust, and patience of all involved. The process is ***not a competition***. It's ***not*** about you necessarily getting the best room ***for you***. Rather, it's a way to meet your community in *love, harmony, and beauty* to achieve the best possible overall outcome for all involved, by providing the opportunity for the greatest number of dancers to live together in community for 10 days in a beautiful, sunny, warm, ocean-breeze-filled, magical spot on the planet while it's cold and wintery back home.
 
 When we all energetically participate in this way, minor miracles happen. For example, last year one dancer graciously stepped forward and volunteered to switch to a noisy poolside room to make the Tetris puzzle work, only to eventually, after all the shuffling, wind up in the beach room that was dancer's initial first choice.
 
@@ -132,7 +134,7 @@ Other points of note:
 
 We'll again accept payment via Wise, Venmo, or PayPal (just like we did last year). But if you don't do electronic payments, you can mail a US check.
 
-<span style="color:red">*To participate in the Hotel Las Arenas initial room selection process, your 1750 peso ($100 USD) non-refundable deposit must be received by April 15, 2026.<!--Your stay is not reserved and your room preference is not prioritized until your $100 USD non-refundable deposit is received.--> **Deposits are per person (not per room).***</span>
+<span style="color:red">*To participate in the initial room selection process, your 1750 peso ($100 USD) non-refundable deposit must be received by April 25, 2026.<!--Your stay is not reserved and your room preference is not prioritized until your $100 USD non-refundable deposit is received.--> **Deposits are per person (not per room).***</span>
 
 Once the Tetris puzzle is solved and you approve your room assignment, we'll send you a payment request for the **Amount Now** you specify in the form via the **Pay Via** method you specify in the form. (If you are paying in dollars, we'll convert money to pesos first, then request the equivalent dollar amount from you.)
 

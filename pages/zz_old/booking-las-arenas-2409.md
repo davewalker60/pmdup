@@ -2,7 +2,7 @@
 title: Booking Las Arenas (Old)
 sidebar: main_sidebar
 sidebar_link: 99
-permalink: booking-rooms-old.html
+permalink: booking-rooms.html
 toc: false
 search: exclude
 ---
