@@ -24,7 +24,7 @@ The beach palapas (thatched-roof umbrella and chairs on the beach directly in fr
 
 ## Sargasso / Sargassum
 
-Since 2011, sargasso/sargassum has been breaking off from the [Sargasso Sea](https://en.wikipedia.org/wiki/Sargasso_Sea){:target="_blank"} in alarming rates and coming on shore in Florida and the Caribbean. The "season" has typically been from April to September, but has started as early as February in a couple of recent years. Feb '24 & '25 were far better than Feb '22 & '23. Predictions for Feb '26 are not yet available.
+Since 2011, sargasso/sargassum has been breaking off from the [Sargasso Sea](https://en.wikipedia.org/wiki/Sargasso_Sea){:target="_blank"} in alarming rates and coming on shore in Florida and the Caribbean. The "season" has typically been from April to September, but has started as early as February in a couple of recent years. Feb '24, '25, & '26 were far better than Feb '22 & '23. Predictions for Feb '27 are not yet available.
 
 ## Sea lice
 
@@ -46,7 +46,7 @@ A definite highlight of any trip to Puerto Morelos is a snorkeling trip out to t
 
 There are several nice coral heads within the swimming area. The color isn't as vibrant as at the reef (due to the churning sand), but we often see more schools of fish. Wearing fins, it's just a five-minute swim out, and if you start at the north end of the swimming area, you can basically float in the current over all the coral heads. There are plenty of us who will explain onsite and/or accompany you. Be sure to bring snorkel gear if you can. Alternatively, you can rent it onsite or often borrow it from someone in our group. 
 
- Ojo de Agua (eye of the water) is a cenote that surfaces on the ocean floor in less than 20 feet of water. The fresh water mixes with sea water creating an interesting "translucent cloudiness" and sometimes as many as 1000 fish congregate there to enjoy the brackish water. The flat buoy floating straight out from our beach palapa marks the location. You'll find the ojo 20 feet or so toward shore  and a bit to the right of the marker.
+ Ojo de Agua (eye of the water) is a cenote that surfaces on the ocean floor in about 10 feet of water. The fresh water mixes with sea water creating an interesting "translucent cloudiness" and sometimes as many as 1000 fish congregate there to enjoy the brackish water. The flat buoy floating straight out from our beach palapa marks the location. You'll find the ojo 20 feet or so toward shore  and a bit to the right of the marker.
 
 > Swimming from shore to the reef is illegal (to protect the reef as well as keep people from swimming through the boat lane).
 

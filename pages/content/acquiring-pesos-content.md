@@ -66,6 +66,10 @@ Based on past experience, here's the order for minimizing the amount you pay for
 
  > Pro tip: Save your receipts and log into your online bank account the next day to calculate the rate you actually got.  
 
-<!-- # Using Wise
+# Using Wise
 
-[Wise](https://wise.com){:target="_blank"} is similar to PayPal and Venmo, but with a focus on international money transfers (to yourself as well as to others). More of us are using a Wise account these days because you can convert dollars to pesos whenever you feel the exchange rate is best. Their fees are very reasonable. -->
+[Wise](https://wise.com){:target="_blank"} is similar to PayPal and Venmo, but with a focus on international money transfers (to yourself as well as to others). More of us are using a Wise account these days because you can convert dollars to pesos whenever you feel the exchange rate is best. Their fees are very reasonable.
+
+The Wise debit card works like any other debit card, except when you use the card to pay in MXN pesos, the money is withdrawn from the MXN pesos you've already converted in your Wise account. It also works the same way for Canadian dollars, British pounds, and many other currencies.
+
+> If you'd like to create a Wise account to make conversions between currencies of all kinds easier and cheaper, [use this link](https://wise.com/invite/dic/daviderrolw){:target="_blank"} (and your first transfer is free).

@@ -12,13 +12,15 @@ You can also get fresh juices, fruit, and vegetables at Fruteria El Puerto, a sm
 
 # Laundry
 
-The laundromat immediately next to Fruteria El Puerto charges by the kilo and has very reasonable prices. You load your clothes in the washer and they tell you when to return. They move your clothes into the dryer for you and you return in time to fold them. 
+Sad to say, the laundromat that was immediately next to Fruteria El Puerto is no longer there. These are the alternatives we used in 2026:
+- Lulu (one of the housekeepers at Las Arenas) will do your laundry at her home at night and return it the next morning. She has very reasonable prices. <!--You load your clothes in the washer and they tell you when to return. They move your clothes into the dryer for you and you return in time to fold them.-->
+- [Rush Eco-laundry](https://lavanderiarush.com/){:target="_blank"} will pick up and deliver (1-2 days later) for 50 pesos and also has very reasonable prices.
 
 # Noise
 
-We are right in the beachside town, and as can be expected in any beachside tourist town, there is plenty of nightly music. The downside, for those who like to retire early, is most of the music happens between 9 PM and midnight. The upside is most of the music doesn't start until after the end of our evening dance sessions.
+We are right in the beachside town, and as can be expected in any beachside tourist town, there is plenty of nightly music. The downside, for those who like to retire early, is most of the music happens from 9 to 11 PM. The upside is most of the music doesn't start until after the end of our evening dance sessions.
 
-Of particular note, Lauro's (which Nur al-Haqq affectionately nicknamed _Loudo's_) / LIVE, the music venue immediately across the street from Hotel Las Arenas, did not renew their lease. Instead, Doña Triny, a traditional Mexican restaurante is moving there with no intention of having music past dinnertime. Thus, the hotel should be the quieter again. Alhumdulillah!
+Of particular note, Lauro's (which Nur al-Haqq affectionately nicknamed _Loudo's_) / LIVE, the music venue immediately across the street from Hotel Las Arenas, did not renew their lease!! Instead, Doña Triny, a traditional Mexican restaurante is moving there with no intention of having music past dinnertime. Thus, the hotel should be the quieter again. Alhumdulillah!
 
 Ways to deal with late-night noise include:
 
@@ -31,7 +33,7 @@ Ways to deal with late-night noise include:
 
 - Please consider giving at least 20 pesos/day to your housekeepers. They get paid very, very little per hour (like 1970s US minimum wage little) and are counting on your tips, so your $1/day tips help change their lives! I (Nur al-Haqq) do this even on the days I have them skip cleaning my room.
 - Standard restaurant and taxi tipping in Mexico for tourists is 10% and locals typically do not tip.
-- Taxi drivers rent their cars from the company for a daily rate and then charge you the government-set price for rides based on distance. (Do with this info what you will...)
+- Taxi drivers rent their cars from the company for a daily rate and then charge you the government-set price for rides based on distance. *(Do with this info what you will...)*
 
 # Getting around town
 
@@ -40,7 +42,7 @@ Ways to deal with late-night noise include:
 
 ## La Colonia
   - La Colonia is a 7-minute / 2-mile drive from the beachside town square.
-  - Taxis are for 50 pesos ($2.50 US at 20 pesos/dollar) to town (60 if you are going past Timon Ave) and by law can only take 4 passengers.
+  - Taxis are for 50 pesos ($2.75 US at 18 pesos/dollar) to town (60 if you are going past Timon Ave) and by law can only take 4 passengers.
   - The [collectivo](https://puertomorelos.mx/producto/colectivos/){:target="_blank"} is a 10-peso public transportation option with lots of “local flavor”. **Please consider wearing a mask on the collectivos** before and during camp to help keep us all healthy. 
 
 # Staying safe in Puerto Morelos
@@ -48,11 +50,11 @@ Ways to deal with late-night noise include:
 - Valuables are fairly safe in your hotel rooms, but one can never be too careful. Most hotel rooms have a safe. If yours doesn’t, there should be one available for your use in the hotel office.
 - Ketchup scam - when in public, if someone squirts ketchup or sauce on you, immediately put your hands on your valuables and make a scene / call out for the police. While one person pretends to come to your aid, another tries to pick your pocket.
 - Credit card swap scam - Never let anyone take your credit card out of your sight. And if your credit card ever does leave your hand, make sure the credit card handed back to you is yours. The scam is they give you a similar looking card, then head straight to the ATM with yours.
-- Fentanyl warning - https://www.latimes.com/world-nation/story/2023-06-14/fentanyl-tainted-pills-now-found-in-mexican-pharmacies-from-coast-to-coast
-- Please wear a mask when riding the collectivos to help keep us all healthy. Thank you for caring about your fellow dancers!
+- [Fentanyl warning](https://www.latimes.com/world-nation/story/2023-06-14/fentanyl-tainted-pills-now-found-in-mexican-pharmacies-from-coast-to-coast){:target="_blank"}
+- Please wear a mask when riding the collectivos before and during camp to help keep us all healthy. Thank you for caring about your fellow dancers!
 
 # Donation items for the Mayan village
 
-Jessie Sitara Noe is spearheading donations collection for Mayan people in the small village around Puerto Morelos. Please consider bringing donation items. Desired items include, but are not limited to: reading glasses. summer clothes for children, and simple school supplies for elementary age kids.
+Jessie Sitara Noe is spearheading donations collection for Mayan people in the small villages around Puerto Morelos. Please consider bringing donation items. Desired items include (but are not limited to): reading glasses, summer clothes for children, and simple school supplies for elementary age kids.
 
 Email [noejessica@hotmail.com](mailto:noejessica@hotmail.com) with questions.

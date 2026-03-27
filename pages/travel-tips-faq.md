@@ -35,7 +35,7 @@ Eating improperly-washed fruits and vegetables raw also can result in intestinal
 
 # Will my cell phone work there?
 
-Yes, cell reception is prevalent throughout the Riviera Maya, but [make sure your cell plan includes Mexico](./cell-phones.md) and/or keep your phone in airplane mode and rely on the equally-prevalent WiFi.
+Yes, cell reception is prevalent throughout the Riviera Maya, but [make sure your cell plan includes calling ***in/from Mexico***](./cell-phones.md) (not just ***to Mexico***) and/or keep your phone in airplane mode and rely on the equally-prevalent WiFi.
 
 # What kind of power outlets?
 

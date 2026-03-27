@@ -20,7 +20,7 @@ If you’d like more assistance than you find below, especially if you are wanti
 
 These are the hotels that we know of beachside. All are within a 15-minute walk of Hotel Las Arenas (where we dance), most are closer. Check Google Maps for distance to Hotel Las Arenas Puerto Morelos. 
 
-- **Hotel Las Arenas** - The closest hotel to the beach, where we dance, and where a good portion of us stay. We are working directly with the hotel (thanks Dave Nur al-Haqq!) and have booked nearly the entire 30-room hotel at a 10-day group rate that includes all taxes and avoids all online booking & cleaning fees. [<span style="color:red">***Learn more and book here***</span>](booking-rooms.md).
+- **Hotel Las Arenas** - The closest hotel to the beach, where we dance, and where a good portion of us stay. We are working directly with the hotel (thanks Dave Nur al-Haqq!) and have booked nearly the entire 30-room hotel at a 10-night group rate that includes all taxes and avoids all online booking & cleaning fees. [<span style="color:red">***Learn more and book here***</span>](booking-rooms.md).
 - **Amar Inn** - Well-established place a very short distance up the beach with some nice and some funky rooms.
 - **Areia Boutique Hotel Puerto Morelos** - Completely-remodeled hotel, a bit upscale with great views of the ocean and mangroves from the top floors and rooftop.
 - **Casa El Moro** - A nice place just 1/2 block from Las Arenas with inexpensive prices if you book before the end of June.
@@ -39,7 +39,7 @@ These are the hotels that we know of beachside. All are within a 15-minute walk 
 
 # La Colonia
 
-There are places across the highway in La Colonia too, often at better rates, but be aware that it's a 7-minute / 2-mile drive to the beach. Yes, there are taxis for 50 pesos ($2.50 US at 20 pesos/dollar) and "the collectivo" (10-peso public transportation), but past dancers rarely opt to do it a second time. 
+There are places across the highway in La Colonia too, often at better rates, but be aware that it's a 7-minute / 2-mile drive to the beach. Yes, there are taxis for 50 pesos ($2.75 US at 18 pesos/dollar) and "the collectivo" (10-peso public transportation), but past dancers rarely opt to do it a second time. 
 
 While staying in La Colonia to immerse yourself in the local culture might sound intriguing, we do not recommend it merely due to the inconvenience. Most dancers who have stayed out there in the past say it’s not worth the financial savings because:
 

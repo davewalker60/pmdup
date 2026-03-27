@@ -12,7 +12,7 @@ Unlike the typical DUP/Sufi camps that happen at a contained retreat venue with 
 * Most meals taking place in small groups in restaurants
 * Lodging spread out in various places (hotels, vacation rentals, airbnbs. etc...)
 
-Typically, around 70 dancers participate each year, from seasoned veterans to first-time dancers. If you’ve attended any of the Western Slope Dance Camp events with Bernie, Sky, and Jen (Canyonlands, Paonia, Mancos, Joyful Journey, etc...) or this camp for that matter, you’ll undoubtedly be among old friends. The group’s ethos is one of warm and welcome regardless of familiarity, so please join us!
+Typically, 70+ dancers participate each year, from seasoned veterans to first-time dancers. If you’ve attended any of the Western Slope Dance Camp events with Bernie, Sky, and Jen (Canyonlands, Paonia, Mancos, Joyful Journey, etc...) or this camp for that matter, you’ll undoubtedly be among old friends. The group’s ethos is one of warm and welcome regardless of familiarity, so please join us!
 
 Because camp is an open container, rather than a closed one, it embraces a number of non-dance activities that enhance people’s experience such as:
 
