@@ -4,15 +4,15 @@ With people and camp activities spread out, we need a way to communicate. We use
 
 # Chat groups
 
-For 2026, we've continuing to use the **PM Dances Community** WhatsApp community we created last year with these chat groups:
+Using the **PM Dances Community** WhatsApp community to communicate has been quite the success! It comprises these chat groups:
 
-- **Announcements** is for daily camp announcements by staff only (no participant posting). This group is the main way we disseminate information during camp. All registrants are added to this group as part of camp registration. 
+- **Announcements** is for daily camp announcements by staff only (no participant posting). This group is the main way we disseminate information before and during camp. All registrants are added to this group as part of camp registration. 
 
 - **Dancer Chat** is an unmoderated group for conversations about and at camp. All camp registrants can join the group. All participants can post. Not everyone will want to be in this group if it gets too verbose, so **please reply privately** with thank you, I agree, etc messages and conversations that don’t involve the whole group.
 
 - **Admin Team Chat**, as the name indicates, is a group for the admin team to communicate about behind-the-scenes stuff. There's no need for any camp registrants to join this group.
 
-- **Specialty Groups** are unmoderated groups to arrange and coordinate things like group trips to snorkel on the reef, cenotes, Mayan ruins, or even simply into La Colonia for a meal. The motivations for these group are:
+- **Specialty Groups** are unmoderated groups to arrange and coordinate things like group trips to snorkel on the reef, cenotes, Mayan ruins, or even simply into La Colonia for a meal. In each group, tap the title (at the top of your phone screen) to see an overall description of the group. The motivations for these group are:
 
    - To reduce clutter in the main dancer chat group.
 
@@ -24,7 +24,7 @@ For 2026, we've continuing to use the **PM Dances Community** WhatsApp community
 
 # How to navigate WhatsApp for camp
 
-All groups related to this year's camp are part of the **PM Dances Community** WhatsApp community. To access or join any of the groups:
+All groups related to camp are part of the **PM Dances Community** WhatsApp community. To access or join any of the groups:
 
 1. In Whatsapp, navigate to the **PM Dances Community**. To do so:
    - Click the **Communities** icon, then click **PM Dances Community**.
@@ -49,11 +49,11 @@ All groups related to this year's camp are part of the **PM Dances Community** W
    - From your phone, tap the group title banner at the top of the screen, then scroll down and select **Exit group**.
    - From your computer, click the three dots in the upper right corner of the screen, then select **Exit group**.
 
-> Exiting the **Announcements** group removes you entirely from the community and all groups in the community.
+> Exiting the **Announcements** group removes you entirely from the community and all groups in the community. We highly recommend ***not*** exiting the **Announcements** group because you'll miss important date, deadline, and exchange rate announcements for future camps.
 
 # How to reply privately
 
-In our WhatsApp groups, when what you have to say doesn’t pertain to the whole group, reply privately to keep spamming to a minimum. For example, when asking a follow-up question or commenting in a way that’s personal to the two of you. This practice helps to keep the interest level up for everyone. Thanks!
+In our WhatsApp groups, when what you have to say doesn’t pertain to the whole group, reply privately to keep spamming to a minimum. For example, when asking a follow-up question or commenting in a way that’s personal to the two of you (like *Thanks for the info! I appreciate it and you!*). This practice helps to keep the interest level up for everyone. Thanks!
 
 To reply privately from an iPhone:
 
@@ -108,7 +108,7 @@ The easiest way to get started is:
 
 1. Attempt to access our [WhatsApp community for camp](https://chat.whatsapp.com/EMbSgSrfAhiFqgHSPwd7mH){:target="_blank"}.
 2. Click **Join Chat**.
-3. You'll be presented a page that says the app is not installed. Instead of clicking **Download**, click **use WhatsApp Web** farther down the page.
+3. You'll be presented a page that says the app is not installed. Instead of clicking **Download** or **Open app**, click **Continue to WhatsApp Web**.
 4. Follow the prompts to complete setup and request access to the chat.
 
 > Only dancers registered for camp can be approved. 

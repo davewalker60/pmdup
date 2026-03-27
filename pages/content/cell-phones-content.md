@@ -1,6 +1,6 @@
 # Mexico plans
 
-Refer to your mobile phone’s plan details to see if using your phone in Mexico is included in your plan to avoid surprises! For example, Verizon plans that **don’t** include Mexico charge $10/day or $100/month to use your phone outside of the US.
+Refer to your mobile phone’s plan details to see if using your phone ***in*** Mexico (not just ***to*** Mexico) is included in your plan to avoid surprises! For example, Verizon plans that **don’t** include use while in Mexico charge $10/day or $100/month to use your phone outside of the US.
 
 Some options for people without Mexico plans:
 

@@ -130,7 +130,7 @@ Based on the 16-choice **Fairness** question on last year's form, the community,
 
 Other points of note:
 * Sending your deposit by the deadline is ***not a race***. The "first come, first served" adage applies only for any rooms/beds still available after the initial selection process. 
-* If you select **I'll choose a roommate later** in this year's form and 50 people send deposits before the person you choose sends their deposit, your roommate will need to be one of those 50 people.
+* If you select **I'll name a roommate later** in this year's form and 50 people send deposits before the person you specify sends their deposit, your roommate will need to be one of those 50 people.
 * In the event that the Tetris puzzle cannot be solved via everyone cooperating, we'll use some form of a lottery (TBD depending on what's making the puzzle unsolvable).
 
 ### Payment
