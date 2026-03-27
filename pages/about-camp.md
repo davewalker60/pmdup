@@ -33,4 +33,4 @@ We believe that the community creates the experience rather than having a focus 
 
 This vision was set into place over 20 years ago by Bernie and Adrianna Heideman, later joined by Sky Roshay, and then Jen Friedman.
 
-This year, we hope to carry forward the legacy of joy and love which has always made the Puerto Morelos Dance Camp such a special experience.
+Today, with Jen as Spiritual Director, we carry forward the legacy of joy and love which has always made the Puerto Morelos Dance Camp such a special experience.

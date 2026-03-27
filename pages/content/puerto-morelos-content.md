@@ -14,7 +14,7 @@ You can also get fresh juices, fruit, and vegetables at Fruteria El Puerto, a sm
 
 Sad to say, the laundromat that was immediately next to Fruteria El Puerto is no longer there. These are the alternatives we used in 2026:
 - Lulu (one of the housekeepers at Las Arenas) will do your laundry at her home at night and return it the next morning. She has very reasonable prices. <!--You load your clothes in the washer and they tell you when to return. They move your clothes into the dryer for you and you return in time to fold them.-->
-- [Rush Eco-laundry](https://lavanderiarush.com/){:target="_blank"} will pick up and deliver (1-2 days later) for 50 pesos and also has very reasonable prices.
+- [Rush Eco-laundry](https://lavanderiarush.com/){:target="_blank"} in La Colonia (in the Super Aki plaza) will pick up and deliver (1-2 days later) for 50 pesos and also has very reasonable prices.
 
 # Noise
 

@@ -27,6 +27,6 @@ Zareen Connie Delaney was added as a main leader in the post-pandemic years, hel
 
 In some years, we have hosted a community dance, either in the town square or community center, which is open to local members of the community to share the welcoming energy and spirit of our beautiful tradition with new people.
 
-Jen Friedman stepped into the role of Spiritual Director in 2025, with the blessing, encouragement, and mentorship of Bernie and Sky. Jen is building on the legacy and tradition of the PM Camp as a community-collaboration, celebrating the energy, passion, and heart of all who attend.
+In 2025, Jen Friedman stepped into the role of Spiritual Director with the blessing, encouragement, and mentorship of Bernie and Sky. Jen is building on the legacy and tradition of the PM camp as a community collaboration -- celebrating the energy, passion, and heart of all who attend.
 
 > Do you have interesting history info to add? To contribute to this (or any) page, use the [**questions & suggestions form**](https://docs.google.com/forms/d/e/1FAIpQLSeKsY-e9iy44578E1ijjs_g5Bwi1gZCuW439N1bOBlL76U5qg/viewform){:target="_blank"} (found in the **Quick Jump** menu under **Contact Us**).

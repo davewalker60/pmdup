@@ -65,7 +65,8 @@ For 2027, the group block pricing is ***per person based on double occupancy***.
 * 5,400 Poolside - No Ocean View (101,202,301,302,401,402,403,404,501,502)
 * 6,250 Poolside - Partial Ocean View (103,104,201,203,204,503,504)
 * 7,000 Beachside (601,602,801,802,805,901,902,903,904)
-* 7,500 Beachside with king and covered patio (701)
+* 7,500 Beachside with king and covered patio (701)<br>
+  *(5,000 Add a queen bed in 701 for a more-affordable 3-person share)*
 * 4,200 *6 nights (2/10-2/16) only* - Beachside 2nd floor, 2 queens (804)
 
 Consider staying longer to explore cenotes, ruins, the reef, and more...<br>Room prices for each additional night before Wed Feb 11 and/or Sat Feb 21 and after are:
@@ -115,7 +116,9 @@ To participate in the initial room selection process:
 
 Like last year, we will attempt to fit everyone who has their deposit in by the initial selection deadline into the Tetris puzzle of rooms and room preferences. Hopefully, the process will take less time than the month or more of followups it took last year.
 
-Success of the process relies on communication, cooperation, compromise, trust, and patience of all involved. The process is ***not a competition***. It's ***not*** about you necessarily getting the best room ***for you***. Rather, it's a way to meet your community in *love, harmony, and beauty* to achieve the best possible overall outcome for all involved, by providing the opportunity for the greatest number of dancers to live together in community for 10 days in a beautiful, sunny, warm, ocean-breeze-filled, magical spot on the planet while it's cold and wintery back home.
+Every year, ***a lot*** of hard work goes into negotiating and structuring pricing that honors Bernie's tenant of having affordable lodging options for lower-income dancers. But that success (which makes our rooms the least expensive beachfront rooms in town), combined with most people's desire to stay where we dance, creates way more demand than supply. Thus, success of the selection process relies on communication, cooperation, compromise, trust, and patience of all involved... including you...
+
+The process is ***not a competition***. It's ***not*** about you necessarily getting the best room ***for you***. Rather, it's a way to meet your community in *love, harmony, and beauty* to achieve the best possible overall outcome for all involved, by providing the opportunity for the greatest number of dancers to live together in community for 10 days in a beautiful, sunny, warm, ocean-breeze-filled, magical spot on the planet while it's cold and wintery back home.
 
 When we all energetically participate in this way, minor miracles happen. For example, last year one dancer graciously stepped forward and volunteered to switch to a noisy poolside room to make the Tetris puzzle work, only to eventually, after all the shuffling, wind up in the beach room that was dancer's initial first choice.
 
