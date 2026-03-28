@@ -20,7 +20,7 @@ We are also exploring renting the 6 Ojo De Agua Kabañas, the brown sargasso bri
 <!-- 
 **The deadline for the Las Arenas initial room selection process has passed and room assignments are being finalized. There are still a couple rooms available, so to check on room availability. To join the waitlist, complete and submit the [Hotel Las Arenas Lodging](https://docs.google.com/forms/d/e/1FAIpQLSct3SrTHl76pMYcZ5z9-eWdLCjCXzf4igqfVk689qA42YuyWA/viewform){:target="_blank"} form, but hold off on sending your non-refundable $100 USD (or 1750 MXN) deposit until you hear from us. (We'll let you know whether you have a room or are on the waitlist as soon as we know. Thanks for your patience!)**
 -->
-**To participate in the initial room selection process, submit your 1750 peso ($100 USD) <span style="color:red">*per-person*</span> deposit by the April 25, 2026 deadline.** Your deposit is:
+**To participate in the initial room selection process, submit your 1750 peso ($100 USD) <span style="color:red">*per-person*</span> deposit by the Monday April 27, 2026 deadline.** Your deposit is:
 * Non-refundable if you cancel of your own accord.
 * Non-refundable in the unlikely event of us losing our nearly $6000 hotel deposit due to circumstances beyond our control (eg, hurricane, change of hotel ownership, etc...).
 * Refundable if none of your room preferences are available and you choose to stay elsewhere.
@@ -137,7 +137,7 @@ Other points of note:
 
 We'll again accept payment via Wise, Venmo, or PayPal (just like we did last year). But if you don't do electronic payments, you can mail a US check.
 
-<span style="color:red">*To participate in the initial room selection process, your 1750 peso ($100 USD) non-refundable deposit must be received by April 25, 2026.<!--Your stay is not reserved and your room preference is not prioritized until your $100 USD non-refundable deposit is received.--> **Deposits are per person (not per room).***</span>
+<span style="color:red">*To participate in the initial room selection process, your 1750 peso ($100 USD) non-refundable deposit must be received by Monday April 27, 2026.<!--Your stay is not reserved and your room preference is not prioritized until your $100 USD non-refundable deposit is received.--> **Deposits are per person (not per room).***</span>
 
 Once the Tetris puzzle is solved and you approve your room assignment, we'll send you a payment request for the **Amount Now** you specify in the form via the **Pay Via** method you specify in the form. (If you are paying in dollars, we'll convert money to pesos first, then request the equivalent dollar amount from you.)
 
