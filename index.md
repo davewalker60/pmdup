@@ -5,7 +5,7 @@ permalink: index.html
 toc: false
 ---
 
-### ***&nbsp;&nbsp;&nbsp;2027 hotel room registration via PMDUP is almost ready to officially open. [Learn more here.](pages/booking-rooms.md)<br>&nbsp;&nbsp;&nbsp;2027 camp registration will open later this year. [Learn more here.](pages/register.md)***
+### ***&nbsp;&nbsp;&nbsp;2027 hotel room registration via PMDUP is officially open. [Learn more here.](pages/booking-rooms.md)<br>&nbsp;&nbsp;&nbsp;2027 camp registration will open later this year. [Learn more here.](pages/register.md)***
 
 {% include image.html file="PM26.jpg" caption="2026 camp photo courtesy David Weihnacht" %}
 
@@ -15,6 +15,7 @@ Even though the once quaint seaside village is growing and changing, we still lo
 
 This website describes the retreat/camp, the town, local activities, and everything you need to know to register and prepare for traveling to Mexico. If you are new to Puerto Morelos, start with the [**Travel Tips FAQ**](pages/travel-tips-faq.md).
 
+Scroll through this quick-reference running list to stay up to date with camp updates and changes to the website.
 <div style="border: 1px solid #333; width: 100%; height: 300px; overflow: hidden;">
     <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTDckeEMkl5WNncTCorD4BsafpMtjgR-G4p_tTiiqvTOntXRtWurbfdsydHeOsFXK3QUT-7XaQCGttY/pubhtml?gid=1419085152&amp;single=true&amp;widget=true&amp;headers=false" style="width: 100%; height: 100%; border: none;"></iframe>
 </div>

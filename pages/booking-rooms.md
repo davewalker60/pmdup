@@ -7,7 +7,7 @@ toc: false
 search: include
 ---
 
-### <span style="color:red">***&nbsp;&nbsp;&nbsp;2027 hotel room registration via PMDUP is almost ready to officially open. See below.<br>&nbsp;&nbsp;&nbsp;2027 camp registration will open later this year. [Learn more here.](register.md)***</span>
+### <span style="color:red">***&nbsp;&nbsp;&nbsp;2027 hotel room registration via PMDUP is officially open. See below.<br>&nbsp;&nbsp;&nbsp;2027 camp registration will open later this year. [Learn more here.](register.md)***</span>
 
 <br>For 2027, the official camp dancing starts the evening of Fri Feb 12 and ends the evening of Thu Feb 18, with the likelihood of pre- and post-camp dancing on the night before and day/night after.
 
