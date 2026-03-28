@@ -110,7 +110,7 @@ To participate in the initial room selection process:
 * Read this entire web page top to bottom.
 * Complete and submit the PMDUP 2027 Lodging Request form (at bottom)
 * Agree (in form) to register for camp within a week of registration opening later this year
-* Send your 1750 peso ($100 USD) deposit by the deadline.<!-- reserve your room</span> while they last (they are going fast!) and pay separately.join the waitlist.-->
+* Send your 1750 peso ($100 USD) deposit by the April 27, 2026 deadline.<!-- reserve your room</span> while they last (they are going fast!) and pay separately.join the waitlist.-->
 
 ### Initial room selection process
 
