@@ -39,6 +39,8 @@ This section shows the view looking East (the direction of the ocean) from just 
 {% include image.html file="view_from_504.jpg" caption="View from 504" %}
 {% include image.html file="view_from_600_building.jpg" caption="View from 600 building" %}
 {% include image.html file="view_from_701.jpg" caption="View from 701 (courtesy David Weihnacht)" %}
+<a id="701patio"></a>
+{% include image.html file="view_of_701_patio.jpg" caption="701 covered patio (courtesy Dave Nur al-Haqq Walker)" %}
 {% include image.html file="view_from_800_building.jpg" caption="View from 800 building (courtesy David Weihnacht)" %}
 {% include image.html file="view_from_805.jpg" caption="View from 805 (courtesy David Weihnacht)" %}
 {% include image.html file="view_from_900_building.jpg" caption="View from 900 building (courtesy David Weihnacht)" %}

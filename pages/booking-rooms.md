@@ -65,7 +65,7 @@ For 2027, the group block pricing is ***per person based on double occupancy***.
 * 5,400 Poolside - No Ocean View (101,202,301,302,401,402,403,404,501,502)
 * 6,250 Poolside - Partial Ocean View (103,104,201,203,204,503,504)
 * 7,000 Beachside (601,602,801,802,805,901,902,903,904)
-* 7,500 Beachside with king and covered patio (701)<br>
+* 7,500 Beachside with king and [covered patio](./las-arenas-views.md#701patio) (701)<br>
   *(5,000 Add a queen bed in 701 for a more-affordable 3-person share)*
 * 4,200 *6 nights (2/10-2/16) only* - Beachside 2nd floor, 2 queens (804)
 
