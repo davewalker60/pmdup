@@ -137,6 +137,8 @@ Other points of note:
 
 We'll again accept payment via Wise, Venmo, or PayPal (just like we did last year). But if you don't do electronic payments, you can mail a US check.
 
+> All the payment addresses are listed in the **Pay Via** question in the form.
+
 <span style="color:red">*To participate in the initial room selection process, your 1750 peso ($100 USD) non-refundable deposit must be received by Monday April 27, 2026.<!--Your stay is not reserved and your room preference is not prioritized until your $100 USD non-refundable deposit is received.--> **Deposits are per person (not per room).***</span>
 
 Once the Tetris puzzle is solved and you approve your room assignment, we'll send you a payment request for the **When Confirmed** amount you specify in the form via the **Pay Via** method you specify in the form. (If you are paying in dollars, we'll convert money to pesos first, then request the equivalent dollar amount from you.)
