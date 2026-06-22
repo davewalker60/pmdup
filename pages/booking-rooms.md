@@ -13,12 +13,12 @@ search: include
 
 We have 27 rooms of the 30-room Hotel Las Arenas Puerto Morelos for 10 nights (Wed Feb 10 check-in to Sat Feb 20 check-out) and 1 room for 6 nights (Wed Feb 10 check-in to Tues Feb 16 check-out). We will also do our best to reserve rooms for your additional nights before and after, based on the best-guess dates you provide in the lodging request form.
 
-We are also exploring renting the 6 Ojo De Agua Kabañas, the brown sargasso brick buildings just over the wall next to the dance circle, (to better control our surroundings during camp) and the Alaska House is available possibly both before and after camp as well.
+For more upscale and/or solo rooms, we recommend the Ojo De Agua Kabañas, the brown sargasso brick buildings just over the wall next to the dance circle, (to better control our surroundings during camp) and the Alaska House is available possibly both before and after camp as well.
 
 <span style="color:red">**PLEASE READ CAREFULLY:**</span><br>**Before completing the lodging request form, it's imperative that you carefully read this entire web page. Thank you!** <!-- To participate in the initial room selection process, you'll be required in the form to agree to the information detailed here.-->
 
 
-The deadline for the Las Arenas initial room selection process has passed and room assignments are being finalized. There are still poolside rooms & beds available, so for now continue to follow the instructions on this page.<!-- To join the waitlist, complete and submit the [Hotel Las Arenas Lodging](https://docs.google.com/forms/d/e/1FAIpQLSct3SrTHl76pMYcZ5z9-eWdLCjCXzf4igqfVk689qA42YuyWA/viewform){:target="_blank"} form, but hold off on sending your non-refundable $100 USD (or 1750 MXN) deposit until you hear from us. (We'll let you know whether you have a room or are on the waitlist as soon as we know. Thanks for your patience!)**
+The deadline for the Las Arenas initial room selection process has passed and and initial room assignments have been made. There is still the possibility of a couple poolside rooms & beds available, so for now continue to follow the instructions on this page.<!-- To join the waitlist, complete and submit the [Hotel Las Arenas Lodging](https://docs.google.com/forms/d/e/1FAIpQLSct3SrTHl76pMYcZ5z9-eWdLCjCXzf4igqfVk689qA42YuyWA/viewform){:target="_blank"} form, but hold off on sending your non-refundable $100 USD (or 1750 MXN) deposit until you hear from us. (We'll let you know whether you have a room or are on the waitlist as soon as we know. Thanks for your patience!)**
 -->
 <!--**To participate in the initial room selection process, submit your 1750 peso ($100 USD) <span style="color:red">*per-person*</span> deposit by the Monday April 27, 2026 deadline.** Your deposit is:-->
 
@@ -40,12 +40,11 @@ Please express your interest using the **Alaska House** question in the lodging 
 
 ### Ojo De Agua Kabañas pricing
 Are you interested in a more cushy lodging experience during camp? Rooms may be shared or solo (depending on who's interested).
-* 2,200 pesos/night is our discounted 2027 high-season **room** price
-* Flexible dates for up to 10 nights (Feb 10 - Feb 20)
+* Prices on Expedia, etc are currently better than the group rate they gave us. So, book on your own.
+* For whichever nights you'd like. No 10-night reservation needed.
 * 1st floor rooms have 2 queens; 2nd floor 1 king
 * Mini fridge, working TV and AC, but no microwave (so use Las Arenas community kitchen)
 * Upscale (but simple/understated) rooms compared to Las Arenas
-* ***Might*** require a 50% deposit, refundable/cancelable until Jan 10, 2027
 * Photos: [https://kabanas-ojo-de-agua.hoteles-puerto-morelos.com/#photo](https://kabanas-ojo-de-agua.hoteles-puerto-morelos.com/#photo){:target="_blank"}
 
 Please express your interest using the **Ojo De Agua Kabañas** question in the lodging request form.
@@ -54,7 +53,7 @@ Please express your interest using the **Ojo De Agua Kabañas** question in the 
 
 ### Hotel Las Arenas pricing
 
-The best news ever is the obnoxiously-loud, late-night music bar (Loudo's/LIVE) across the street did not renew their lease! Dave met with the new tenant, Doña Triny! She's moving her traditional Mexican restaurante there with no intention of having music past dinnertime. Thus, rooms toward the north end of the property should be the quietest again. Alhumdulillah!
+The best news ever is the obnoxiously-loud, late-night music bar (Loudo's/LIVE) across the street did not renew their lease! Dave met with the new tenant, Doña Triny! She's moved her traditional Mexican restaurante there with no intention of having music past dinnertime. Thus, rooms toward the north end of the property should be the quietest again. Alhumdulillah!
 
 <!-- Keep next heading and image on one to lessen vertical spacing -->
 &nbsp;&nbsp;&nbsp;**Hotel Las Arenas Building Layout**
@@ -114,9 +113,9 @@ To request lodging:<!--participate in the initial room selection process:-->
 * Agree (in form) to register for camp within a week of registration opening later this year
 * Send your 1750 peso ($100 USD) deposit.<!-- by the April 27, 2026 deadline.<!-- reserve your room</span> while they last (they are going fast!) and pay separately.join the waitlist.-->
 
-### Initial room selection process
+### Initial room selection process (June 22 update - only 5 beds open)
 
-The initial room selection process deadline has passed. We are currently working on the "Tetris puzzle" and those who got their deposits in on time are being contacted now. Even so, this section is still worth reading...
+The initial room selection process deadline has passed. We are currently refining the "Tetris puzzle" for those who got their deposits in on time. Even so, this section is still worth reading...
 
 Like last year, we will attempt to fit everyone who has their deposit in by the initial selection deadline into the Tetris puzzle of rooms and room preferences. Hopefully, the process will take less time than the month or more of followups it took last year.
 
