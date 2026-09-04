@@ -12,7 +12,7 @@ search: include
 * Primary leaders
   * Jen Friedman, Spiritual Director
   * Connie Zareen Delaney
-* Supporting leaders from 2026 (2027 still TBD...)
+* Supporting leaders
   * Nur al-Haqq Dave Walker
   * Douglas Stevenson
   * Jessie Sitara Noe
