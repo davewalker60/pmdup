@@ -7,11 +7,11 @@ toc: false
 search: include
 ---
 
-### <span style="color:red">***&nbsp;&nbsp;&nbsp;2027 camp registration will open later this year.<br>&nbsp;&nbsp;&nbsp;2027 hotel room registration via PMDUP is open. [Learn more here.](booking-rooms.md)***</span>
+### <span style="color:red">***&nbsp;&nbsp;&nbsp;2027 camp registration is open. See below.<br>&nbsp;&nbsp;&nbsp;2027 hotel room registration via PMDUP is open. [Learn more here.](booking-rooms.md)***</span>
 
-Registration, ***once it opens***, is a multi-step process. Registering itself has three steps and there are additional steps for lodging and travel:
+Registration is a multi-step process. Registering itself has three steps and there are additional steps for lodging and travel:
 1. Check your passport now to verfiy that it will still be valid on the date you travel to Mexico.
-2. Complete and submit [**the registration form**](notyet.md)<!--(https://forms.gle/aMo7Gi15NyQiEvVD7)-->{:target="_blank"} (with your approximate travel dates) as soon as possible.
+2. Complete and submit [**the registration form**](https://docs.google.com/forms/d/e/1FAIpQLSe7DOCfYFWugfpjQYMPHapJHcQVxvuDeXJuMpOHdZkQmOe4Iw/viewform){:target="_blank"}<!--(notyet.md)--> (with your approximate travel dates) as soon as possible.
 3. Send your registration payment (PayPal preferred) as soon as is convenient (especially if you are including a scholarship donation). If paying by check, checks must absolutely be received by no later than January 28th.
 4. Determine how long you'd like to stay.
    * Some people arrive a few days early.
@@ -27,7 +27,7 @@ Registration, ***once it opens***, is a multi-step process. Registering itself h
 
 > Before January 15th, you are considered registered by completing steps 1 and 2.<br>After January 15th, you are not considered registered until we've received your registration payment.
 
-# Full attendance ([register here](notyet.md)<!--(https://forms.gle/aMo7Gi15NyQiEvVD7)-->{:target="_blank"})
+# Full attendance ([register here](https://docs.google.com/forms/d/e/1FAIpQLSe7DOCfYFWugfpjQYMPHapJHcQVxvuDeXJuMpOHdZkQmOe4Iw/viewform){:target="_blank"})<!--(notyet.md)-->
 
 Full attendance registration cost is TBD<!--$225-$350/person as you can afford--> and includes:
 * All morning & evening dance sessions

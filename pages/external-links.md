@@ -9,7 +9,7 @@ search: include
 
 The same links listed in the top navigation menu repeat here:
 
-* [Camp Registration Form](notyet.md)<!--(https://forms.gle/aMo7Gi15NyQiEvVD7)-->{:target="_blank"}
+* [Camp Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSe7DOCfYFWugfpjQYMPHapJHcQVxvuDeXJuMpOHdZkQmOe4Iw/viewform){:target="_blank"}<!--(notyet.md)-->
 * [Travel and Lodging Form](https://docs.google.com/forms/d/e/1FAIpQLSex7cyDs_Xf33rAxqU2S749xG_MB4lMQk3fPvF_p0JkkoKyTg/viewform){:target="_blank"}
 * [Rideshare Spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSZSq4OF3O0hydC8OsEiC3n-gKzCRPGZj7wdRLIrn2qmSydI9kxBq9tinuZeEohARD7pqrylkqyNyrQ/pubhtml?gid=1287951932&single=true){:target="_blank"}
 * [PMDUP Lodging Request Form](https://docs.google.com/forms/d/e/1FAIpQLSct3SrTHl76pMYcZ5z9-eWdLCjCXzf4igqfVk689qA42YuyWA/viewform){:target="_blank"}
