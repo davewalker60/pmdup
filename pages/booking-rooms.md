@@ -11,7 +11,7 @@ search: include
 
 <br>For 2027, the official camp dancing starts the evening of Fri Feb 12 and ends the evening of Thu Feb 18, with the likelihood of pre- and post-camp dancing on the night before and day/night after.
 
-We have 27 rooms of the 30-room Hotel Las Arenas Puerto Morelos for 10 nights (Wed Feb 10 check-in to Sat Feb 20 check-out) and 1 room for 6 nights (Wed Feb 10 check-in to Sat Feb 20 check-out). We will also do our best to reserve rooms for your additional nights before and after, based on the best-guess dates you provide in the lodging request form.
+We have 28 rooms of the 30-room Hotel Las Arenas Puerto Morelos for 10 nights (Wed Feb 10 check-in to Sat Feb 20 check-out) and 1 room for 6 nights (Wed Feb 10 check-in to Sat Feb 20 check-out). We will also do our best to reserve rooms for your additional nights before and after, based on the best-guess dates you provide in the lodging request form.
 
 For more upscale and/or solo rooms, we recommend the Ojo De Agua Kabañas, the brown sargasso brick buildings just over the wall next to the dance circle, (to better control our surroundings during camp) and the Alaska House is available possibly both before and after camp as well.
 
