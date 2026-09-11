@@ -40,12 +40,14 @@ Please express your interest using the **Alaska House** question in the lodging 
 
 ### Ojo De Agua Kabañas pricing
 Are you interested in a more cushy lodging experience during camp? Rooms may be shared or solo (depending on who's interested).
-* Prices on Expedia, etc are better than the group rate they gave us. So, book on your own. In the preference notes / comments section of your reservation, state that you are with the Dances of Universal Peace group and would like to be in the 1st, 2nd, or 3rd kabaña building along the south wall of the property.
+* Prices and cancellation policy on Expedia, etc are better than the group rate the hotel gave us. So, book on your own. In the preference notes / comments section of your reservation, state that you are with the Dances of Universal Peace group and would like to be in the 1st, 2nd, or 3rd kabaña building along the south wall of the property.
 * For whichever nights you'd like. No 10-night reservation needed.
 * 1st floor rooms have 2 queens; 2nd floor 1 king
 * Mini fridge, working TV and AC, but no microwave (so use Las Arenas community kitchen)
 * Upscale (but simple/understated) rooms compared to Las Arenas
 * Photos: [https://kabanas-ojo-de-agua.hoteles-puerto-morelos.com/#photo](https://kabanas-ojo-de-agua.hoteles-puerto-morelos.com/#photo){:target="_blank"}
+
+*Note: for an ocean view, look for rooms in their main hotel, not the kabañas.*
 
 Please express your interest using the **Ojo De Agua Kabañas** question in the lodging request form.
 
